@@ -1,0 +1,29 @@
+{
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_archive": "", 
+  "cm_description": "", 
+  "cm_display_as_alias": "Francois Bodin", 
+  "cm_email": "", 
+  "cm_file_upload_name": "", 
+  "cm_file_upload_type": "", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-22T21:19:55.753000", 
+      "cm_module_uid": "b0743a4044480ead", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "job_title": "", 
+  "name": "Francois Bodin", 
+  "personal_web_page": "", 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.1977.beta"
+  }, 
+  "professional_web_page": ""
+}

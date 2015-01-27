@@ -1,0 +1,29 @@
+{
+  "cm_archive": "", 
+  "personal_web_page": "", 
+  "name": "Mircea Namolaru", 
+  "cm_email": "", 
+  "powered_by": {
+    "version": "1.0.1977.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "cm_file_upload_type": "", 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "cm_description": "", 
+  "cm_display_as_alias": "Mircea Namolaru", 
+  "professional_web_page": "", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-22T21:19:02.376000", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe", 
+      "cm_module_uid": "b0743a4044480ead"
+    }
+  ], 
+  "cm_file_upload_name": "", 
+  "job_title": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Anton Lokhmotov", 
+  "cm_display_as_alias": "Anton Lokhmotov", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2014-06-25T21:42:52.842000", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe", 
+      "cm_module_uid": "b0743a4044480ead"
+    }
+  ], 
+  "powered_by": {
+    "version": "1.0.3121.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }
+}

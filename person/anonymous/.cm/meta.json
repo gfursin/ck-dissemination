@@ -1,0 +1,22 @@
+{
+  "cm_email": "", 
+  "name": "Anonymous", 
+  "url": "", 
+  "powered_by": {
+    "version": "1.0.2015.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "cm_display_as_alias": "Anonymous", 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "admin"
+  }, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2013-09-22T14:31:07.671553", 
+      "cm_module_uid": "b0743a4044480ead"
+    }
+  ], 
+  "organization": ""
+}

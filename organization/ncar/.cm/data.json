@@ -1,0 +1,28 @@
+{
+  "abbreviation": "NCAR", 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_description": "", 
+  "cm_display_as_alias": "NCAR", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2013-03-08T14:01:06.338640", 
+      "cm_module_uid": "3594786b07dc710d", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "country": "USA", 
+  "name": "The National Center for Atmospheric Research", 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.2015.beta"
+  }, 
+  "type": "governmental organization", 
+  "urls": [
+    "http://ncar.ucar.edu"
+  ]
+}

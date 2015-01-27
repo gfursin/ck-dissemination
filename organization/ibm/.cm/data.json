@@ -1,0 +1,31 @@
+{
+  "abbreviation": "IBM", 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_archive": "", 
+  "cm_description": "", 
+  "cm_display_as_alias": "IBM", 
+  "cm_file_upload_name": "", 
+  "cm_file_upload_type": "", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-02T14:25:52.423000", 
+      "cm_module_uid": "3594786b07dc710d", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "country": "", 
+  "name": "", 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.1977.beta"
+  }, 
+  "type": "company", 
+  "urls": [
+    "http://www.ibm.com"
+  ]
+}
