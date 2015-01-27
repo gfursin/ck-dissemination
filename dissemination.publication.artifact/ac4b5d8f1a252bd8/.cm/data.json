@@ -1,0 +1,32 @@
+{
+  "authors": [], 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_classes_uoa": [], 
+  "cm_dependencies": {
+    "classes": []
+  }, 
+  "cm_display_as_alias": "Shared research material to reproduce ADAPT'14 paper 'Autonomous Fault Detection in Self-Healing Systems: Comparing Hidden Markov Models and Artificial Neural Networks'", 
+  "cm_dissemination": {}, 
+  "cm_properties": {}, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2013-12-10T23:48:41.285000", 
+      "cm_module_uid": "876bf92b1409cb46", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "document_urls": [], 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.2318.beta"
+  }, 
+  "authors_plain":"Chris Schneider, Adam Barker, Simon Dobson",
+  "organization_plain":"University of St Andrews, UK",
+  "local_doc": "shared_material.zip", 
+  "related_publications":["6eeb9a481b006da3"]
+}

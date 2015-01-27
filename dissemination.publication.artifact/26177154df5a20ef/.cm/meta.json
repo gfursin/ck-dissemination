@@ -1,0 +1,34 @@
+{
+  "related_publications": [
+    "0e4d46aabcde1b4e"
+  ], 
+  "cm_dependencies": {
+    "classes": []
+  }, 
+  "organization_plain": "Eindhoven University of Technology, Netherlands", 
+  "authors_plain": "Cedric Nugteren, Gert-Jan van den Braak, Henk Corporaal", 
+  "cm_classes_uoa": [], 
+  "cm_properties": {}, 
+  "powered_by": {
+    "version": "1.0.2318.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "cm_display_as_alias": "Shared research material to reproduce ADAPT'14 paper 'Roofline-aware DVFS for GPUs'", 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2013-12-10T23:48:48.878000", 
+      "cm_module_uid": "876bf92b1409cb46", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "authors": [], 
+  "document_urls": [], 
+  "cm_dissemination": {}, 
+  "local_doc": "shared_material.zip"
+}
