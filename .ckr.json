@@ -1,0 +1,11 @@
+{
+  "data_uid": "754e85a102d75042", 
+  "data_name": "CK dissemination", 
+  "dict": {
+    "url": "https://github.com/gfursin/ck-dissemination.git", 
+    "shared": "git", 
+    "sync": "yes"
+  }, 
+  "data_alias": "ck-dissemination", 
+  "data_uoa": "ck-dissemination"
+}
