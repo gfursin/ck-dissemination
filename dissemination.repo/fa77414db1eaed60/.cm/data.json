@@ -1,0 +1,57 @@
+{
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "1999-2006 - EOS", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "end_iso_date": "2006-06-01", 
+  "for": "research on multi-objective program and architecture characterization, optimization and co-design with first experiments on predictive modeling", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Powered by EOS framework [$#cm_d76ac3bb9a3f744c_9f143f5b31500137#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Developed and used in the EU FP5 MHAOTEU project [$#cm_4978a2f58b214af0_90d148caafe7792c#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Funded by [$#cm_c47ad9a552aa7e82_12054470fa5ca33e#$, $#cm_5ae0ce43ceb4d73c_2d941ccdf19040d7#$]"
+    }, 
+    {
+      "bold": "yes", 
+      "italic": "yes", 
+      "note": "Discontinued for [$#cm_4d63887b5cda54aa_d93e4eb1860484b1#$]"
+    }
+  ], 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.1977.beta"
+  }, 
+  "start_iso_date": "1999-02-02", 
+  "title": "In-house collaborative optimization repository", 
+  "type": {
+    "name": "private_repository"
+  }
+}

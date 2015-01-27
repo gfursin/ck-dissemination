@@ -1,0 +1,78 @@
+{
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "2011 - Collective Mind repository", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "end_iso_date": "cur.", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Opened to public in 2013"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Included all past and current semantically connected research artifacts from $#cm_cv_my3#$ research, development and experimentation (hundreds of codelets and benchmarks; thousands of datasets; GCC, LLVM, Open64, PathScale, ICC compiler optimization description; tools and scripts; online tuning plugins; machine learning plugins; adaptive exploration pluigns; graph plotting plugins; data mining plugins; machine learning based meta compiler; MILEPOST GCC, etc"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Connected with Android Collective Mind Node [$#cm_d76ac3bb9a3f744c_c2c4b3caf3027fd6#$] to crowdsource program and architecture characterization and multi-objective auto-tuning (execution time, code size, compilation time, power consumption) using any available Android-based mobile phone, tablet or laptop"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Used for the new publication model [$#cm_77154d189d2e226c_ba9ff465bb24fbb6#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Funded by [$#cm_5ae0ce43ceb4d73c_72d7c56eac47e48d#$, $#cm_c47ad9a552aa7e82_6b7444e0a5d4022a#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Powered by Collective Mind Framework [$#cm_d76ac3bb9a3f744c_bd5c924415bae775#$]"
+    }
+  ], 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.1977.beta"
+  }, 
+  "start_iso_date": "2011-09-01", 
+  "title": "Collective Mind public repository (cM aka cTuning3)", 
+  "to": "start collaborative systematization of analysis, design and optimization of computer systems based on extensible public repositories of knowledge, crowdsourcing, online tuning and machine learning, and to initiate new publication model where all research artifacts are continuously shared, validated and extended by the community", 
+  "type": {
+    "name": "public_repository"
+  }, 
+  "urls": [
+    {
+      "title": "Collective Mind live repository", 
+      "url": "http://c-mind.org/repo"
+    }, 
+    {
+      "title": "Online advice web service to predict optimizations based on features", 
+      "url": "http://c-mind.org/cm/predict_opts"
+    }, 
+    {
+      "title": "Universal auto-tuning and learning pipeline for top-down multi-objective optimization", 
+      "url": "http://c-mind.org/cm/autotuning_pipeline"
+    }
+  ]
+}

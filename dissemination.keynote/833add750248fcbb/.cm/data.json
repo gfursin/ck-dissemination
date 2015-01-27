@@ -1,0 +1,62 @@
+{
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "2013-03 - Keynote in NTU", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "end_iso_date": "", 
+  "funded": "", 
+  "local_docs": [
+    {
+      "file": "flyer_2013_@2hpsc.pdf", 
+      "title": "Conference flyer"
+    }, 
+    {
+      "file": "presentation_fursin_hpsc_2013_fursin1.pdf", 
+      "title": "View presentation 1"
+    }, 
+    {
+      "file": "presentation_fursin_hpsc_2013_fursin2.pdf", 
+      "title": "View presentation 2"
+    }
+  ], 
+  "notes": [], 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.1977.beta"
+  }, 
+  "start_iso_date": "2013-03-27", 
+  "title": "Keynote at HPCS 2013", 
+  "type": {
+    "name": "keynote"
+  }, 
+  "urls": [
+    {
+      "title": "Website", 
+      "url": "http://goo.gl/emTlc"
+    }
+  ], 
+  "where": "NTU, Taipei, Taiwan", 
+  "where_prefix": "in", 
+  "why": "(\"Systematizing tuning of computer systems using crowdsourcing and statistics\")"
+}
