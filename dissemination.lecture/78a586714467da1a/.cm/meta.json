@@ -1,0 +1,47 @@
+{
+  "title": "Preparing and teaching MS course", 
+  "notes": [], 
+  "when": "", 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "", 
+  "powered_by": {
+    "version": "1.0.1977.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "authors": [
+    {
+      "affiliation": "INRIA, France", 
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "place": "Paris South University (France)", 
+  "local_docs": [
+    {
+      "file": "lecture-fursin-adaptive-compilation-2005.pdf", 
+      "title": "Online lecture"
+    }
+  ], 
+  "type": {
+    "name": "lecturer"
+  }, 
+  "why": "on \"Adaptive and Feedback Driven Compilation and Optimization; Machine Learning\"", 
+  "start_iso_date": "2005-10-25"
+}

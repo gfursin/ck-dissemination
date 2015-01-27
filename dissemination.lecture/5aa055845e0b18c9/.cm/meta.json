@@ -1,0 +1,76 @@
+{
+  "title": "Organizing and teaching MS course", 
+  "notes": [], 
+  "when": "", 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "", 
+  "powered_by": {
+    "version": "1.0.1977.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "authors": [
+    {
+      "affiliation": "INRIA, France", 
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "end_iso_date": "2008-11-19", 
+  "place": "Paris South University (France)", 
+  "local_docs": [
+    {
+      "file": "master_m2r.pdf", 
+      "title": "Course overview"
+    }, 
+    {
+      "file": "course_m2r_2008_2009_iterative_compilation.pdf", 
+      "title": "Lecture 1 (Iterative compilation)"
+    }, 
+    {
+      "file": "course_m2r_2008_2009_dynamic_and_ml.pdf", 
+      "title": "Lecture 2 (Online tuning and machine learning)"
+    }, 
+    {
+      "file": "course_m2r_2008_2009_Program Optimizations. ATF vs ISS.pdf", 
+      "title": "Lecture 3 (ATF vs ISS)"
+    }, 
+    {
+      "file": "course_m2r_2008_2009_Program Optimizations. Dependences.pdf", 
+      "title": "Lecture 4 (Dependencies)"
+    }, 
+    {
+      "file": "course_m2r_2008_2009_tile.pdf", 
+      "title": "Lecture 5 (Tiling)"
+    }, 
+    {
+      "file": "course_m2r_2008_2009_Program Optimizations. Fine grained parallelization.pdf", 
+      "title": "Lecture 6 (Fine grained parallelization)"
+    }, 
+    {
+      "file": "course_m2r_2008_2009_Program Optimizations. Coarse grained parallelization.pdf", 
+      "title": "Lecture 7 (Coarse grained parallelization)"
+    }
+  ], 
+  "type": {
+    "name": "lecturer"
+  }, 
+  "why": "on \"Future computing systems\"", 
+  "start_iso_date": "2008-09-29"
+}
