@@ -1,0 +1,119 @@
+{
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }, 
+    {
+      "name": "cc58cd93d4412b9b"
+    }, 
+    {
+      "name": "785a4f3eee3f609d"
+    }, 
+    {
+      "name": "c0b343f7a51cacdb"
+    }
+  ], 
+  "bib": "@article{29db2248aba45e59:b254c18c8794ba29,\n author = {Fursin, Grigori and O'Boyle, Michael F. P. and Temam, Olivier and Watts, Gregory},\n title = {A fast and accurate method for determining a lower bound on execution time},\n journal = {Concurrency: Practice and Experience},\n issue_date = {January 2004},\n volume = {16},\n number = {2-3},\n month = jan,\n year = {2004},\n issn = {1532-0626},\n pages = {271--292},\n numpages = {22},\n url = {http://dx.doi.org/10.1002/cpe.v16:2/3},\n doi = {10.1002/cpe.v16:2/3},\n acmid = {1064459},\n publisher = {John Wiley and Sons Ltd.},\n address = {Chichester, UK},\n keywords = {memory latency analysis, memory performance, optimization tool},\n}\n\n", 
+  "bib_parsed": {
+    "_code": "Fursin2004CPEp271292", 
+    "_type": "article", 
+    "acmid": "1064459", 
+    "address": "Chichester, UK", 
+    "author": [
+      [
+        "", 
+        "Fursin", 
+        "Grigori", 
+        ""
+      ], 
+      [
+        "", 
+        "O'Boyle", 
+        "Michael F. P.", 
+        ""
+      ], 
+      [
+        "", 
+        "Temam", 
+        "Olivier", 
+        ""
+      ], 
+      [
+        "", 
+        "Watts", 
+        "Gregory", 
+        ""
+      ]
+    ], 
+    "doi": "10.1002/cpe.v16:2/3", 
+    "firstpage": "271\u2013292", 
+    "issn": "1532-0626", 
+    "issue_date": "January 2004", 
+    "journal": "Concurrency: Practice and Experience", 
+    "journal_abbrev": "CPE", 
+    "keywords": "memory latency analysis, memory performance, optimization tool", 
+    "lastpage": "", 
+    "month": "January", 
+    "number": "2-3", 
+    "numpages": "22", 
+    "publisher": "John Wiley and Sons Ltd.", 
+    "title": "A fast and accurate method for determining a lower bound on execution time", 
+    "url": "http://dx.doi.org/10.1002/cpe.v16:2/3", 
+    "volume": "16", 
+    "year": "2004"
+  }, 
+  "bib_ref": "cm:29db2248aba45e59:b254c18c8794ba29", 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "A fast and accurate method for determining a lower bound on execution time", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:37:46.946000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "document_urls": [
+    "http://onlinelibrary.wiley.com/doi/10.1002/cpe.774/abstract"
+  ], 
+  "local_bib": "doc.bib", 
+  "local_doc": "doc.pdf", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Concept [$#cm_e84a25bcb528c798_b953dacc9bc49fa8#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Extended version of publication [$#cm_29db2248aba45e59_91c6126884641b59#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Associated public software [$#cm_d76ac3bb9a3f744c_9f143f5b31500137#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Extended in PhD thesis [$#cm_29db2248aba45e59_976aac68c6834af6#$] and DECAN framework [$#cm_29db2248aba45e59_2a45819c829656cc#$]"
+    }
+  ], 
+  "pages": "271-292", 
+  "place": "", 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.1977.beta"
+  }, 
+  "publish_iso_date": "2004-01-01", 
+  "title": "A fast and accurate method for determining a lower bound on execution time", 
+  "type": {
+    "name": "journal", 
+    "peer_reviewed": "yes", 
+    "scope": "international"
+  }, 
+  "when": "January 2004", 
+  "reproducible":"yes",
+  "where": "Concurrency: Practice and Experience, Volume 16, Number 2-3"
+}

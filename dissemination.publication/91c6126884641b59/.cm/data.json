@@ -1,0 +1,105 @@
+{
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }, 
+    {
+      "name": "cc58cd93d4412b9b"
+    }, 
+    {
+      "name": "785a4f3eee3f609d"
+    }, 
+    {
+      "name": "c0b343f7a51cacdb"
+    }
+  ], 
+  "bib": "@inproceedings{29db2248aba45e59:ce29b57b4b628317,\n\n  author =    {Grigori Fursin and Michael O'Boyle and Olivier Temam and Gregory Watts},\n  title =     {Fast and Accurate Evaluation of Memory Performance Upper-Bound},\n  booktitle = {Proceedings of the 9th Workshop on Compilers for Parallel Computers (CPC'2001)},\n  pages =     {163-172},\n  year =      {2001}\n }\n\n", 
+  "bib_parsed": {
+    "_code": "Fursin2001p163", 
+    "_type": "inproceedings", 
+    "author": [
+      [
+        "", 
+        "Fursin", 
+        "Grigori", 
+        ""
+      ], 
+      [
+        "", 
+        "O'Boyle", 
+        "Michael", 
+        ""
+      ], 
+      [
+        "", 
+        "Temam", 
+        "Olivier", 
+        ""
+      ], 
+      [
+        "", 
+        "Watts", 
+        "Gregory", 
+        ""
+      ]
+    ], 
+    "booktitle": "Proceedings of the 9th Workshop on Compilers for Parallel Computers (CPC'2001)", 
+    "firstpage": "163", 
+    "lastpage": "172", 
+    "title": "Fast and Accurate Evaluation of Memory Performance Upper-Bound", 
+    "year": "2001"
+  }, 
+  "bib_ref": "cm:29db2248aba45e59:91c6126884641b59", 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "Fast and Accurate Evaluation of Memory Performance Upper-Bound", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:36:13.919000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:41:07.522000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "local_bib": "doc.bib", 
+  "local_doc": "doc.pdf", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "In this paper $#cm_cv_i2#$ introduced a novel, simple and fast approach to detect program performance anomalies or CPU/memory bounds via semantically non-equivalent assembler patching [$#cm_e84a25bcb528c798_b953dacc9bc49fa8#$]. We add or remove various assembler instructions to convert array accesses to scalars in various ways without preserving the semantics of the code while avoiding code crashing to be able to directly compare original and transformed programs. This technique does not need any slow simulation and proved to be realistic particularly on out-of-order processors where hardware counters can be totally misleading. This technique also advise how to optimize code, i.e. if code is CPU bound, we should focus on ILP optimizations; while if the code is memory bound, we should focus on polyhedral transformations or reduce processor frequency to save power."
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Associated public software [$#cm_d76ac3bb9a3f744c_9f143f5b31500137#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Extended in journal version [$#cm_29db2248aba45e59_b254c18c8794ba29#$], PhD thesis [$#cm_29db2248aba45e59_976aac68c6834af6#$] and DECAN framework [$#cm_29db2248aba45e59_2a45819c829656cc#$]"
+    }
+  ], 
+  "pages": "163-172", 
+  "place": "Edinburgh, UK", 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.1977.beta"
+  }, 
+  "publish_iso_date": "2001-05-01", 
+  "title": "Fast and Accurate Evaluation of Memory Performance Upper-Bound", 
+  "type": {
+    "name": "workshop", 
+    "peer_reviewed": "yes", 
+    "scope": "international"
+  }, 
+  "when": "2001", 
+  "reproducible":"yes",
+  "where": "Proceedings of the 9th Workshop on Compilers for Parallel Computers (CPC)"
+}

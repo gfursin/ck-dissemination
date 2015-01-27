@@ -1,0 +1,59 @@
+{
+  "authors": [
+    {
+      "name": "712c6205df4120b4"
+    }
+  ], 
+  "bib": "@article {29db2248aba45e59:fc31140b1859ba6b,\n   author = {Grigori I. Fursin},\n   title = {Functional integrated circuits with an injection power and an active link on bipolar devices},\n   journal = {Microelectronics},\n   publisher = {Academy of Sciences of USSR},\n   pages = {108-126},\n   volume = {6},\n   issue = {2},\n   year = {1977}\n}\n\n", 
+  "bib_parsed": {
+    "_code": "Fursin1977Mp108", 
+    "_type": "article", 
+    "author": [
+      [
+        "", 
+        "Fursin", 
+        "Grigori I", 
+        ""
+      ]
+    ], 
+    "firstpage": "108", 
+    "issue": "2", 
+    "journal": "Microelectronics", 
+    "journal_abbrev": "M", 
+    "lastpage": "126", 
+    "publisher": "Academy of Sciences of USSR", 
+    "title": "Functional integrated circuits with an injection power and an active link on bipolar devices", 
+    "volume": "6", 
+    "year": "1977"
+  }, 
+  "bib_ref": "cm:29db2248aba45e59:fc31140b1859ba6b", 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "Functional integrated circuits with an injection power and an active link on bipolar devices", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T13:14:04.585000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "local_bib": "doc.bib", 
+  "place": "USSR", 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.1977.beta"
+  }, 
+  "publish_iso_date": "1977-01-01", 
+  "title": "Functional integrated circuits with an injection power and an active link on bipolar devices", 
+  "type": {
+    "name": "journal", 
+    "peer_reviewed": "yes", 
+    "scope": "national"
+  }, 
+  "when": "1977", 
+  "where": "Microelectronics, Volume 6, Issue 2"
+}

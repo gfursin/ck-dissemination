@@ -1,0 +1,88 @@
+{
+  "where": "Proceedings of the 4th International Conference on High Performance Embedded Architectures and Compilers (HiPEAC)", 
+  "title": "Collective Optimization", 
+  "bib": "@inproceedings{29db2248aba45e59:2df284a66bdf5468,\n author = {Fursin, Grigori and Temam, Olivier},\n title = {Collective Optimization},\n booktitle = {Proceedings of the 4th International Conference on High Performance Embedded Architectures and Compilers},\n series = {HiPEAC'09},\n year = {2009},\n isbn = {978-3-540-92989-5},\n location = {Paphos, Cyprus},\n pages = {34--49},\n numpages = {16},\n url = {http://dx.doi.org/10.1007/978-3-540-92990-1_5},\n doi = {10.1007/978-3-540-92990-1_5},\n acmid = {1505823},\n publisher = {Springer-Verlag},\n address = {Berlin, Heidelberg},\n}\n\n", 
+  "notes": [
+    {
+      "note": "Implements concept [$#cm_e84a25bcb528c798_cbd09ece363c9f84#$]", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Considerably extended in journal version [$#cm_29db2248aba45e59_530e5f456ea259de#$]", 
+      "bold": "yes", 
+      "italic": "yes"
+    }
+  ], 
+  "acceptance": "acceptance rate: 28$#cm_cv_percent#$ (27/97)", 
+  "when": "January 2009", 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "reproducible": "yes", 
+  "local_bib": "doc.bib", 
+  "cm_display_as_alias": "Collective Optimization", 
+  "powered_by": {
+    "version": "1.0.1977.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:38:08.799000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "bib_parsed": {
+    "numpages": "16", 
+    "publisher": "Springer-Verlag", 
+    "_type": "inproceedings", 
+    "doi": "10.1007/978-3-540-92990-1_5", 
+    "isbn": "978-3-540-92989-5", 
+    "author": [
+      [
+        "", 
+        "Fursin", 
+        "Grigori", 
+        ""
+      ], 
+      [
+        "", 
+        "Temam", 
+        "Olivier", 
+        ""
+      ]
+    ], 
+    "url": "http://dx.doi.org/10.1007/978-3-540-92990-1_5", 
+    "series": "HiPEAC'09", 
+    "booktitle": "Proceedings of the 4th International Conference on High Performance Embedded Architectures and Compilers", 
+    "acmid": "1505823", 
+    "firstpage": "34–49", 
+    "_code": "Fursin2009p3449", 
+    "location": "Paphos, Cyprus", 
+    "address": "Berlin, Heidelberg", 
+    "year": "2009", 
+    "title": "Collective Optimization", 
+    "lastpage": ""
+  }, 
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }, 
+    {
+      "name": "785a4f3eee3f609d"
+    }
+  ], 
+  "place": "Paphos, Cyprus", 
+  "bib_ref": "cm:29db2248aba45e59:2df284a66bdf5468", 
+  "publish_iso_date": "2009-01-01", 
+  "type": {
+    "peer_reviewed": "yes", 
+    "name": "conference", 
+    "scope": "international"
+  }, 
+  "pages": "34-49", 
+  "local_doc": "doc.pdf"
+}

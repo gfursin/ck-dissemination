@@ -1,0 +1,136 @@
+{
+  "acceptance": "acceptance rate: 20$#cm_cv_percent#$ (41/204)", 
+  "authors": [
+    {
+      "name": "c0380c3aa332dd50"
+    }, 
+    {
+      "name": "aed869704d00bf51"
+    }, 
+    {
+      "name": "ae34b2b854cb5d11"
+    }, 
+    {
+      "name": "0728a400aa1c86fe"
+    }, 
+    {
+      "name": "0ff539f838a49009"
+    }, 
+    {
+      "name": "785a4f3eee3f609d"
+    }, 
+    {
+      "name": "3963949348f2591d"
+    }
+  ], 
+  "bib": "@inproceedings{29db2248aba45e59:dabab2e9ff26c745,\n author = {Chen, Yang and Huang, Yuanjie and Eeckhout, Lieven and Fursin, Grigori and Peng, Liang and Temam, Olivier and Wu, Chengyong},\n title = {Evaluating iterative optimization across 1000 datasets},\n booktitle = {Proceedings of the 2010 ACM SIGPLAN conference on Programming language design and implementation},\n series = {PLDI'10},\n year = {2010},\n isbn = {978-1-4503-0019-3},\n location = {Toronto, Ontario, Canada},\n pages = {448--459},\n numpages = {12},\n url = {http://doi.acm.org/10.1145/1806596.1806647},\n doi = {10.1145/1806596.1806647},\n acmid = {1806647},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {benchmarking, compiler optimization, iterative optimization},\n}\n\n", 
+  "bib_parsed": {
+    "_code": "Chen2010p448459", 
+    "_type": "inproceedings", 
+    "acmid": "1806647", 
+    "address": "New York, NY, USA", 
+    "author": [
+      [
+        "", 
+        "Chen", 
+        "Yang", 
+        ""
+      ], 
+      [
+        "", 
+        "Huang", 
+        "Yuanjie", 
+        ""
+      ], 
+      [
+        "", 
+        "Eeckhout", 
+        "Lieven", 
+        ""
+      ], 
+      [
+        "", 
+        "Fursin", 
+        "Grigori", 
+        ""
+      ], 
+      [
+        "", 
+        "Peng", 
+        "Liang", 
+        ""
+      ], 
+      [
+        "", 
+        "Temam", 
+        "Olivier", 
+        ""
+      ], 
+      [
+        "", 
+        "Wu", 
+        "Chengyong", 
+        ""
+      ]
+    ], 
+    "booktitle": "Proceedings of the 2010 ACM SIGPLAN conference on Programming language design and implementation", 
+    "doi": "10.1145/1806596.1806647", 
+    "firstpage": "448\u2013459", 
+    "isbn": "978-1-4503-0019-3", 
+    "keywords": "benchmarking, compiler optimization, iterative optimization", 
+    "lastpage": "", 
+    "location": "Toronto, Ontario, Canada", 
+    "numpages": "12", 
+    "publisher": "ACM", 
+    "series": "PLDI'10", 
+    "title": "Evaluating iterative optimization across 1000 datasets", 
+    "url": "http://doi.acm.org/10.1145/1806596.1806647", 
+    "year": "2010"
+  }, 
+  "bib_ref": "cm:29db2248aba45e59:dabab2e9ff26c745", 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "Evaluating iterative optimization across 1000 datasets", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T13:07:06.569000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "document_urls": [
+    "http://doi.acm.org/10.1145/1806596.1806647"
+  ], 
+  "local_bib": "doc.bib", 
+  "local_doc": "doc.pdf", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Extension of [$#cm_29db2248aba45e59_404c91542f38bd58#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Being added to public repository of knowledge [$#cm_4d63887b5cda54aa_4d4fbc8d3ae7e75c#$]"
+    }
+  ], 
+  "pages": "448-459", 
+  "place": "Toronto, Canada", 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.1977.beta"
+  }, 
+  "publish_iso_date": "2010-05-01", 
+  "title": "Evaluating iterative optimization across 1000 datasets", 
+  "type": {
+    "name": "conference", 
+    "peer_reviewed": "yes", 
+    "scope": "international"
+  }, 
+  "when": "June 2010", 
+  "reproducible":"yes",
+  "where": "Proceedings of the 2010 ACM SIGPLAN conference on Programming language design and implementation (PLDI)"
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Collective optimization: A practical collaborative approach", 
+  "when": "December 2010", 
+  "notes": [
+    {
+      "note": "Implements concept [$#cm_e84a25bcb528c798_cbd09ece363c9f84#$]", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Award [$#cm_5ae0ce43ceb4d73c_72d7c56eac47e48d#$]", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Extended paper [$#cm_29db2248aba45e59_2df284a66bdf5468#$]", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "All benchmarks, datasets, tools, models and experimental results have been released in cTuning public optimization repository of knowledge [$#cm_4d63887b5cda54aa_122a0cb1e6ff9fc1#$] for collaborative validation and extension!", 
+      "bold": "yes", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Continues in [$#cm_e84a25bcb528c798_94f7fafabf0baa0b#$]", 
+      "bold": "yes", 
+      "italic": "yes"
+    }
+  ], 
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }, 
+    {
+      "name": "785a4f3eee3f609d"
+    }
+  ], 
+  "bib": "@article{29db2248aba45e59:530e5f456ea259de,\n author = {Fursin, Grigori and Temam, Olivier},\n title = {Collective optimization: A practical collaborative approach},\n journal = {ACM Transactions on Architecture and Code Optimization (TACO)},\n issue_date = {December 2010},\n volume = {7},\n number = {4},\n month = dec,\n year = {2010},\n issn = {1544-3566},\n pages = {20:1--20:29},\n articleno = {20},\n numpages = {29},\n url = {http://doi.acm.org/10.1145/1880043.1880047},\n doi = {10.1145/1880043.1880047},\n acmid = {1880047},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {Collective optimization, adaptive compiler, collective optimization database, continuous optimization, function cloning, iterative compilation, multiple datasets, program characterization, program reaction to optimization, runtime adaptation, self-tuning computing systems, statistical optimization},\n}\n\n", 
+  "powered_by": {
+    "version": "1.0.1977.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "where": "ACM Transactions on Architecture and Code Optimization (TACO), Volume 7, Number 4", 
+  "local_bib": "doc.bib", 
+  "cm_display_as_alias": "Collective optimization: A practical collaborative approach", 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:38:25.867000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "bib_parsed": {
+    "issn": "1544-3566", 
+    "number": "4", 
+    "month": "December", 
+    "year": "2010", 
+    "keywords": "Collective optimization, adaptive compiler, collective optimization database, continuous optimization, function cloning, iterative compilation, multiple datasets, program characterization, program reaction to optimization, runtime adaptation, self-tuning computing systems, statistical optimization", 
+    "issue_date": "December 2010", 
+    "author": [
+      [
+        "", 
+        "Fursin", 
+        "Grigori", 
+        ""
+      ], 
+      [
+        "", 
+        "Temam", 
+        "Olivier", 
+        ""
+      ]
+    ], 
+    "acmid": "1880047", 
+    "firstpage": "20:1–20:29", 
+    "_code": "Fursin2010ATACOp2012029", 
+    "articleno": "20", 
+    "numpages": "29", 
+    "_type": "article", 
+    "journal": "ACM Transactions on Architecture and Code Optimization (TACO)", 
+    "volume": "7", 
+    "lastpage": "", 
+    "address": "New York, NY, USA", 
+    "publisher": "ACM", 
+    "journal_abbrev": "ATACO", 
+    "doi": "10.1145/1880043.1880047", 
+    "url": "http://doi.acm.org/10.1145/1880043.1880047", 
+    "title": "Collective optimization: A practical collaborative approach"
+  }, 
+  "document_urls": [
+    "http://dx.doi.org/10.1145/1880043.1880047"
+  ], 
+  "bib_ref": "cm:29db2248aba45e59:530e5f456ea259de", 
+  "publish_iso_date": "2010-12-01", 
+  "type": {
+    "peer_reviewed": "yes", 
+    "name": "journal", 
+    "scope": "international"
+  }, 
+  "pages": "20:1-20:29", 
+  "local_doc": "doc.pdf"
+}

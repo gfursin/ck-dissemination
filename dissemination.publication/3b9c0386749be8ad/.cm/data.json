@@ -1,0 +1,127 @@
+{
+  "acceptance": "acceptance rate=28$#cm_cv_percent#$ (27/97)", 
+  "authors": [
+    {
+      "name": "5ef70724d42b8a14"
+    }, 
+    {
+      "name": "358f4242db8b3bf2"
+    }, 
+    {
+      "name": "8aabc76f483d941d"
+    }, 
+    {
+      "name": "1a905d99c4d4cb55"
+    }, 
+    {
+      "name": "0728a400aa1c86fe"
+    }, 
+    {
+      "name": "83ae74c63a2c36fc"
+    }
+  ], 
+  "bib": "@inproceedings{29db2248aba45e59:3b9c0386749be8ad,\n author = {Jim{\\'e}nez, V\\'{\\i}ctor J. and Vilanova, Llu\\'{\\i}s and Gelado, Isaac and Gil, Marisa and Fursin, Grigori and Navarro, Nacho},\n title = {Predictive Runtime Code Scheduling for Heterogeneous Architectures},\n booktitle = {Proceedings of the 4th International Conference on High Performance Embedded Architectures and Compilers},\n series = {HiPEAC '09},\n year = {2009},\n isbn = {978-3-540-92989-5},\n location = {Paphos, Cyprus},\n pages = {19--33},\n numpages = {15},\n url = {http://dx.doi.org/10.1007/978-3-540-92990-1_4},\n doi = {10.1007/978-3-540-92990-1_4},\n acmid = {1505822},\n publisher = {Springer-Verlag},\n address = {Berlin, Heidelberg},\n}\n\n", 
+  "bib_parsed": {
+    "_code": "Jimenez2009p1933", 
+    "_type": "inproceedings", 
+    "acmid": "1505822", 
+    "address": "Berlin, Heidelberg", 
+    "author": [
+      [
+        "", 
+        "Jim\u00e9nez", 
+        "V\u00edctor J.", 
+        ""
+      ], 
+      [
+        "", 
+        "Vilanova", 
+        "Llu\u00eds", 
+        ""
+      ], 
+      [
+        "", 
+        "Gelado", 
+        "Isaac", 
+        ""
+      ], 
+      [
+        "", 
+        "Gil", 
+        "Marisa", 
+        ""
+      ], 
+      [
+        "", 
+        "Fursin", 
+        "Grigori", 
+        ""
+      ], 
+      [
+        "", 
+        "Navarro", 
+        "Nacho", 
+        ""
+      ]
+    ], 
+    "booktitle": "Proceedings of the 4th International Conference on High Performance Embedded Architectures and Compilers", 
+    "doi": "10.1007/978-3-540-92990-1_4", 
+    "firstpage": "19\u201333", 
+    "isbn": "978-3-540-92989-5", 
+    "lastpage": "", 
+    "location": "Paphos, Cyprus", 
+    "numpages": "15", 
+    "publisher": "Springer-Verlag", 
+    "series": "HiPEAC '09", 
+    "title": "Predictive Runtime Code Scheduling for Heterogeneous Architectures", 
+    "url": "http://dx.doi.org/10.1007/978-3-540-92990-1_4", 
+    "year": "2009"
+  }, 
+  "bib_ref": "cm:29db2248aba45e59:3b9c0386749be8ad", 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "Predictive Runtime Code Scheduling for Heterogeneous Architectures", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:40:42.337000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "local_bib": "doc.bib", 
+  "local_doc": "doc.pdf", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "$#cm_cv_i2#$ initiated collaborative HiPEAC project and obtained funding [$#cm_c47ad9a552aa7e82_34164ee49ffba5de#$] to extend [$#cm_29db2248aba45e59_5e16c10fa43f8bb4#$, $#cm_e84a25bcb528c798_b085ae81345e4452#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Similar approaches for gluing/adapting applications for heterogeneous architectures are now used in Intel's Qilin and in CAPS Entreprise's HMPP frameworks"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Being extended in [$#cm_29db2248aba45e59_1943b3f46fabaee4#$, $#cm_e84a25bcb528c798_94f7fafabf0baa0b#$]"
+    }
+  ], 
+  "pages": "19-33", 
+  "place": "Paphos, Cyprus", 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.1977.beta"
+  }, 
+  "publish_iso_date": "2009-01-01", 
+  "title": "Predictive Runtime Code Scheduling for Heterogeneous Architectures", 
+  "type": {
+    "name": "conference", 
+    "peer_reviewed": "yes", 
+    "scope": "international"
+  }, 
+  "when": "January 2009", 
+  "reproducible":"yes",
+  "where": "Proceedings of the 4th International Conference on High Performance Embedded Architectures and Compilers (HiPEAC)"
+}

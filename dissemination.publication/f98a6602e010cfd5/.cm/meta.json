@@ -1,0 +1,60 @@
+{
+  "cm_archive": "", 
+  "type": {
+    "peer_reviewed": "yes", 
+    "name": "workshop", 
+    "scope": "international"
+  }, 
+  "language": "English", 
+  "cm_rank": 0, 
+  "title": "Crowdtuning: systematizing auto-tuning using predictive modeling and crowdsourcing", 
+  "when": "September 2013", 
+  "publish_iso_date": "2013-09-15", 
+  "powered_by": {
+    "version": "1.0.1977.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "bib": "", 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "cm_description": "Collective Mind introduction and long-term vision", 
+  "local_bib": "doc.bib", 
+  "place": "Munich, Germany", 
+  "document_urls": [
+    "http://www.iospress.nl/book/parallel-computing-accelerating-computational-science-and-engineering-cse", 
+    "http://www.ebooks.iospress.nl/volume/parallel-computing-accelerating-computational-science-and-engineering-cse"
+  ], 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-25T18:18:14.691000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "authors": [
+    {
+      "organization": [
+        "4aa6d3084fe08c03", 
+        "d623dd74a54aa7ab", 
+        "53c541fc8d6c7d86"
+      ], 
+      "name": "aadbdca8d7ac43ff"
+    }, 
+    {
+      "organization": [
+        "4aa6d3084fe08c03", 
+        "d623dd74a54aa7ab"
+      ], 
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "reproducible": "yes", 
+  "title_orig": "Crowdtuning: systematizing auto-tuning using predictive modeling and crowdsourcing", 
+  "bib_ref": "cm:29db2248aba45e59:f98a6602e010cfd5", 
+  "where": "Proceedings of the Application Autotuning for HPC mini-symposium co-located with PARCO 2013", 
+  "cm_display_as_alias": "Crowdtuning: systematizing auto-tuning using predictive modeling and crowdsourcing"
+}

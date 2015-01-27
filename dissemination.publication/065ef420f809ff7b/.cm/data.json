@@ -1,0 +1,95 @@
+{
+  "authors": [], 
+  "bib_ref": "cm:29db2248aba45e59:065ef420f809ff7b", 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "World's First Intelligent, Open Source Compiler Provides Automated Advice on Software Code Optimization", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T13:49:55.207000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:41:41.952000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "document_urls": [
+    "http://www-03.ibm.com/press/us/en/pressrelease/27874.wss"
+  ], 
+  "local_bib": "doc.bib", 
+  "place": "Haifa, Israel and Armonk, NY, USA", 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.1977.beta"
+  }, 
+  "publish_iso_date": "2009-06-01", 
+  "related_people": [
+    {
+      "name": "0728a400aa1c86fe"
+    }, 
+    {
+      "name": "9ed8ac14830b7849"
+    }, 
+    {
+      "name": "aadbdca8d7ac43ff"
+    }, 
+    {
+      "name": "ac1449f95f88bd34"
+    }, 
+    {
+      "name": "785a4f3eee3f609d"
+    }, 
+    {
+      "name": "6020e15763149288"
+    }, 
+    {
+      "name": "7dcb8ad3d12231b3"
+    }, 
+    {
+      "name": "5d754afaba3be88c"
+    }, 
+    {
+      "name": "390d14b83b7d7cba"
+    }, 
+    {
+      "name": "817b443be8507751"
+    }, 
+    {
+      "name": "d061f7d22c1c44cc"
+    }, 
+    {
+      "name": "dccc84c77add5f08"
+    }, 
+    {
+      "name": "cbba52ad400f8466"
+    }, 
+    {
+      "name": "372f04e6c991a4a9"
+    }, 
+    {
+      "name": "1707e0868434377a"
+    }, 
+    {
+      "name": "e3346a34a3688395"
+    }, 
+    {
+      "name": "cc58cd93d4412b9b"
+    }
+  ], 
+  "title": "World's First Intelligent, Open Source Compiler Provides Automated Advice on Software Code Optimization (IBM Research and European Union Provide Software Developers with Performance Gains and Faster Time-To-Market)", 
+  "type": {
+    "name": "press_release", 
+    "peer_reviewed": "no", 
+    "scope": "international"
+  }, 
+  "when": "June 2009", 
+  "where": "IBM MILEPOST project press release"
+}

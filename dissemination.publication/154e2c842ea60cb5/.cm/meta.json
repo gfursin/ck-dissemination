@@ -1,0 +1,76 @@
+{
+  "title": "Measurement of characteristics of neural elements with the aid of personal computer", 
+  "when": "1997", 
+  "notes": [
+    {
+      "note": "Concept [$#cm_e84a25bcb528c798_10afe24ba694c479#$, $#cm_e84a25bcb528c798_a514226a97bd442e#$]", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Associated public software [$#cm_d76ac3bb9a3f744c_c9058860d64c22bd#$, $#cm_d76ac3bb9a3f744c_a8e290024a684917#$]", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Associated hardware [$#cm_340819bddbae9666_e82d6e4553b3985c#$]", 
+      "italic": "yes"
+    }
+  ], 
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "bib": "@inproceedings{29db2248aba45e59:3f9aebe7c3e48c2b,\n\n  author =    {Grigori Fursin},\n  title =     {Measurement of characteristics of neural elements with the aid of personal computer},\n  booktitle = {Proceedings of the national conference on physical processes in devices of electronic and laser engineering at Moscow Institute of Physics and Technology},\n  pages =     {20-28},\n  location = {Moscow, Russia},\n  year =      {1997}\n}\n\n", 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "where": "Proceedings of the national conference on physical processes in devices of electronic and laser engineering at Moscow Institute of Physics and Technology", 
+  "local_bib": "doc.bib", 
+  "cm_display_as_alias": "Measurement of characteristics of neural elements with the aid of personal computer", 
+  "powered_by": {
+    "version": "1.0.1977.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:38:54.007000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:41:31.183000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "bib_parsed": {
+    "_type": "inproceedings", 
+    "lastpage": "28", 
+    "booktitle": "Proceedings of the national conference on physical processes in devices of electronic and laser engineering at Moscow Institute of Physics and Technology", 
+    "author": [
+      [
+        "", 
+        "Fursin", 
+        "Grigori", 
+        ""
+      ]
+    ], 
+    "firstpage": "20", 
+    "_code": "Fursin1997p20", 
+    "location": "Moscow, Russia", 
+    "year": "1997", 
+    "title": "Measurement of characteristics of neural elements with the aid of personal computer"
+  }, 
+  "place": "Moscow, Russia", 
+  "bib_ref": "cm:29db2248aba45e59:154e2c842ea60cb5", 
+  "type": {
+    "peer_reviewed": "yes", 
+    "name": "conference", 
+    "scope": "national"
+  }, 
+  "publish_iso_date": "1997-06-01"
+}

@@ -1,0 +1,45 @@
+{
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "bib_ref": "cm:29db2248aba45e59:60ac26514a4499ed", 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "Poster - cTuning.org: Collaborative initiative to create open-source repository and tools to share and reuse knowledge about designs and optimizations of computer systems", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "local_bib": "doc.bib", 
+  "local_doc": "doc.pdf", 
+  "place": "Paris, France", 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.1977.beta"
+  }, 
+  "publish_iso_date": "2012-01-25", 
+  "title": "Poster: cTuning.org: Collaborative initiative to create open-source repository and tools to share and reuse knowledge about designs and optimizations of computer systems", 
+  "type": {
+    "name": "poster", 
+    "peer_reviewed": "yes", 
+    "scope": "international"
+  }, 
+  "when": "January 2012", 
+  "reproducible":"yes",
+  "where": "HiPEAC conference poster session"
+}

@@ -1,0 +1,217 @@
+{
+  "title": "MILEPOST GCC: machine learning based research compiler", 
+  "when": "June 2008", 
+  "notes": [
+    {
+      "note": "Implements concept [$#cm_e84a25bcb528c798_4144fde47d68ae99#$]", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Funded by EU MILEPOST project [$#cm_4978a2f58b214af0_eafac77e4406a4b5#$, $#cm_c47ad9a552aa7e82_fae723f1d4b7dab1#$]", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Considerably extended in journal version [$#cm_29db2248aba45e59_a31e374796869125#$]", 
+      "bold": "yes", 
+      "italic": "yes"
+    }
+  ], 
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }, 
+    {
+      "name": "de445ffdc94d43c2"
+    }, 
+    {
+      "name": "785a4f3eee3f609d"
+    }, 
+    {
+      "name": "6020e15763149288"
+    }, 
+    {
+      "name": "7dcb8ad3d12231b3"
+    }, 
+    {
+      "name": "390d14b83b7d7cba"
+    }, 
+    {
+      "name": "5d754afaba3be88c"
+    }, 
+    {
+      "name": "dccc84c77add5f08"
+    }, 
+    {
+      "name": "cbba52ad400f8466"
+    }, 
+    {
+      "name": "817b443be8507751"
+    }, 
+    {
+      "name": "d061f7d22c1c44cc"
+    }, 
+    {
+      "name": "372f04e6c991a4a9"
+    }, 
+    {
+      "name": "1707e0868434377a"
+    }, 
+    {
+      "name": "1ae45caac9f52386"
+    }, 
+    {
+      "name": "270d44280c42bd92"
+    }, 
+    {
+      "name": "cc58cd93d4412b9b"
+    }
+  ], 
+  "bib": "@inproceedings{29db2248aba45e59:3b92bf0a5509afac,\n\n  author =    {Grigori Fursin and Cupertino Miranda and Olivier Temam and Mircea Namolaru and Elad Yom-Tov and Ayal Zaks and Bilha Mendelson and Phil Barnard and Elton Ashton and Eric Courtois and Francois Bodin and Edwin Bonilla and John Thomson and Hugh Leather and Chris Williams and Michael O'Boyle},\n  title =     {MILEPOST GCC: machine learning based research compiler},\n  booktitle = {Proceedings of the GCC Developers' Summit},\n  year =      {2008},\n  month =     {June},\n  location =  {Ottawa, Canada},\n  keys =      {http://www.gccsummit.org/2008}\n}\n\n", 
+  "powered_by": {
+    "version": "1.0.1977.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "document_urls": [
+    "http://hal.inria.fr/docs/00/29/47/04/PDF/fmtp2008.pdf"
+  ], 
+  "where": "Proceedings of the GCC Developers' Summit", 
+  "local_bib": "doc.bib", 
+  "cm_display_as_alias": "MILEPOST GCC: machine learning based research compiler", 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:35:01.007000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:40:58.572000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "bib_parsed": {
+    "_type": "inproceedings", 
+    "author": [
+      [
+        "", 
+        "Fursin", 
+        "Grigori", 
+        ""
+      ], 
+      [
+        "", 
+        "Miranda", 
+        "Cupertino", 
+        ""
+      ], 
+      [
+        "", 
+        "Temam", 
+        "Olivier", 
+        ""
+      ], 
+      [
+        "", 
+        "Namolaru", 
+        "Mircea", 
+        ""
+      ], 
+      [
+        "", 
+        "Yom-Tov", 
+        "Elad", 
+        ""
+      ], 
+      [
+        "", 
+        "Zaks", 
+        "Ayal", 
+        ""
+      ], 
+      [
+        "", 
+        "Mendelson", 
+        "Bilha", 
+        ""
+      ], 
+      [
+        "", 
+        "Barnard", 
+        "Phil", 
+        ""
+      ], 
+      [
+        "", 
+        "Ashton", 
+        "Elton", 
+        ""
+      ], 
+      [
+        "", 
+        "Courtois", 
+        "Eric", 
+        ""
+      ], 
+      [
+        "", 
+        "Bodin", 
+        "Francois", 
+        ""
+      ], 
+      [
+        "", 
+        "Bonilla", 
+        "Edwin", 
+        ""
+      ], 
+      [
+        "", 
+        "Thomson", 
+        "John", 
+        ""
+      ], 
+      [
+        "", 
+        "Leather", 
+        "Hugh", 
+        ""
+      ], 
+      [
+        "", 
+        "Williams", 
+        "Chris", 
+        ""
+      ], 
+      [
+        "", 
+        "O'Boyle", 
+        "Michael", 
+        ""
+      ]
+    ], 
+    "keys": "http://www.gccsummit.org/2008", 
+    "booktitle": "Proceedings of the GCC Developers' Summit", 
+    "title": "MILEPOST GCC: machine learning based research compiler", 
+    "month": "June", 
+    "_code": "Fursin2008", 
+    "location": "Ottawa, Canada", 
+    "year": "2008"
+  }, 
+  "reproducible": "yes", 
+  "place": "Ottawa, Canada", 
+  "bib_ref": "cm:29db2248aba45e59:a43178b20901ba15", 
+  "type": {
+    "peer_reviewed": "yes", 
+    "name": "workshop", 
+    "scope": "international"
+  }, 
+  "publish_iso_date": "2008-07-01", 
+  "local_doc": "doc.pdf"
+}

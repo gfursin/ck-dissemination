@@ -1,0 +1,59 @@
+{
+  "title": "Modulation transistors - promising elements of functional devices", 
+  "when": "1978", 
+  "publish_iso_date": "1978-01-01", 
+  "authors": [
+    {
+      "name": "712c6205df4120b4"
+    }
+  ], 
+  "bib": "@article {29db2248aba45e59:2c2234eada2d3a27,\n   author = {Grigori I. Fursin},\n   title = {Modulation transistors - promising elements of functional devices},\n   journal = {Electronics Industry},\n   address = {USSR},\n   pages = {6-22},\n   volume = {3},\n   year = {1978}\n}\n\n", 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "where": "Electronics Industry, Volume 3", 
+  "local_bib": "doc.bib", 
+  "cm_display_as_alias": "Modulation transistors - promising elements of functional devices", 
+  "powered_by": {
+    "version": "1.0.1977.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T13:14:15.389000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "bib_parsed": {
+    "_type": "article", 
+    "author": [
+      [
+        "", 
+        "Fursin", 
+        "Grigori I", 
+        ""
+      ]
+    ], 
+    "journal": "Electronics Industry", 
+    "title": "Modulation transistors - promising elements of functional devices", 
+    "journal_abbrev": "EI", 
+    "firstpage": "6", 
+    "volume": "3", 
+    "_code": "Fursin1978EIp6", 
+    "year": "1978", 
+    "address": "USSR", 
+    "lastpage": "22"
+  }, 
+  "place": "USSR", 
+  "bib_ref": "cm:29db2248aba45e59:2c2234eada2d3a27", 
+  "type": {
+    "peer_reviewed": "yes", 
+    "name": "journal", 
+    "scope": "national"
+  }, 
+  "pages": "6-22"
+}

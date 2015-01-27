@@ -1,0 +1,99 @@
+{
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "bib": "@inproceedings{29db2248aba45e59:95137de9864bf4ac,\n\n  author =    {Grigori Fursin},\n  title =     {Collective Tuning Initiative: automating and accelerating development and optimization of computing systems},\n  booktitle = {Proceedings of the GCC Developers' Summit},\n  year =      {2009},\n  month =     {June},\n  location =  {Montreal, Canada},\n  keys =      {http://www.gccsummit.org/2009}\n}\n\n", 
+  "bib_parsed": {
+    "_code": "Fursin2009", 
+    "_type": "inproceedings", 
+    "author": [
+      [
+        "", 
+        "Fursin", 
+        "Grigori", 
+        ""
+      ]
+    ], 
+    "booktitle": "Proceedings of the GCC Developers' Summit", 
+    "keys": "http://www.gccsummit.org/2009", 
+    "location": "Montreal, Canada", 
+    "month": "June", 
+    "title": "Collective Tuning Initiative: automating and accelerating development and optimization of computing systems", 
+    "year": "2009"
+  }, 
+  "bib_ref": "cm:29db2248aba45e59:f98a6602e010cfd5", 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "Collective Tuning Initiative: automating and accelerating development and optimization of computing systems", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T13:49:55.207000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:41:41.952000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "document_urls": [
+    "http://hal.archives-ouvertes.fr/docs/00/43/60/29/PDF/fursin.pdf"
+  ], 
+  "local_bib": "doc.bib", 
+  "local_doc": "doc.pdf", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Introduced concept of crowd-tuning using public repositories of knowledge, auto-tuning, machine learning and crowd-sourcing, and new publication model where results are continuously validated and extended by the community [$#cm_e84a25bcb528c798_cbd09ece363c9f84#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Award [$#cm_5ae0ce43ceb4d73c_72d7c56eac47e48d#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "MILEPOST GCC software [$#cm_d76ac3bb9a3f744c_38aa288519b38bf7#$]; most of technology is now available in mainline GCC and is being added to major commercial compilers"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "cTuning CC software [$#cm_d76ac3bb9a3f744c_005a61df9b4a4698#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "cTuning public optimization repository of knowledge [$#cm_4d63887b5cda54aa_122a0cb1e6ff9fc1#$]"
+    }, 
+    {
+      "bold": "yes", 
+      "italic": "yes", 
+      "note": "All benchmarks, datasets, tools, models and experimental results have been released to public for collaborative validation and extension! See our new research and publication proposal [$#cm_29db2248aba45e59_40a4b58adfb594a8#$]!"
+    }, 
+    {
+      "bold": "yes", 
+      "italic": "yes", 
+      "note": "Continues in [$#cm_e84a25bcb528c798_94f7fafabf0baa0b#$, $#cm_29db2248aba45e59_1943b3f46fabaee4#$, $#cm_29db2248aba45e59_6f40bc99c4f7df58#$]"
+    }
+  ], 
+  "place": "Montreal, Canada", 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.1977.beta"
+  }, 
+  "publish_iso_date": "2009-06-01", 
+  "title": "Collective Tuning Initiative: automating and accelerating development and optimization of computing systems", 
+  "type": {
+    "name": "workshop", 
+    "peer_reviewed": "yes", 
+    "scope": "international"
+  }, 
+  "when": "June 2009", 
+  "reproducible":"yes",
+  "where": "Proceedings of the GCC Developers' Summit"
+}

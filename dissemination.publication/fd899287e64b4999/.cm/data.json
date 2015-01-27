@@ -1,0 +1,111 @@
+{
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }, 
+    {
+      "name": "e58fbedc23c45278"
+    }, 
+    {
+      "name": "cc58cd93d4412b9b"
+    }, 
+    {
+      "name": "785a4f3eee3f609d"
+    }
+  ], 
+  "bib": "@incollection{29db2248aba45e59:fd899287e64b4999,\n author = {Fursin, Grigori and Cohen, Albert and O'Boyle, Michael F. P. and Temam, Olivier},\n title = {Quick and Practical Run-Time Evaluation of Multiple Program Optimizations},\n journal = {Transactions on High-Performance Embedded Architectures and Compilers},\n editor = {Stenstr\\\"{o}m, Per},\n year = {2006},\n isbn = {978-3-540-71527-6},\n pages = {13--31},\n numpages = {20},\n url = {http://dx.doi.org/10.1007/978-3-540-71528-3_4},\n doi = {10.1007/978-3-540-71528-3_4},\n acmid = {1506109},\n publisher = {Springer-Verlag},\n address = {Berlin, Heidelberg},\n}\n\n", 
+  "bib_parsed": {
+    "_code": "Fursin2006THEAC_QAPp1331", 
+    "_type": "incollection", 
+    "acmid": "1506109", 
+    "address": "Berlin, Heidelberg", 
+    "author": [
+      [
+        "", 
+        "Fursin", 
+        "Grigori", 
+        ""
+      ], 
+      [
+        "", 
+        "Cohen", 
+        "Albert", 
+        ""
+      ], 
+      [
+        "", 
+        "O'Boyle", 
+        "Michael F. P.", 
+        ""
+      ], 
+      [
+        "", 
+        "Temam", 
+        "Olivier", 
+        ""
+      ]
+    ], 
+    "doi": "10.1007/978-3-540-71528-3_4", 
+    "editor": [
+      [
+        "", 
+        "Stenstr\u00f6m", 
+        "Per", 
+        ""
+      ]
+    ], 
+    "firstpage": "13\u201331", 
+    "isbn": "978-3-540-71527-6", 
+    "journal": "Transactions on High-Performance Embedded Architectures and Compilers", 
+    "journal_abbrev": "THEAC", 
+    "lastpage": "", 
+    "numpages": "20", 
+    "publisher": "Springer-Verlag", 
+    "title": "Quick and Practical Run-Time Evaluation of Multiple Program Optimizations", 
+    "url": "http://dx.doi.org/10.1007/978-3-540-71528-3_4", 
+    "year": "2006"
+  }, 
+  "bib_ref": "cm:29db2248aba45e59:fd899287e64b4999", 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "Quick and Practical Run-Time Evaluation of Multiple Program Optimizations", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T13:12:45.907000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "document_urls": [
+    "http://hal.inria.fr/docs/00/08/41/10/PDF/fcop06.pdf"
+  ], 
+  "local_bib": "doc.bib", 
+  "local_doc": "doc.pdf", 
+  "notes": [
+    {
+      "bold": "yes", 
+      "italic": "yes", 
+      "note": "Extended version of [$#cm_29db2248aba45e59_5e16c10fa43f8bb4#$]"
+    }
+  ], 
+  "pages": "13-31", 
+  "place": "", 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.1977.beta"
+  }, 
+  "publish_iso_date": "2006-01-01", 
+  "title": "Quick and Practical Run-Time Evaluation of Multiple Program Optimizations", 
+  "type": {
+    "name": "journal", 
+    "peer_reviewed": "yes", 
+    "scope": "international"
+  }, 
+  "when": "2006", 
+  "reproducible":"yes",
+  "where": "Transactions on High-Performance Embedded Architectures and Compilers, Volume 1"
+}

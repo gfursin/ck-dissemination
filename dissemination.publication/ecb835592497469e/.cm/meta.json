@@ -1,0 +1,73 @@
+{
+  "title": "Restoration of symbols with noise by neural network", 
+  "when": "1995", 
+  "notes": [
+    {
+      "note": "Concept [$#cm_e84a25bcb528c798_10afe24ba694c479#$, $#cm_e84a25bcb528c798_a514226a97bd442e#$]", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Associated public software [$#cm_d76ac3bb9a3f744c_c9058860d64c22bd#$, $#cm_d76ac3bb9a3f744c_a8e290024a684917#$]", 
+      "italic": "yes"
+    }
+  ], 
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "bib": "@inproceedings{29db2248aba45e59:33b9ff361ce74168,\n\n  author =    {Grigori Fursin},\n  title =     {Restoration of symbols with noise by neural network},\n  booktitle = {Proceedings of the national conference on physical processes in devices of electronic and laser engineering at Moscow Institute of Physics and Technology},\n  pages =     {112-1127},\n  location = {Moscow, Russia},\n  year =      {1995}\n}\n\n", 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "where": "Proceedings of the national conference on physical processes in devices of electronic and laser engineering at Moscow Institute of Physics and Technology", 
+  "local_bib": "doc.bib", 
+  "cm_display_as_alias": "Restoration of symbols with noise by neural network", 
+  "powered_by": {
+    "version": "1.0.1977.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:38:33.630000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:41:22.923000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "bib_parsed": {
+    "_type": "inproceedings", 
+    "lastpage": "1127", 
+    "booktitle": "Proceedings of the national conference on physical processes in devices of electronic and laser engineering at Moscow Institute of Physics and Technology", 
+    "author": [
+      [
+        "", 
+        "Fursin", 
+        "Grigori", 
+        ""
+      ]
+    ], 
+    "firstpage": "112", 
+    "_code": "Fursin1995p112", 
+    "location": "Moscow, Russia", 
+    "year": "1995", 
+    "title": "Restoration of symbols with noise by neural network"
+  }, 
+  "place": "Moscow, Russia", 
+  "bib_ref": "cm:29db2248aba45e59:ecb835592497469e", 
+  "publish_iso_date": "1995-05-01", 
+  "type": {
+    "peer_reviewed": "yes", 
+    "name": "conference", 
+    "scope": "national"
+  }, 
+  "pages": "112-117"
+}

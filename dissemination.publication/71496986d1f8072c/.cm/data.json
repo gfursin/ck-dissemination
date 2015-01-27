@@ -1,0 +1,95 @@
+{
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }, 
+    {
+      "name": "cc58cd93d4412b9b"
+    }, 
+    {
+      "name": "498e14b1397d5c15"
+    }
+  ], 
+  "bib": "@inproceedings{29db2248aba45e59:7be54cb37f45b3b1,\n\n  author =    {G.G. Fursin and M.F.P. O'Boyle and  P.M.W. Knijnenburg},\n  title =     {Evaluating Iterative Compilation},\n  booktitle = {Proceedings of the 15th Workshop on Languages and Compilers for Parallel Computing (LCPC'02)},\n  pages =     {305-315},\n  year =      {2002}\n}\n\n", 
+  "bib_parsed": {
+    "_code": "Fursin2002p305", 
+    "_type": "inproceedings", 
+    "author": [
+      [
+        "", 
+        "Fursin", 
+        "G G", 
+        ""
+      ], 
+      [
+        "", 
+        "O'Boyle", 
+        "M F P", 
+        ""
+      ], 
+      [
+        "", 
+        "Knijnenburg", 
+        "P M W", 
+        ""
+      ]
+    ], 
+    "booktitle": "Proceedings of the 15th Workshop on Languages and Compilers for Parallel Computing (LCPC'02)", 
+    "firstpage": "305", 
+    "lastpage": "315", 
+    "title": "Evaluating Iterative Compilation", 
+    "year": "2002"
+  }, 
+  "bib_ref": "cm:29db2248aba45e59:71496986d1f8072c", 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "Evaluating Iterative Compilation", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:35:28.826000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:41:02.501000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "document_urls": [
+    "http://dx.doi.org/10.1007/11596110_24"
+  ], 
+  "local_bib": "doc.bib", 
+  "local_doc": "doc.pdf", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "In this paper $#cm_cv_i2#$ introduced a concept of empirical optimization for large applications to automatically adapt them to a given hardware using several basic search strategies including random and hill-climbing. This approach considerably outperformed state-of-art compilers on Intel, Alpha and several other popular architectures for several large SPEC applications. This technique has also laid foundations for further research on systematic program and architecture optimization and co-design using statistical analysis, machine learning and run-time adaptation [$#cm_e84a25bcb528c798_cbd09ece363c9f84#$, $#cm_e84a25bcb528c798_4144fde47d68ae99#$, $#cm_e84a25bcb528c798_94f7fafabf0baa0b#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Associated public software [$#cm_d76ac3bb9a3f744c_9f143f5b31500137#$]"
+    }
+  ], 
+  "pages": "305-315", 
+  "place": "College Park, MD, USA", 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.1977.beta"
+  }, 
+  "publish_iso_date": "2002-06-01", 
+  "title": "Evaluating Iterative Compilation", 
+  "type": {
+    "name": "workshop", 
+    "peer_reviewed": "yes", 
+    "scope": "international"
+  }, 
+  "when": "2002", 
+  "reproducible":"yes",
+  "where": "Proceedings of the 15th Workshop on Languages and Compilers for Parallel Computing (LCPC)"
+}

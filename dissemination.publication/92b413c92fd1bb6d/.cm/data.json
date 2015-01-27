@@ -1,0 +1,97 @@
+{
+  "acceptance": "acceptance rate=58$#cm_cv_percent#$ (7/12)", 
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }, 
+    {
+      "name": "e58fbedc23c45278"
+    }
+  ], 
+  "bib": "@inproceedings{29db2248aba45e59:b5ed29df9d4af0b8,\n\n  author =    {Fursin, Grigori and Cohen, Albert},\n  title =     {Building a Practical Iterative Interactive Compiler},\n  booktitle = {1st Workshop on Statistical and Machine Learning Approaches Applied to Architectures and Compilation (SMART'07), colocated with HiPEAC 2007 conference},\n  year =      {2007},\n  month =     {January},\n  keys =      {http://www.hipeac.net/smart-workshop.html}\n}\n\n", 
+  "bib_parsed": {
+    "_code": "Fursin2007", 
+    "_type": "inproceedings", 
+    "author": [
+      [
+        "", 
+        "Fursin", 
+        "Grigori", 
+        ""
+      ], 
+      [
+        "", 
+        "Cohen", 
+        "Albert", 
+        ""
+      ]
+    ], 
+    "booktitle": "1st Workshop on Statistical and Machine Learning Approaches Applied to Architectures and Compilation (SMART'07), colocated with HiPEAC 2007 conference", 
+    "keys": "http://www.hipeac.net/smart-workshop.html", 
+    "month": "January", 
+    "title": "Building a Practical Iterative Interactive Compiler", 
+    "year": "2007"
+  }, 
+  "bib_ref": "cm:29db2248aba45e5:92b413c92fd1bb6d", 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "Building a Practical Iterative Interactive Compiler", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T13:09:55.726000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:40:46.135000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "local_bib": "doc.bib", 
+  "local_doc": "doc.pdf", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "In this paper $#cm_cv_i2#$ introduced a novel concept to convert hardwired blackboxed production compilers into interactive research toolsets [$#cm_e84a25bcb528c798_cb454fa89115879a#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Extended journal version in [$#cm_29db2248aba45e59_a31e374796869125#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Associated public software [$#cm_d76ac3bb9a3f744c_e86cc5214c0a90df#$, $#cm_d76ac3bb9a3f744c_38aa288519b38bf7#$]"
+    }, 
+    {
+      "bold": "yes", 
+      "italic": "yes", 
+      "note": "Discontinued for OpenME interface [$#cm_d76ac3bb9a3f744c_b83d269b514aa588#$, $#cm_29db2248aba45e59_1943b3f46fabaee4#$]"
+    }, 
+    {
+      "bold": "yes", 
+      "italic": "yes", 
+      "note": "Now available in mainline GCC since version 4.6 [$#cm_c47ad9a552aa7e82_0dd07d427c84c0f6#$]"
+    }
+  ], 
+  "place": "Ghent, Belgium", 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.1977.beta"
+  }, 
+  "publish_iso_date": "2007-01-01", 
+  "title": "Building a Practical Iterative Interactive Compiler", 
+  "type": {
+    "name": "workshop", 
+    "peer_reviewed": "yes", 
+    "scope": "international"
+  }, 
+  "when": "January 2007", 
+  "reproducible":"yes",
+  "where": "1st Workshop on Statistical and Machine Learning Approaches Applied to Architectures and Compilation (SMART'07), colocated with HiPEAC 2007 conference"
+}

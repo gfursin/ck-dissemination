@@ -1,0 +1,111 @@
+{
+  "title": "Split Compilation: an Application to Just-in-Time Vectorization", 
+  "when": "September 2007", 
+  "publish_iso_date": "2007-04-01", 
+  "authors": [
+    {
+      "name": "8008452362042092"
+    }, 
+    {
+      "name": "e58fbedc23c45278"
+    }, 
+    {
+      "name": "0728a400aa1c86fe"
+    }, 
+    {
+      "name": "14933bb882181b08"
+    }, 
+    {
+      "name": "5840ed80d7f20b6a"
+    }, 
+    {
+      "name": "996a7df584252a20"
+    }
+  ], 
+  "bib": "@inproceedings{29db2248aba45e59:07b32a8e1f6f2597,\n\n  author =    {Piotr Lesnicki and Albert Cohen and Grigori Fursin and Marco Cornero and Andrea Ornstein and Erven Rohou},\n  title =     {Split Compilation: an Application to Just-in-Time Vectorization},\n  booktitle = {International Workshop on GCC for Research in Embedded and Parallel Systems (GREPS'07) co-located with PACT'07},\n  year =      {2007},\n  month =     {September},\n  keys =      {http://sysrun.haifa.il.ibm.com/hrl/greps2007},\n  location =  {Brasov, Romania}\n}\n\n", 
+  "powered_by": {
+    "version": "1.0.1977.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "where": "International Workshop on GCC for Research in Embedded and Parallel Systems (GREPS'07) co-located with PACT'07", 
+  "local_bib": "doc.bib", 
+  "cm_display_as_alias": "Split Compilation: an Application to Just-in-Time Vectorization", 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:41:41.915000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:41:55.266000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "bib_parsed": {
+    "_type": "inproceedings", 
+    "author": [
+      [
+        "", 
+        "Lesnicki", 
+        "Piotr", 
+        ""
+      ], 
+      [
+        "", 
+        "Cohen", 
+        "Albert", 
+        ""
+      ], 
+      [
+        "", 
+        "Fursin", 
+        "Grigori", 
+        ""
+      ], 
+      [
+        "", 
+        "Cornero", 
+        "Marco", 
+        ""
+      ], 
+      [
+        "", 
+        "Ornstein", 
+        "Andrea", 
+        ""
+      ], 
+      [
+        "", 
+        "Rohou", 
+        "Erven", 
+        ""
+      ]
+    ], 
+    "keys": "http://sysrun.haifa.il.ibm.com/hrl/greps2007", 
+    "booktitle": "International Workshop on GCC for Research in Embedded and Parallel Systems (GREPS'07) co-located with PACT'07", 
+    "title": "Split Compilation: an Application to Just-in-Time Vectorization", 
+    "month": "September", 
+    "_code": "Lesnick2007", 
+    "location": "Brasov, Romania", 
+    "year": "2007"
+  }, 
+  "document_urls": [
+    "http://sysrun.haifa.il.ibm.com/hrl/greps2007/papers/lesnicki_greps07.pdf"
+  ], 
+  "place": "Brasov, Romania", 
+  "bib_ref": "cm:29db2248aba45e59:63c8a602a044dba9", 
+  "type": {
+    "peer_reviewed": "yes", 
+    "name": "workshop", 
+    "scope": "international"
+  }, 
+  "local_doc": "doc.pdf"
+}

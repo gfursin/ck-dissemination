@@ -1,0 +1,86 @@
+{
+  "authors": [
+    {
+      "name": "79bc0bd8b9cea87f"
+    }, 
+    {
+      "name": "414e8b23877b668c"
+    }, 
+    {
+      "name": "712c6205df4120b4"
+    }, 
+    {
+      "name": "079477c4db4da789"
+    }
+  ], 
+  "bib": "@article {29db2248aba45e59:e2d74a2fdd0487db,\n   author = {B.A. Bezborodnikov and B.V. Orlov and G.I. Fursin and Y.I. Shetinin},\n   title = {Modern electronic components of bipolar integrated circuits},\n   journal = {Electronics Industry},\n   address = {USSR},\n   pages = {23-43},\n   volume = {3},\n   year = {1978}\n}\n\n", 
+  "bib_parsed": {
+    "_code": "Bezboro1978EIp23", 
+    "_type": "article", 
+    "address": "USSR", 
+    "author": [
+      [
+        "", 
+        "Bezborodnikov", 
+        "B A", 
+        ""
+      ], 
+      [
+        "", 
+        "Orlov", 
+        "B V", 
+        ""
+      ], 
+      [
+        "", 
+        "Fursin", 
+        "G I", 
+        ""
+      ], 
+      [
+        "", 
+        "Shetinin", 
+        "Y I", 
+        ""
+      ]
+    ], 
+    "firstpage": "23", 
+    "journal": "Electronics Industry", 
+    "journal_abbrev": "EI", 
+    "lastpage": "43", 
+    "title": "Modern electronic components of bipolar integrated circuits", 
+    "volume": "3", 
+    "year": "1978"
+  }, 
+  "bib_ref": "cm:29db2248aba45e59:e2d74a2fdd0487db", 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "Modern electronic components of bipolar integrated circuits", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T13:02:59.706000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "local_bib": "doc.bib", 
+  "pages": "23-43", 
+  "place": "USSR", 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.1977.beta"
+  }, 
+  "publish_iso_date": "1978-01-01", 
+  "title": "Modern electronic components of bipolar integrated circuits", 
+  "type": {
+    "name": "journal", 
+    "peer_reviewed": "yes", 
+    "scope": "national"
+  }, 
+  "when": "1978", 
+  "where": "Electronics Industry, Volume 3"
+}

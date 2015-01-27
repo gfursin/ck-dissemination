@@ -1,0 +1,55 @@
+{
+  "authors": [
+    {
+      "name": "712c6205df4120b4"
+    }
+  ], 
+  "bib": "@book{29db2248aba45e59:c42b6ab911fd6a7d,\n\n", 
+  "bib_parsed": {
+    "_code": "Fursin1986_FOS", 
+    "_type": "book", 
+    "address": "Moscow, Russia", 
+    "author": [
+      [
+        "", 
+        "Fursin", 
+        "Grigori I", 
+        ""
+      ]
+    ], 
+    "numpages": "92", 
+    "publisher": "Moscow Institute of Physics and Technology", 
+    "title": "Foundations of Solid State Electronics", 
+    "year": "1986"
+  }, 
+  "bib_ref": "cm:29db2248aba45e59:c42b6ab911fd6a7d", 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "Foundations of Solid State Electronics", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T13:14:38.594000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "local_bib": "doc.bib", 
+  "place": "Moscow, Russia", 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.1977.beta"
+  }, 
+  "publish_iso_date": "1986-01-01", 
+  "title": "Foundations of Solid State Electronics", 
+  "type": {
+    "name": "book", 
+    "peer_reviewed": "no", 
+    "scope": "national"
+  }, 
+  "when": "1986", 
+  "where": "Moscow Institute of Physics and Technology"
+}

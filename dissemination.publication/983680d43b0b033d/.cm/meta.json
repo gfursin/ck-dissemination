@@ -1,0 +1,49 @@
+{
+  "cm_archive": "", 
+  "place": "France", 
+  "language": "English", 
+  "cm_rank": 0, 
+  "title": "", 
+  "bib": "", 
+  "publish_iso_date": "2014-01-01", 
+  "when": "2014", 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "cm_description": "Preparing HDR in Paris South University", 
+  "local_bib": "doc.bib", 
+  "title_orig": "", 
+  "powered_by": {
+    "version": "1.0.1977.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-25T18:18:14.691000", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe", 
+      "cm_module_uid": "29db2248aba45e59"
+    }
+  ], 
+  "authors": [
+    {
+      "organization": [
+        "4aa6d3084fe08c03", 
+        "d623dd74a54aa7ab"
+      ], 
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "reproducible": "yes", 
+  "cm_display_as_alias": "TBA: HDR - Grigori Fursin", 
+  "bib_ref": "cm:29db2248aba45e59:983680d43b0b033d", 
+  "where": "Paris South University", 
+  "unfinished": "yes", 
+  "type": {
+    "peer_reviewed": "yes", 
+    "name": "hdr_thesis", 
+    "scope": "international"
+  }
+}

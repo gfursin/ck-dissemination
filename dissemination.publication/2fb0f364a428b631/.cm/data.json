@@ -1,0 +1,118 @@
+{
+  "acceptance": "acceptance rate: 25$#cm_cv_percent#$ (52/209)", 
+  "authors": [
+    {
+      "name": "a8524659a1e72739"
+    }, 
+    {
+      "name": "6284b1e932c02c49"
+    }, 
+    {
+      "name": "372f04e6c991a4a9"
+    }, 
+    {
+      "name": "0728a400aa1c86fe"
+    }, 
+    {
+      "name": "cc58cd93d4412b9b"
+    }
+  ], 
+  "bib": "@inproceedings{29db2248aba45e59:2fb0f364a428b631,\n author = {Dubach, Christophe and Jones, Timothy M. and Bonilla, Edwin and Fursin, Grigori and O'Boyle, Michael F. P.},\n title = {Portable compiler optimisation across embedded programs and microarchitectures using machine learning},\n booktitle = {Proceedings of the 42nd Annual IEEE/ACM International Symposium on Microarchitecture},\n series = {MICRO 42},\n year = {2009},\n isbn = {978-1-60558-798-1},\n location = {New York, New York},\n pages = {78--88},\n numpages = {11},\n url = {http://doi.acm.org/10.1145/1669112.1669124},\n doi = {10.1145/1669112.1669124},\n acmid = {1669124},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {architecture/compiler co-design, design-space exploration, machine learning},\n}\n\n", 
+  "bib_parsed": {
+    "_code": "Dubach2009p7888", 
+    "_type": "inproceedings", 
+    "acmid": "1669124", 
+    "address": "New York, NY, USA", 
+    "author": [
+      [
+        "", 
+        "Dubach", 
+        "Christophe", 
+        ""
+      ], 
+      [
+        "", 
+        "Jones", 
+        "Timothy M.", 
+        ""
+      ], 
+      [
+        "", 
+        "Bonilla", 
+        "Edwin", 
+        ""
+      ], 
+      [
+        "", 
+        "Fursin", 
+        "Grigori", 
+        ""
+      ], 
+      [
+        "", 
+        "O'Boyle", 
+        "Michael F. P.", 
+        ""
+      ]
+    ], 
+    "booktitle": "Proceedings of the 42nd Annual IEEE/ACM International Symposium on Microarchitecture", 
+    "doi": "10.1145/1669112.1669124", 
+    "firstpage": "78\u201388", 
+    "isbn": "978-1-60558-798-1", 
+    "keywords": "architecture/compiler co-design, design-space exploration, machine learning", 
+    "lastpage": "", 
+    "location": "New York, New York", 
+    "numpages": "11", 
+    "publisher": "ACM", 
+    "series": "MICRO 42", 
+    "title": "Portable compiler optimisation across embedded programs and microarchitectures using machine learning", 
+    "url": "http://doi.acm.org/10.1145/1669112.1669124", 
+    "year": "2009"
+  }, 
+  "bib_ref": "cm:29db2248aba45e59:2fb0f364a428b631", 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "Portable compiler optimisation across embedded programs and microarchitectures using machine learning", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T13:09:40.622000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "local_bib": "doc.bib", 
+  "local_doc": "doc.pdf", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "HiPEAC paper award [$#cm_5ae0ce43ceb4d73c_bac9f64078d6083d#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Includes concept [$#cm_e84a25bcb528c798_b953dacc9bc49fa8#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Christophe Dubach received BCS/CPHC Distinguished Dissertation Award'09 for his related thesis \"Using Machine-Learning to Efficiently Explore the Architecture/Compiler Co-Design Space\" supervised by Prof. Michael O'Boyle."
+    }
+  ], 
+  "pages": "78-88", 
+  "place": "New York, NY, USA", 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.1977.beta"
+  }, 
+  "publish_iso_date": "2009-11-01", 
+  "title": "Portable compiler optimisation across embedded programs and microarchitectures using machine learning", 
+  "type": {
+    "name": "conference", 
+    "peer_reviewed": "yes", 
+    "scope": "international"
+  }, 
+  "when": "December 2009", 
+  "where": "Proceedings of the 42nd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)"
+}

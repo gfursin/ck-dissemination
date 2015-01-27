@@ -1,0 +1,49 @@
+{
+  "authors_plain": "Cedric Nugteren, Gert-Jan van den Braak, Henk Corporaal", 
+  "authors": [], 
+  "title_orig": "", 
+  "document_urls": [], 
+  "cm_dependencies": {
+    "classes": []
+  }, 
+  "title": "Roofline-aware DVFS for GPUs", 
+  "when": "January 2014", 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "reproducible": "yes", 
+  "cm_display_as_alias": "", 
+  "type": {
+    "peer_reviewed": "yes", 
+    "name": "workshop", 
+    "scope": "international"
+  }, 
+  "organization_plain": "Eindhoven University of Technology, Netherlands", 
+  "local_doc": "doc.pdf", 
+  "publish_iso_date": "2014-01-22", 
+  "cm_classes_uoa": [], 
+  "bib": "", 
+  "shared_artifacts": [
+    "26177154df5a20ef"
+  ], 
+  "language": "", 
+  "bib_parsed": {}, 
+  "cm_properties": {}, 
+  "powered_by": {
+    "version": "1.0.3121.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "place": "Vienna, Austria", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2014-02-02T16:11:41.187000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "where": "4th International Workshop on Adaptive Self-tuning Computing Systems (ADAPT'14) co-located with HiPEAC'14", 
+  "cm_dissemination": {}
+}
