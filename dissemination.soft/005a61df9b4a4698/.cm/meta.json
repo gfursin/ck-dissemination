@@ -1,0 +1,62 @@
+{
+  "urls": [
+    {
+      "url": "http://cTuning.org/ctuning-cc", 
+      "title": "Website"
+    }
+  ], 
+  "title": "cTuning CC - machine learning based self-tuning meta-optimizer for any compiler including GCC, LLVM, ICC, etc.", 
+  "notes": [
+    {
+      "note": "Released in 2010", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Last version: 2.5 (GPL v2 license)", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Moved to Collective Mind Framework as a ctuning.compiler plugin [$#cm_d76ac3bb9a3f744c_bd5c924415bae775#$]", 
+      "bold": "yes", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "IBM press-release [$#cm_29db2248aba45e59_065ef420f809ff7b#$]", 
+      "italic": "yes"
+    }
+  ], 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "2009 - 2010 - cTuning CC", 
+  "powered_by": {
+    "version": "1.0.1977.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "end_iso_date": "2010-03-01", 
+  "type": {
+    "name": "software"
+  }, 
+  "start_iso_date": "2009-01-01"
+}

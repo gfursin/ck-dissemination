@@ -1,0 +1,83 @@
+{
+  "urls": [
+    {
+      "url": "https://sourceforge.net/projects/cccpf/files/CCC/V2.5-beta", 
+      "title": "Development website"
+    }, 
+    {
+      "url": "http://cTuning.org/tools", 
+      "title": "Tools"
+    }
+  ], 
+  "for": "collaborative user-defined program and architecture characterization, multi-objective optimization (execution time, code size, compilation time, power consumption) and co-design of computer systems using public repositories of knowledge, plugin-based auto-tuning, machine learning and crowdsourcing", 
+  "title": "cTuning and CCC (Continuous Collective Compilation) frameworks", 
+  "notes": [
+    {
+      "note": "Released in 2008", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Current version: 2.5 (GPL v2 license)", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Collaboration with IBM (Israel), University of Edinburgh (UK), ARC (now Synopsys, UK), CAPS Entreprise (France), and ICT (China)", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Developed within EU FP6 MILEPOST project [$#cm_4978a2f58b214af0_eafac77e4406a4b5#$]", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "More info about this activity [$#cm_1de563264d7896b1_bb9d437ac70bd23a#$]", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Technology: mixed MySQL and NoSQL database; customizable PHP,C,C++ plugin and web-based infrastructure", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Discontinued for [$#cm_d76ac3bb9a3f744c_bd5c924415bae775#$]", 
+      "bold": "yes", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "IBM press-release [$#cm_29db2248aba45e59_065ef420f809ff7b#$]", 
+      "italic": "yes"
+    }
+  ], 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "2006 - 2010 - cTuning1", 
+  "powered_by": {
+    "version": "1.0.1977.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "end_iso_date": "2010-03-01", 
+  "type": {
+    "name": "software"
+  }, 
+  "start_iso_date": "2006-01-06"
+}

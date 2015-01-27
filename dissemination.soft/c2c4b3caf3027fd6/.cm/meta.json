@@ -1,0 +1,58 @@
+{
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe", 
+      "cm_module_uid": "29db2248aba45e59"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe", 
+      "cm_module_uid": "29db2248aba45e59"
+    }
+  ], 
+  "title": "Android Collective Mind Node", 
+  "notes": [
+    {
+      "note": "Released in 2013", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Connected to public Collective Mind Repository [$#cm_4d63887b5cda54aa_4d4fbc8d3ae7e75c#$]", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Associated publications [$#cm_29db2248aba45e59_1943b3f46fabaee4#$, $#cm_29db2248aba45e59_530e5f456ea259de#$, $#cm_29db2248aba45e59_0c44d9a2db3de3c9#$, $#cm_29db2248aba45e59_199e2c0b9d4abcb9#$]", 
+      "italic": "yes"
+    }
+  ], 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "to": "crowdsource program and architecture characterization and multi-objective auto-tuning (execution time, code size, compilation time, power consumption) using any available Android-based mobile phone, tablet or laptop", 
+  "cm_display_as_alias": "2011 - Android Collective Mind Node", 
+  "powered_by": {
+    "version": "1.0.1977.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "urls": [
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.collective_mind.node", 
+      "title": "Google Play Website"
+    }
+  ], 
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "end_iso_date": "cur.", 
+  "type": {
+    "name": "software"
+  }, 
+  "start_iso_date": "2011-09-01"
+}

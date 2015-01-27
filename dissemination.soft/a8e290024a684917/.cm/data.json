@@ -1,0 +1,95 @@
+{
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "1997 - 1999 - SuperComputer Service (SCS)", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "end_iso_date": "1999-02-01", 
+  "local_docs": [
+    {
+      "file": "scs2.tar.bz2", 
+      "title": "Download tar.bz2 package (~10Mb)"
+    }, 
+    {
+      "file": "scs_screenshot1.png", 
+      "title": "Shapshot 1 (png)"
+    }, 
+    {
+      "file": "scs_screenshot2.png", 
+      "title": "Shapshot 2 (png)"
+    }, 
+    {
+      "file": "scs_screenshot3.png", 
+      "title": "Shapshot 3 (png)"
+    }, 
+    {
+      "file": "scs_screenshot4.png", 
+      "title": "Shapshot 4 (png)"
+    }
+  ], 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Released in 1999"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Last version: V1.3 (GPL license)"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Technology: MySQL based database; java, perl, C, Visual Basic, Visual C modules; standard http/ftp communication; web-based GUI"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Used to simplify execution of $#cm_cv_my3#$ neural network modelling software on distributed and varying HPC resources"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Publications [$#cm_29db2248aba45e59_c3a327ce9649509d#$, $#cm_29db2248aba45e59_154e2c842ea60cb5#$, $#cm_29db2248aba45e59_5fe68265adaf4b24#$, $#cm_29db2248aba45e59_ecb835592497469e#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Repository [$#cm_4d63887b5cda54aa_85b223299d48ddd6#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Partially funded by [$#cm_5ae0ce43ceb4d73c_1ab347a4deda9b88#$, $#cm_4978a2f58b214af0_98aa4be821b47b6f#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Discontinued for $#cm_d76ac3bb9a3f744c_9f143f5b31500137#$"
+    }
+  ], 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.1977.beta"
+  }, 
+  "start_iso_date": "1997-06-01", 
+  "title": "SuperComputer Service (SCS)", 
+  "type": {
+    "name": "software"
+  }, 
+  "urls": [], 
+  "why": " - framework to provide and unify remote access to high-performance computing systems for non-specialists as a simple web service"
+}

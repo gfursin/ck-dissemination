@@ -1,0 +1,73 @@
+{
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "2010 - 2011 - CTI", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "end_iso_date": "2011-08-31", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Collaboration with Intel, CEA, GENCI and UVSQ"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Developed with $#cm_cv_my3#$ team [$#cm_86ea434e815f5059_544749564b62bfc8#$, $#cm_86ea434e815f5059_286004aebddd15ff#$, $#cm_86ea434e815f5059_989b2c721778a8f9#$] as Intel Exascale Lab in-house auto-tuning infrastructure and repository extending cTuning1 framework and repository"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Funded by [$#cm_c47ad9a552aa7e82_482d03ef4adc20dd#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Associated job [$#cm_4978a2f58b214af0_29493878b99c82e7#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "More info about this activity [$#cm_1de563264d7896b1_8cd7f026b644209b#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Technology: mixed MySQL and NoSQL database; customizable python, PHP and C plugin and web-based infrastructure"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Availability: private use - after 2012 some parts developed by $#cm_cv_my3#$ team members became available under GPL v3 license"
+    }, 
+    {
+      "bold": "yes", 
+      "italic": "yes", 
+      "note": "Discontinued for [$#cm_d76ac3bb9a3f744c_bd5c924415bae775#$]"
+    }
+  ], 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.1977.beta"
+  }, 
+  "start_iso_date": "2010-03-01", 
+  "title": "Colaborative Codelet Tuning Infrastructure (CTI aka cTuning2)", 
+  "to": "decompose large applications into codelets for continuous characterization and tuning", 
+  "type": {
+    "name": "software"
+  }
+}

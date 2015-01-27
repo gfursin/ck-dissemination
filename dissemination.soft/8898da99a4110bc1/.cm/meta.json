@@ -1,0 +1,69 @@
+{
+  "urls": [
+    {
+      "url": "http://cTuning.org/tools/cm", 
+      "title": "Website"
+    }
+  ], 
+  "for": "fine-grain program feature extraction, decremental analysis, and optimization in GCC", 
+  "title": "Alchemist plugin", 
+  "notes": [
+    {
+      "note": "Collaboration with STMicroelectronics [$#cm_86ea434e815f5059_ca7f207e943bf411#$, $#cm_c47ad9a552aa7e82_6b7444e0a5d4022a#$]", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Pre-released in 2013", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Current version: 1.0beta (GPL v2 license)", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Technology: GCC dynamic plugin written in C", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Associated publications [$#cm_29db2248aba45e59_1943b3f46fabaee4#$, $#cm_29db2248aba45e59_f98a6602e010cfd5#$, $#cm_29db2248aba45e59_bfb3134d4c078236#$, $#cm_29db2248aba45e59_db899893d4b71ba7#$, $#cm_29db2248aba45e59_241959a66d0e6895#$, $#cm_29db2248aba45e59_54ac7ceace451a83#$]", 
+      "italic": "yes"
+    }
+  ], 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "2011 - Alchemist", 
+  "powered_by": {
+    "version": "1.0.1977.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }, 
+    {
+      "name": "aadbdca8d7ac43ff"
+    }
+  ], 
+  "end_iso_date": "cur.", 
+  "type": {
+    "name": "software"
+  }, 
+  "start_iso_date": "2011-09-01"
+}

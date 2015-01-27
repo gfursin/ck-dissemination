@@ -1,0 +1,96 @@
+{
+  "urls": [
+    {
+      "url": "http://fursin.net/wiki/index.php5?title=Research:Developments:EOS", 
+      "title": "Description"
+    }
+  ], 
+  "title": "Edinburgh Optimizing Software (EOS)", 
+  "notes": [
+    {
+      "note": "Released in 2001", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Uses source-to-source C and Fortran polyhedral transformation server based on MARS compiler [$#cm_d76ac3bb9a3f744c_409588f5e1d972c2#$]", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Developed during EU FP5 MHAOTEU project [$#cm_c47ad9a552aa7e82_0dd07d427c84c0f6#$] and PhD studies [$#cm_e50b2aeb0e771b47_af47af80ffcc4f40#$]", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Last version: V2.2 (GPL v2 license)", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Technology: NoSQL based database; java and C plugins; socket communication between modules; java based GUI", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Included plugins for program memory/CPU characterization through semantically non-equivalent assembler/binary patching [$#cm_29db2248aba45e59_91c6126884641b59#$, $#cm_29db2248aba45e59_48d8a274c1c9dea9#$, $#cm_29db2248aba45e59_b254c18c8794ba29#$, $#cm_29db2248aba45e59_976aac68c6834af6#$, $#cm_29db2248aba45e59_2a45819c829656cc#$]; own source-to-source compiler; fine-grain auto-tuning plugins (unrolling, array padding) with partial polyhedral optimization support (tiling, fusion/fission, vectorization)", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Used in first experiments to predict complex optimizations (not just 1 transformation) using machine learning and program semantic and dynamic features (hardware counters)", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Discontinued for $#cm_d76ac3bb9a3f744c_30489f4f8a9c7b1d#$ and later for $#cm_d76ac3bb9a3f744c_69fd2f54eef853b1#$", 
+      "italic": "yes"
+    }
+  ], 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "1999 - 2006 - Edinburgh Optimizing Software (EOS)", 
+  "powered_by": {
+    "version": "1.0.1977.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "end_iso_date": "2006-06-01", 
+  "local_docs": [
+    {
+      "file": "eos.tar.gz", 
+      "title": "Download tar.gz package (~6Mb)"
+    }, 
+    {
+      "file": "eos_screenshot.gif", 
+      "title": "Screenshot (gif)"
+    }, 
+    {
+      "file": "eos_arch.gif", 
+      "title": "EOS architecture (gif)"
+    }, 
+    {
+      "file": "eos_iters.jpg", 
+      "title": "EOS hill-climbing auto-tuning example (padding, tiling, unrolling) (jpg)"
+    }
+  ], 
+  "type": {
+    "name": "software"
+  }, 
+  "why": " - plugin-based client-server program and architecture characterization and auto-tuning framework", 
+  "start_iso_date": "1999-02-02"
+}

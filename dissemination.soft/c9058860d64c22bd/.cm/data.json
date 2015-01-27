@@ -1,0 +1,99 @@
+{
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "1993 - 1999 - semiconductor neural networks", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "end_iso_date": "1999-02-01", 
+  "local_docs": [
+    {
+      "file": "ECT_DOS.zip", 
+      "title": "Download seminconductor neural elements measurement software (ECT) for DOS (~200Kb)"
+    }, 
+    {
+      "file": "ECT_WIN.zip", 
+      "title": "Download seminconductor neural elements measurement software (ECT) for Windows (~1.6Mb)"
+    }, 
+    {
+      "file": "ECT_WIN_sources.zip", 
+      "title": "Download sources of the seminconductor neural elements measurement software (ECT) for Windows (~300Kb)"
+    }, 
+    {
+      "file": "ect_screenshot1.jpg", 
+      "title": "Shapshot 1 (jpg)"
+    }, 
+    {
+      "file": "ect_screenshot2.jpg", 
+      "title": "Shapshot 2 (jpg)"
+    }
+  ], 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Released in 1997"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Last version: V2.1 (GPL license)"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Works with special hardware (ADC/DAC board): [$#cm_340819bddbae9666_e82d6e4553b3985c#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Validated by improving recognition and restoration of characters by neural network in noised environments"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Technology: Visual Basic and assembler; PSpise analog circuit and digital logic simulation software; MPI for HPC"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Partially funded by [$#cm_5ae0ce43ceb4d73c_1ab347a4deda9b88#$, $#cm_4978a2f58b214af0_98aa4be821b47b6f#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Publications [$#cm_29db2248aba45e59_154e2c842ea60cb5#$, $#cm_29db2248aba45e59_5fe68265adaf4b24#$, $#cm_29db2248aba45e59_ecb835592497469e#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Repository [$#cm_4d63887b5cda54aa_85b223299d48ddd6#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Due to very slow simulation and limiation of semiconducor technology decided to switch to program and architecture optimization to eventually enable fast and low-power neural networks and machine learning"
+    }
+  ], 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.1977.beta"
+  }, 
+  "start_iso_date": "1993-02-01", 
+  "title": "Semiconductor Brain", 
+  "type": {
+    "name": "software"
+  }, 
+  "urls": [], 
+  "why": " - semiconductor and modelled neural networks with $#cm_cv_my3#$ own ADC/DAC PC board and analysis software"
+}
