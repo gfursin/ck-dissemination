@@ -1,0 +1,60 @@
+{
+  "colocated": "HiPEAC spring computing week 2012", 
+  "urls": [
+    {
+      "url": "http://www.hipeac.net/thematic-session/collective-characterization-optimization-and-design-computer-systems", 
+      "title": "Website"
+    }, 
+    {
+      "url": "http://ctuning.org/events/ctuning-hipeac-theme-2012", 
+      "title": "Backup"
+    }
+  ], 
+  "title": "Thematic session - \"Collective characterization, optimization and design of computer systems\"", 
+  "notes": [
+    {
+      "note": "Talks by Marisa Gil (UPC, Spain), Lasse Natvig (NTNU, Norway), David Whalley (Florid State University, USA), Cristina Silvano (Politecnico di Milano, Italy)", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Sponsored by HiPEAC, EU", 
+      "italic": "yes"
+    }
+  ], 
+  "when": "April 2012", 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "Thematic session - \"Collective characterization, optimization and design of computer systems\" @ / HiPEAC spring computing week 2012", 
+  "powered_by": {
+    "version": "1.0.1977.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "authors": [
+    {
+      "affiliation": "INRIA, France", 
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "place": "Goteborg, Sweden", 
+  "type": {
+    "name": "thematic_session"
+  }, 
+  "start_iso_date": "2012-04-24"
+}

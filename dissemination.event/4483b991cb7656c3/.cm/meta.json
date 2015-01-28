@@ -1,0 +1,95 @@
+{
+  "urls": [
+    {
+      "url": "http://www.computer.org/portal/web/tetc", 
+      "title": "IEEE TETC Website"
+    }, 
+    {
+      "url": "https://mc.manuscriptcentral.com/tetc-cs", 
+      "title": "Submission website"
+    }, 
+    {
+      "url": "http://www.computer.org/cms/Computer.org/transactions/cfps/cfp_tetcsi_rrm.pdf", 
+      "title": "Flyer and CFP"
+    }, 
+    {
+      "url": "http://www.occamportal.org", 
+      "title": "Related OCCAM project"
+    }, 
+    {
+      "url": "http://c-mind.org", 
+      "title": "Related Collective Mind project"
+    }, 
+    {
+      "url": "http://c-mind.org/repo", 
+      "title": "Related Collective Mind repository"
+    }
+  ], 
+  "title": "Special Issue on Reproducible Research Methodologies, IEEE Transactions on Emerging Topics in Computing (TETC)", 
+  "notes": [
+    {
+      "note": "Submission Deadline:  Sept 1, 2014", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Reviews Completed: Nov 1, 2014", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Major Revisions Due (if Needed): Dec 15, 2014", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Reviews of Revisions Completed (if Needed): Jan 3, 2015", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Minor Revisions Due (if Needed): Jan 20, 2015", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Notification of Final Acceptance: Jan 31, 2015", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Publication Materials for Final Manuscripts Due: Feb 15, 2015", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Publication date: 2nd Issue of 2015", 
+      "italic": "yes"
+    }
+  ], 
+  "powered_by": {
+    "version": "1.0.2318.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "cm_display_as_alias": "2014xxxx.Special journal issue on reproducibility", 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2013-11-08T14:34:06.024000", 
+      "cm_module_uid": "87f495bbbec1c9bc", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "authors": [
+    {
+      "affiliation": "University of Pittsburgh, USA", 
+      "name": "79cab05c720e60c9"
+    }, 
+    {
+      "affiliation": "INRIA, France", 
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "type": {
+    "name": "journal_special_issue"
+  }, 
+  "start_iso_date": "2015-01-11"
+}

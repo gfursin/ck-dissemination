@@ -1,0 +1,80 @@
+{
+  "colocated": "HiPEAC 2014", 
+  "urls": [
+    {
+      "url": "http://adapt-workshop.org", 
+      "title": "Website"
+    }, 
+    {
+      "url": "http://adapt-workshop.org/program.htm", 
+      "title": "Final program"
+    }, 
+    {
+      "url": "http://c-mind.org/repo/?view_cid=876bf92b1409cb46:26177154df5a20ef", 
+      "title": "Shared artifacts (paper 1)"
+    }, 
+    {
+      "url": "http://c-mind.org/repo/?view_cid=876bf92b1409cb46:ac4b5d8f1a252bd8", 
+      "title": "Shared artifacts (paper 2)"
+    }
+  ], 
+  "title": "4th International workshop on Adaptive Self-Tuning Computing Systems (ADAPT) with a special focus on reproducibility", 
+  "notes": [
+    {
+      "note": "Keynote: \"Towards Resource Management in Parallel Architectures Under the Hood\" by Prof. Per Stenstrom (Chalmers University of Technology, Sweden)", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Associated panel on reproducible research methodologies and new publication models in computer engineering [$#cm_77154d189d2e226c_99bf10e7b8a147b4#$]", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Shared research material and experimental results for 2 papers have been validated by our volunteers: Alberto Magni from the University of Edinburgh, UK and Sascha Hunold from Vienna University of Technology, Austria", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Sponsored by Nvidia, USA", 
+      "italic": "yes"
+    }
+  ], 
+  "when": "January 2014", 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "Workshop - ADAPT 2014 @ HiPEAC 2014", 
+  "powered_by": {
+    "version": "1.0.1977.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "authors": [
+    {
+      "affiliation": "University of Edinburgh, UK", 
+      "name": "a8524659a1e72739"
+    }, 
+    {
+      "affiliation": "INRIA, France", 
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "place": "Vienna, Austria", 
+  "type": {
+    "name": "workshop"
+  }, 
+  "start_iso_date": "2014-01-22"
+}

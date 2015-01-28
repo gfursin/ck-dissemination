@@ -1,0 +1,67 @@
+{
+  "authors": [
+    {
+      "affiliation": "INRIA, France", 
+      "name": "0728a400aa1c86fe"
+    }, 
+    {
+      "affiliation": "University of Pittsburgh, USA", 
+      "name": "79cab05c720e60c9"
+    },
+    {
+      "affiliation": "University of Pittsburgh, USA", 
+      "name": "84ca450db33325e8"
+    },
+    {
+      "affiliation": "University of Pittsburgh, USA", 
+      "name": "951b4c09aa9529c0"
+    }
+  ], 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "Workshop - TRUST 2014 @ PLDI 2014", 
+  "colocated": "PLDI 2014", 
+  "notes": [
+    {"italic": "yes", "note": "Workshop Date: June 12, 2014"},
+    {"italic": "yes", "note": "Abstract submission deadline: March 7, 2014 (Anywhere on Earth)"},
+    {"italic": "yes", "note": "Paper submission deadline: March 14, 2014 (Anywhere on Earth)"},
+    {"italic": "yes", "note": "Notification date: April 14, 2014"},
+    {"italic": "yes", "note": "Final version deadline: May 2, 2014"},
+    {
+      "italic": "yes", 
+      "note": "Related ADAPT'14 panel on reproducible research methodologies and new publication models in computer engineering [$#cm_77154d189d2e226c_99bf10e7b8a147b4#$]"
+    }
+  ], 
+  "place": "Edinburgh, UK", 
+  "start_iso_date": "2014-06-12", 
+  "title": "1st ACM SIGPLAN International Workshop on Reproducible Research Methodologies and New Publication Models (TRUST)", 
+  "type": {
+    "name": "workshop"
+  }, 
+  "urls": [
+    {
+      "title": "Website", 
+      "url": "http://c-mind.org/events/trust2014"
+    },
+    {
+      "title": "ACM DL", 
+      "url": "http://dl.acm.org/citation.cfm?id=2618137"
+    }
+  ], 
+  "when": "June 2014",
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2013-11-24T18:11:49.709000", 
+      "cm_module_uid": "77154d189d2e226c", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.2318.beta"
+  }
+}

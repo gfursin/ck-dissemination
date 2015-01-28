@@ -1,0 +1,68 @@
+{
+  "colocated": "HiPEAC 2013", 
+  "urls": [
+    {
+      "url": "http://homepages.inf.ed.ac.uk/cdubach/adapt2013", 
+      "title": "Website"
+    }, 
+    {
+      "url": "http://dl.acm.org/citation.cfm?id=2484904", 
+      "title": "ACM DL"
+    }
+  ], 
+  "title": "3rd International workshop on Adaptive Self-Tuning Computing Systems (ADAPT)", 
+  "notes": [
+    {
+      "note": "Keynote on \"Autotuning Recursive Functions\" by Prof. Markus Pueschel (ETHZ, Switzerland) sponsored by Microsoft Research", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Introduction in [$#cm_29db2248aba45e59_c574c168b737dd92#$]", 
+      "italic": "yes"
+    }, 
+    {
+      "note": "Sponsored by Microsoft Research, UK and Nvidia, USA", 
+      "italic": "yes"
+    }
+  ], 
+  "when": "January 2013", 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "Workshop - ADAPT 2013 @ HiPEAC 2013", 
+  "powered_by": {
+    "version": "1.0.1977.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "authors": [
+    {
+      "affiliation": "University of Edinburgh, UK", 
+      "name": "a8524659a1e72739"
+    }, 
+    {
+      "affiliation": "INRIA, France", 
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "place": "Berlin, Germany", 
+  "type": {
+    "name": "workshop"
+  }, 
+  "start_iso_date": "2013-01-22"
+}

@@ -1,0 +1,64 @@
+{
+  "colocated": "HiPEAC Spring Computing Systems Week 2014", 
+  "cm_dependencies": {
+    "classes": []
+  }, 
+  "urls": [
+    {
+      "url": "http://www.hipeac.net/add/res/102/481", 
+      "title": "Website and slides"
+    }, 
+    {
+      "url": "http://www.hipeac.net/csw/2014/barcelona", 
+      "title": "CSW Website"
+    }
+  ], 
+  "title": "Panel \"Is Current Research on Heterogeneous HPC Platforms inline with Real-world Application needs?\"", 
+  "notes": [
+    {
+      "note": "Participants: Paolo Faraboschi (HP Labs, Spain), Ana Lucia Varbanescu (University of Amsterdam, Netherlands), Mats Brorsson (KTH, Sweden), Pooyan Dadvand (CIMNE/UPC, Spain) and Paul Keir (CodePlay, UK);", 
+      "italic": "yes"
+    }
+  ], 
+  "cm_classes_uoa": [], 
+  "when": "May 2014", 
+  "cm_properties": {}, 
+  "cm_access_control": {
+    "read_groups": "registered", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "", 
+  "powered_by": {
+    "version": "1.0.3121.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2014-05-18T09:31:51.426000", 
+      "cm_module_uid": "77154d189d2e226c", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "authors": [
+    {
+      "affiliation": "BSC/UPC, Spain", 
+      "name": "1a905d99c4d4cb55"
+    }, 
+    {
+      "affiliation": "University of Edinburgh, UK", 
+      "name": "c4290b1422e8e85d"
+    }, 
+    {
+      "affiliation": "INRIA, France", 
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "place": "BSC, Barcelona, Spain", 
+  "type": {
+    "name": "panel"
+  }, 
+  "cm_dissemination": {}, 
+  "start_iso_date": "2014-05-15"
+}

@@ -1,0 +1,51 @@
+{
+  "colocated": "HiPEAC 2010", 
+  "urls": [
+    {
+      "url": "http://www.hipeac.net/conference/pisa/speedup", 
+      "title": "Website"
+    }
+  ], 
+  "title": "Tutorial - \"Speedup-Test: Statistical Methodology to Evaluate Program Speedups and their Optimisation Techniques\"", 
+  "notes": [], 
+  "when": "January 2010", 
+  "cm_access_control": {
+    "read_groups": "all", 
+    "comments_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "Tutorial - Speedup-Test: Statistical Methodology to Evaluate Program Speedups and their Optimisation Techniques", 
+  "powered_by": {
+    "version": "1.0.1977.beta", 
+    "name": "Collective Mind Engine"
+  }, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "authors": [
+    {
+      "affiliation": "UVSQ, France", 
+      "name": "bd01eec037c54142"
+    }, 
+    {
+      "affiliation": "INRIA, France", 
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "place": "Pisa, Italy", 
+  "type": {
+    "name": "tutorial"
+  }, 
+  "start_iso_date": "2010-01-25"
+}

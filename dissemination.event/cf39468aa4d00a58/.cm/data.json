@@ -1,0 +1,68 @@
+{
+  "authors": [
+    {
+      "affiliation": "Intel/CEA Exascale Lab, France", 
+      "name": "0728a400aa1c86fe"
+    }, 
+    {
+      "affiliation": "University of Delaware, USA", 
+      "name": "0e87696f4c2c8251"
+    }
+  ], 
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "all", 
+    "write_groups": "owner"
+  }, 
+  "cm_display_as_alias": "Workshop - SMART 2011 @ CGO 2011", 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }, 
+    {
+      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
+      "cm_module_uid": "29db2248aba45e59", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "colocated": "CGO 2011", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Keynote on \"Automatic Performance Tuning and Machine Learning\" by Prof. Markus Pueschel (ETHZ, Switzerland)"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Chair: Prof. Francois Bodin (CAPS Entreprise, France)"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Sponsored by CAPS Entreprise, France"
+    }
+  ], 
+  "place": "Chamonix, France", 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.1977.beta"
+  }, 
+  "start_iso_date": "2011-04-03", 
+  "title": "5th International Workshop Statistical and Machine learning approaches to ARchitecture and compilaTion (SMART)", 
+  "type": {
+    "name": "workshop"
+  }, 
+  "urls": [
+    {
+      "title": "Website", 
+      "url": "http://ctuning.org/workshop-smart2011"
+    }, 
+    {
+      "title": "Final program", 
+      "url": "http://ctuning.org/workshop-smart2011-program"
+    }
+  ], 
+  "when": "April 2011"
+}

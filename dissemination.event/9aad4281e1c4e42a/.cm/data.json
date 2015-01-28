@@ -1,0 +1,55 @@
+{
+  "cm_access_control": {
+    "comments_groups": "registered", 
+    "read_groups": "registered", 
+    "write_groups": "owner"
+  }, 
+  "cm_classes_uoa": [], 
+  "cm_dependencies": {
+    "classes": []
+  }, 
+  "cm_display_as_alias": "", 
+  "cm_dissemination": {}, 
+  "cm_properties": {}, 
+  "cm_updated": [
+    {
+      "cm_iso_datetime": "2014-02-10T14:20:03.186000", 
+      "cm_module_uid": "77154d189d2e226c", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
+      "cm_user_uoa": "0728a400aa1c86fe"
+    }
+  ], 
+  "powered_by": {
+    "name": "Collective Mind Engine", 
+    "version": "1.0.3121.beta"
+  },
+  "authors": [
+    {
+      "affiliation": "INRIA / cTuning foundation, France", 
+      "name": "0728a400aa1c86fe"
+    }, 
+    {
+      "affiliation": "University of Pittsburgh, USA", 
+      "name": "951b4c09aa9529c0"
+    }
+  ], 
+  "notes": [
+  ], 
+  "place": "San Francisco Bay Area, CA, USA", 
+  "start_iso_date": "2015-02-7", 
+  "title": "Artifact evaluation for CGO'15", 
+  "type": {
+    "name": "artifact_evaluation"
+  }, 
+  "urls": [
+    {
+      "title": "AE website", 
+      "url": "http://cTuning.org/event/ae-cgo2015"
+    },
+    {
+      "title": "CGO'15 website", 
+      "url": "http://cgo.org/cgo2015"
+    }
+  ], 
+  "when": "Feburary 2015"
+}
