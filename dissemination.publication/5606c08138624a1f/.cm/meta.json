@@ -1,51 +1,32 @@
 {
-  "cm_archive": "", 
-  "cm_description": "Preparing PhD in Paris South University", 
-  "local_bib": "doc.bib", 
-  "title_orig": "", 
-  "unfinished": "yes", 
-  "title": "", 
-  "when": "2014", 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "cm_file_upload_name": "", 
-  "place": "France", 
-  "bib_ref": "cm:29db2248aba45e59:5606c08138624a1f", 
-  "type": {
-    "peer_reviewed": "yes", 
-    "name": "phd_thesis", 
-    "scope": "international"
-  }, 
-  "publish_iso_date": "2014-01-01", 
-  "bib": "", 
-  "cm_file_upload_type": "", 
-  "reproducible": "yes", 
   "authors": [
     {
+      "name": "aadbdca8d7ac43ff", 
       "organization": [
         "4aa6d3084fe08c03", 
         "d623dd74a54aa7ab", 
         "53c541fc8d6c7d86"
-      ], 
-      "name": "aadbdca8d7ac43ff"
+      ]
     }
   ], 
+  "bib": "", 
+  "bib_ref": "cm:29db2248aba45e59:5606c08138624a1f", 
+  "cm_archive": "", 
+  "cm_file_upload_name": "", 
+  "cm_file_upload_type": "", 
   "language": "English", 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
+  "local_bib": "doc.bib", 
+  "place": "France", 
+  "publish_iso_date": "2014-01-01", 
+  "reproducible": "yes", 
+  "title": "", 
+  "title_orig": "", 
+  "type": {
+    "name": "phd_thesis", 
+    "peer_reviewed": "yes", 
+    "scope": "international"
   }, 
-  "cm_display_as_alias": "TBA: PhD - Abdul Wahid Memon", 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2012-10-25T18:18:53.514000", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe", 
-      "cm_module_uid": "29db2248aba45e59"
-    }
-  ], 
+  "unfinished": "yes", 
+  "when": "2014", 
   "where": "UVSQ"
 }

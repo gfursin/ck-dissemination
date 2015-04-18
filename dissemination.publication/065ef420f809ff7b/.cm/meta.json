@@ -1,6 +1,11 @@
 {
-  "title": "World's First Intelligent, Open Source Compiler Provides Automated Advice on Software Code Optimization (IBM Research and European Union Provide Software Developers with Performance Gains and Faster Time-To-Market)", 
-  "where": "IBM MILEPOST project press release", 
+  "authors": [], 
+  "bib_ref": "cm:29db2248aba45e59:065ef420f809ff7b", 
+  "document_urls": [
+    "http://www-03.ibm.com/press/us/en/pressrelease/27874.wss"
+  ], 
+  "local_bib": "doc.bib", 
+  "place": "Haifa, Israel and Armonk, NY, USA", 
   "publish_iso_date": "2009-06-01", 
   "related_people": [
     {
@@ -55,41 +60,12 @@
       "name": "cc58cd93d4412b9b"
     }
   ], 
-  "when": "June 2009", 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "local_bib": "doc.bib", 
-  "cm_display_as_alias": "World's First Intelligent, Open Source Compiler Provides Automated Advice on Software Code Optimization", 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2012-10-23T13:49:55.207000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }, 
-    {
-      "cm_iso_datetime": "2012-11-12T12:41:41.952000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }
-  ], 
-  "authors": [], 
-  "place": "Haifa, Israel and Armonk, NY, USA", 
-  "bib_ref": "cm:29db2248aba45e59:065ef420f809ff7b", 
+  "title": "World's First Intelligent, Open Source Compiler Provides Automated Advice on Software Code Optimization (IBM Research and European Union Provide Software Developers with Performance Gains and Faster Time-To-Market)", 
   "type": {
-    "peer_reviewed": "no", 
     "name": "press_release", 
+    "peer_reviewed": "no", 
     "scope": "international"
   }, 
-  "document_urls": [
-    "http://www-03.ibm.com/press/us/en/pressrelease/27874.wss"
-  ]
+  "when": "June 2009", 
+  "where": "IBM MILEPOST project press release"
 }

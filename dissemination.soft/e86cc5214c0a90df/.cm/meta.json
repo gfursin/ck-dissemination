@@ -1,63 +1,39 @@
 {
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe", 
-      "cm_module_uid": "29db2248aba45e59"
-    }, 
-    {
-      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe", 
-      "cm_module_uid": "29db2248aba45e59"
-    }
-  ], 
-  "title": "Interactive Compilation Interface (ICI)", 
-  "notes": [
-    {
-      "note": "Publications [$#cm_29db2248aba45e59_5e16c10fa43f8bb4#$, $#cm_29db2248aba45e59_fd899287e64b4999#$, $#cm_29db2248aba45e59_92b413c92fd1bb6d#$, $#cm_29db2248aba45e59_3b9c0386749be8ad#$, $#cm_29db2248aba45e59_199e2c0b9d4abcb9#$, $#cm_29db2248aba45e59_e94906b2eacf7d3f#$, $#cm_29db2248aba45e59_1dc5655fcaa4c4ca#$, $#cm_29db2248aba45e59_a31e374796869125#$, $#cm_29db2248aba45e59_530e5f456ea259de#$, $#cm_29db2248aba45e59_1943b3f46fabaee4#$]", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Released in 2006; Merged with mainline GCC in 2009 [$#cm_c47ad9a552aa7e82_0dd07d427c84c0f6#$]", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Last version: 2.5 (GPL v2 license)", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Redesigned and unified in [$#cm_d76ac3bb9a3f744c_b83d269b514aa588#$]", 
-      "bold": "yes", 
-      "italic": "yes"
-    }
-  ], 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "to": "open up production compilers (GCC, Open64, PathScale, etc.) through light-weight event-based plugin framework and transform them into powerful interactive research toolsets", 
-  "cm_display_as_alias": "2004 - 2009 - Interactive Compilation Interface (ICI)", 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "urls": [
-    {
-      "url": "http://cTuning.org/ici", 
-      "title": "Website"
-    }
-  ], 
   "authors": [
     {
       "name": "0728a400aa1c86fe"
     }
   ], 
   "end_iso_date": "2009-06-01", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Publications [$#cm_29db2248aba45e59_5e16c10fa43f8bb4#$, $#cm_29db2248aba45e59_fd899287e64b4999#$, $#cm_29db2248aba45e59_92b413c92fd1bb6d#$, $#cm_29db2248aba45e59_3b9c0386749be8ad#$, $#cm_29db2248aba45e59_199e2c0b9d4abcb9#$, $#cm_29db2248aba45e59_e94906b2eacf7d3f#$, $#cm_29db2248aba45e59_1dc5655fcaa4c4ca#$, $#cm_29db2248aba45e59_a31e374796869125#$, $#cm_29db2248aba45e59_530e5f456ea259de#$, $#cm_29db2248aba45e59_1943b3f46fabaee4#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Released in 2006; Merged with mainline GCC in 2009 [$#cm_c47ad9a552aa7e82_0dd07d427c84c0f6#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Last version: 2.5 (GPL v2 license)"
+    }, 
+    {
+      "bold": "yes", 
+      "italic": "yes", 
+      "note": "Redesigned and unified in [$#cm_d76ac3bb9a3f744c_b83d269b514aa588#$]"
+    }
+  ], 
+  "start_iso_date": "2004-06-01", 
+  "title": "Interactive Compilation Interface (ICI)", 
+  "to": "open up production compilers (GCC, Open64, PathScale, etc.) through light-weight event-based plugin framework and transform them into powerful interactive research toolsets", 
   "type": {
     "name": "software"
   }, 
-  "start_iso_date": "2004-06-01"
+  "urls": [
+    {
+      "title": "Website", 
+      "url": "http://cTuning.org/ici"
+    }
+  ]
 }

@@ -1,57 +1,33 @@
 {
-  "title": "Unifying remote access to high-performance computing systems (HPC) as a web service", 
-  "where": "MS Thesis, Moscow Institute of Physics and Technology and Institute of High-Performance Computing Systems of Russian Academy of Sciences", 
-  "notes": [
-    {
-      "note": "Concept [$#cm_e84a25bcb528c798_a514226a97bd442e#$]", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "MS degree [$#cm_e50b2aeb0e771b47_e24de396a1b7c9d2#$]", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Associated public software [$#cm_d76ac3bb9a3f744c_a8e290024a684917#$]", 
-      "italic": "yes"
-    }
-  ], 
-  "when": "May 1999", 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "local_bib": "doc.bib", 
-  "cm_display_as_alias": "Unifying remote access to high-performance computing systems as a web service", 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2012-10-23T14:39:25.472000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }, 
-    {
-      "cm_iso_datetime": "2012-11-12T12:41:35.648000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }
-  ], 
   "authors": [
     {
       "name": "0728a400aa1c86fe"
     }
   ], 
-  "place": "Moscow, Russia", 
   "bib_ref": "cm:29db2248aba45e59:c3a327ce9649509d", 
+  "local_bib": "doc.bib", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Concept [$#cm_e84a25bcb528c798_a514226a97bd442e#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "MS degree [$#cm_e50b2aeb0e771b47_e24de396a1b7c9d2#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Associated public software [$#cm_d76ac3bb9a3f744c_a8e290024a684917#$]"
+    }
+  ], 
+  "place": "Moscow, Russia", 
+  "publish_iso_date": "1999-06-01", 
+  "title": "Unifying remote access to high-performance computing systems (HPC) as a web service", 
   "type": {
-    "peer_reviewed": "yes", 
     "name": "ms_thesis", 
+    "peer_reviewed": "yes", 
     "scope": "national"
   }, 
-  "publish_iso_date": "1999-06-01"
+  "when": "May 1999", 
+  "where": "MS Thesis, Moscow Institute of Physics and Technology and Institute of High-Performance Computing Systems of Russian Academy of Sciences"
 }

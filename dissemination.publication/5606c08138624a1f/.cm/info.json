@@ -1,4 +1,24 @@
 {
+  "backup_data_uid": "5606c08138624a1f", 
+  "backup_module_uid": "29db2248aba45e59", 
   "backup_module_uoa": "dissemination.publication", 
-  "backup_module_uid": "29db2248aba45e59"
+  "cm_outdated": {
+    "cm_access_control": {
+      "comments_groups": "registered", 
+      "read_groups": "all", 
+      "write_groups": "owner"
+    }, 
+    "powered_by": {
+      "name": "Collective Mind Engine", 
+      "version": "1.0.1977.beta"
+    }
+  }, 
+  "control": {
+    "author_uoa": "0728a400aa1c86fe", 
+    "engine": "CM", 
+    "iso_datetime": "2012-10-25T18:18:53.514000", 
+    "version": []
+  }, 
+  "data_name": "TBA: PhD - Abdul Wahid Memon", 
+  "description": "Preparing PhD in Paris South University"
 }

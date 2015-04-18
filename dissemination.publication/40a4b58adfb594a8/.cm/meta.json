@@ -1,32 +1,4 @@
 {
-  "title": "Experience report: community-driven reviewing and validation of publications", 
-  "where": "Proceedings of the 1st Workshop on Reproducible Research Methodologies and New Publication Models in Computer Engineering (TRUST 2014) co-located with PLDI 2014", 
-  "notes": [
-    {
-      "note": "We propose a new and open publication model for reproducible research where articles, experiments and artifacts are reviewed by the community based on our practical related experience during MILEPOST, cTuning and Collective Mind projects since 2008", 
-      "italic": "yes"
-    }
-  ], 
-  "when": "June 2014", 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "local_bib": "doc.bib", 
-  "cm_display_as_alias": "Experience report: community-driven reviewing and validation of publications", 
-  "powered_by": {
-    "version": "1.0.3121.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2014-06-25T19:33:14.969000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }
-  ], 
   "authors": [
     {
       "name": "0728a400aa1c86fe"
@@ -35,19 +7,29 @@
       "name": "a8524659a1e72739"
     }
   ], 
+  "bib_ref": "cm:29db2248aba45e59:40a4b58adfb594a8", 
   "document_urls": [
     "http://dl.acm.org/citation.cfm?id=2618142", 
     "http://hal.inria.fr/hal-01006563", 
     "http://arxiv.org/abs/1406.4020", 
     "http://cTuning.org/reproducibility"
   ], 
+  "local_bib": "doc.bib", 
+  "local_doc": "doc.pdf", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "We propose a new and open publication model for reproducible research where articles, experiments and artifacts are reviewed by the community based on our practical related experience during MILEPOST, cTuning and Collective Mind projects since 2008"
+    }
+  ], 
   "place": "Edinburgh, UK", 
-  "bib_ref": "cm:29db2248aba45e59:40a4b58adfb594a8", 
+  "publish_iso_date": "2014-06-12", 
+  "title": "Experience report: community-driven reviewing and validation of publications", 
   "type": {
-    "peer_reviewed": "no", 
     "name": "workshop", 
+    "peer_reviewed": "no", 
     "scope": "international"
   }, 
-  "publish_iso_date": "2014-06-12", 
-  "local_doc": "doc.pdf"
+  "when": "June 2014", 
+  "where": "Proceedings of the 1st Workshop on Reproducible Research Methodologies and New Publication Models in Computer Engineering (TRUST 2014) co-located with PLDI 2014"
 }

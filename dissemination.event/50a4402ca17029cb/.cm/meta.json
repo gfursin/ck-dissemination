@@ -1,49 +1,4 @@
 {
-  "colocated": "HPCA 2014", 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2013-11-24T18:11:49.709000", 
-      "cm_module_uid": "77154d189d2e226c", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }
-  ], 
-  "title": "Workshop on Reproducible Research Methodologies (REPRODUCE)", 
-  "notes": [
-    {
-      "note": "Submission Deadline: January 8, 2014", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Notification of Acceptance: January 23, 2014", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Final (Camera-ready) Manuscripts Due: January 30, 2014", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Workshop Date: February 15, 2014", 
-      "italic": "yes"
-    }
-  ], 
-  "when": "February 2014", 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "cm_display_as_alias": "Workshop - REPRODUCE 2014 @ HPCA 2014", 
-  "powered_by": {
-    "version": "1.0.2318.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "urls": [
-    {
-      "url": "http://www.occamportal.org/reproduce", 
-      "title": "Website"
-    }
-  ], 
   "authors": [
     {
       "affiliation": "University of Pittsburgh, USA", 
@@ -62,9 +17,36 @@
       "name": "951b4c09aa9529c0"
     }
   ], 
+  "colocated": "HPCA 2014", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Submission Deadline: January 8, 2014"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Notification of Acceptance: January 23, 2014"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Final (Camera-ready) Manuscripts Due: January 30, 2014"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Workshop Date: February 15, 2014"
+    }
+  ], 
   "place": "Orlando, Florida, USA", 
+  "start_iso_date": "2014-02-15", 
+  "title": "Workshop on Reproducible Research Methodologies (REPRODUCE)", 
   "type": {
     "name": "workshop"
   }, 
-  "start_iso_date": "2014-02-15"
+  "urls": [
+    {
+      "title": "Website", 
+      "url": "http://www.occamportal.org/reproduce"
+    }
+  ], 
+  "when": "February 2014"
 }

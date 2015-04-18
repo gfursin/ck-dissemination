@@ -1,75 +1,51 @@
 {
-  "urls": [
-    {
-      "url": "http://ctuning.org/wiki/index.php/CDatabase", 
-      "title": "cTuning live repository"
-    }, 
-    {
-      "url": "http://cTuning.org/cpredict", 
-      "title": "Online advice web service to predict optimizations based on features"
-    }
-  ], 
-  "title": "cTuning.org public repository (aka cTuning1)", 
-  "notes": [
-    {
-      "note": "Opened to public in 2008", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Included past research experimentatal results on program and architecture multi-objective tuning (execution time, code size, compilation time, power consumption) for reproducibility and collaborative extensions", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Connected with MILEPOST GCC [$#cm_d76ac3bb9a3f744c_38aa288519b38bf7#$] for continuous and online training and improvement of the prediction models", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Funded by [$#cm_c47ad9a552aa7e82_fae723f1d4b7dab1#$, $#cm_c47ad9a552aa7e82_e09d580d14d149f4#$, $#cm_c47ad9a552aa7e82_34164ee49ffba5de#$, $#cm_c47ad9a552aa7e82_0dd07d427c84c0f6#$, $#cm_c47ad9a552aa7e82_6b7444e0a5d4022a#$]", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Powered by cTuning Framework [$#cm_d76ac3bb9a3f744c_69fd2f54eef853b1#$]", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Gradually being discontinued for [$#cm_4d63887b5cda54aa_4d4fbc8d3ae7e75c#$]", 
-      "bold": "yes", 
-      "italic": "yes"
-    }
-  ], 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "to": "start collaborative systematization of analysis, design and optimization of computer systems based on extensible public repositories of knowledge, crowdsourcing, online tuning and machine learning", 
-  "cm_display_as_alias": "2006 - cTuning1", 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }, 
-    {
-      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }
-  ], 
   "authors": [
     {
       "name": "0728a400aa1c86fe"
     }
   ], 
   "end_iso_date": "cur.", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Opened to public in 2008"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Included past research experimentatal results on program and architecture multi-objective tuning (execution time, code size, compilation time, power consumption) for reproducibility and collaborative extensions"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Connected with MILEPOST GCC [$#cm_d76ac3bb9a3f744c_38aa288519b38bf7#$] for continuous and online training and improvement of the prediction models"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Funded by [$#cm_c47ad9a552aa7e82_fae723f1d4b7dab1#$, $#cm_c47ad9a552aa7e82_e09d580d14d149f4#$, $#cm_c47ad9a552aa7e82_34164ee49ffba5de#$, $#cm_c47ad9a552aa7e82_0dd07d427c84c0f6#$, $#cm_c47ad9a552aa7e82_6b7444e0a5d4022a#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Powered by cTuning Framework [$#cm_d76ac3bb9a3f744c_69fd2f54eef853b1#$]"
+    }, 
+    {
+      "bold": "yes", 
+      "italic": "yes", 
+      "note": "Gradually being discontinued for [$#cm_4d63887b5cda54aa_4d4fbc8d3ae7e75c#$]"
+    }
+  ], 
+  "start_iso_date": "2006-01-01", 
+  "title": "cTuning.org public repository (aka cTuning1)", 
+  "to": "start collaborative systematization of analysis, design and optimization of computer systems based on extensible public repositories of knowledge, crowdsourcing, online tuning and machine learning", 
   "type": {
     "name": "public_repository"
   }, 
-  "start_iso_date": "2006-01-01"
+  "urls": [
+    {
+      "title": "cTuning live repository", 
+      "url": "http://ctuning.org/wiki/index.php/CDatabase"
+    }, 
+    {
+      "title": "Online advice web service to predict optimizations based on features", 
+      "url": "http://cTuning.org/cpredict"
+    }
+  ]
 }

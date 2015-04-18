@@ -1,33 +1,4 @@
 {
-  "title": "Introducing 3rd International Workshop on Adaptive Self-Tuning Computing Systems", 
-  "where": "ACM Digital Library", 
-  "publish_iso_date": "2013-04-01", 
-  "when": "2013", 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "local_bib": "doc.bib", 
-  "cm_display_as_alias": "Introducing 3rd International Workshop on Adaptive Self-Tuning Computing Systems", 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }, 
-    {
-      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }
-  ], 
   "authors": [
     {
       "name": "a8524659a1e72739"
@@ -36,15 +7,20 @@
       "name": "0728a400aa1c86fe"
     }
   ], 
+  "bib_ref": "cm:29db2248aba45e59:c574c168b737dd92", 
   "document_urls": [
     "http://dl.acm.org/citation.cfm?id=2484904"
   ], 
+  "local_bib": "doc.bib", 
+  "local_doc": "doc.pdf", 
   "place": "", 
-  "bib_ref": "cm:29db2248aba45e59:c574c168b737dd92", 
+  "publish_iso_date": "2013-04-01", 
+  "title": "Introducing 3rd International Workshop on Adaptive Self-Tuning Computing Systems", 
   "type": {
-    "peer_reviewed": "no", 
     "name": "introduction", 
+    "peer_reviewed": "no", 
     "scope": "international"
   }, 
-  "local_doc": "doc.pdf"
+  "when": "2013", 
+  "where": "ACM Digital Library"
 }

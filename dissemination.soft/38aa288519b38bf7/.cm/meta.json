@@ -1,83 +1,59 @@
 {
-  "urls": [
-    {
-      "url": "http://cTuning.org/milepost-gcc", 
-      "title": "Website"
-    }
-  ], 
-  "title": "MILEPOST GCC - machine learning based self-tuning compiler", 
-  "notes": [
-    {
-      "note": "Released in 2009", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Last version: 2.5 (GPL v2 license)", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Merged with cTuning CC [$#cm_d76ac3bb9a3f744c_005a61df9b4a4698#$]", 
-      "bold": "yes", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Funded by [$#cm_c47ad9a552aa7e82_fae723f1d4b7dab1#$]", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Collaboration with IBM (Israel), University of Edinburgh (UK), ARC (now Synopsys, UK), CAPS Entreprise (France), and ICT (China)", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Developed within EU FP6 MILEPOST project [$#cm_4978a2f58b214af0_eafac77e4406a4b5#$]", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "More info about this activity [$#cm_1de563264d7896b1_bb9d437ac70bd23a#$]", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Associated live repository and online advice service [$#cm_4d63887b5cda54aa_122a0cb1e6ff9fc1#$]", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Considered by IBM to be the first practical machine-learning based compiler in the world (IBM press-release [$#cm_29db2248aba45e59_065ef420f809ff7b#$])", 
-      "bold": "yes", 
-      "italic": "yes"
-    }
-  ], 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "cm_display_as_alias": "2006 - 2009 - MILEPOST GCC", 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }, 
-    {
-      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }
-  ], 
   "authors": [
     {
       "name": "0728a400aa1c86fe"
     }
   ], 
   "end_iso_date": "2009-06-30", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Released in 2009"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Last version: 2.5 (GPL v2 license)"
+    }, 
+    {
+      "bold": "yes", 
+      "italic": "yes", 
+      "note": "Merged with cTuning CC [$#cm_d76ac3bb9a3f744c_005a61df9b4a4698#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Funded by [$#cm_c47ad9a552aa7e82_fae723f1d4b7dab1#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Collaboration with IBM (Israel), University of Edinburgh (UK), ARC (now Synopsys, UK), CAPS Entreprise (France), and ICT (China)"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Developed within EU FP6 MILEPOST project [$#cm_4978a2f58b214af0_eafac77e4406a4b5#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "More info about this activity [$#cm_1de563264d7896b1_bb9d437ac70bd23a#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Associated live repository and online advice service [$#cm_4d63887b5cda54aa_122a0cb1e6ff9fc1#$]"
+    }, 
+    {
+      "bold": "yes", 
+      "italic": "yes", 
+      "note": "Considered by IBM to be the first practical machine-learning based compiler in the world (IBM press-release [$#cm_29db2248aba45e59_065ef420f809ff7b#$])"
+    }
+  ], 
+  "start_iso_date": "2006-07-01", 
+  "title": "MILEPOST GCC - machine learning based self-tuning compiler", 
   "type": {
     "name": "software"
   }, 
-  "start_iso_date": "2006-07-01"
+  "urls": [
+    {
+      "title": "Website", 
+      "url": "http://cTuning.org/milepost-gcc"
+    }
+  ]
 }

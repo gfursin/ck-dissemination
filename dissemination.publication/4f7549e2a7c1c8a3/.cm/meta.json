@@ -1,33 +1,4 @@
 {
-  "title": "MILEPOST GCC: machine learning based research compiler", 
-  "where": "Poster at ACACES summer school", 
-  "publish_iso_date": "2008-07-01", 
-  "when": "2008", 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "local_bib": "doc.bib", 
-  "cm_display_as_alias": "Poster - MILEPOST GCC: machine learning based research compiler", 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2012-10-23T14:35:01.007000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }, 
-    {
-      "cm_iso_datetime": "2012-11-12T12:40:58.572000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }
-  ], 
   "authors": [
     {
       "name": "0728a400aa1c86fe"
@@ -78,13 +49,18 @@
       "name": "cc58cd93d4412b9b"
     }
   ], 
-  "reproducible": "yes", 
-  "place": "Italy", 
   "bib_ref": "cm:29db2248aba45e59:4f7549e2a7c1c8a3", 
+  "local_bib": "doc.bib", 
+  "local_doc": "doc.pdf", 
+  "place": "Italy", 
+  "publish_iso_date": "2008-07-01", 
+  "reproducible": "yes", 
+  "title": "MILEPOST GCC: machine learning based research compiler", 
   "type": {
-    "peer_reviewed": "yes", 
     "name": "poster", 
+    "peer_reviewed": "yes", 
     "scope": "international"
   }, 
-  "local_doc": "doc.pdf"
+  "when": "2008", 
+  "where": "Poster at ACACES summer school"
 }

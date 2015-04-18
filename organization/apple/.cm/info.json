@@ -1,14 +1,24 @@
 {
-  "control": {
-    "engine": "CK", 
-    "version": [
-      "0", 
-      "9", 
-      "4113"
-    ], 
-    "iso_datetime": "2014-12-06T16:36:04.266000"
-  }, 
+  "backup_data_uid": "83209905d35433da", 
+  "backup_module_uid": "3594786b07dc710d", 
   "backup_module_uoa": "organization", 
+  "cm_outdated": {
+    "cm_access_control": {
+      "comments_groups": "registered", 
+      "read_groups": "all", 
+      "write_groups": "owner"
+    }, 
+    "powered_by": {
+      "name": "Collective Mind Engine", 
+      "version": "1.0.1977.beta"
+    }
+  }, 
+  "control": {
+    "author_uoa": "0728a400aa1c86fe", 
+    "engine": "CM", 
+    "iso_datetime": "2012-10-02T14:18:52.238000", 
+    "version": []
+  }, 
   "data_name": "apple", 
-  "backup_module_uid": "3594786b07dc710d"
+  "description": ""
 }

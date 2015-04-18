@@ -1,59 +1,4 @@
 {
-  "colocated": "ASPLOS 2012", 
-  "urls": [
-    {
-      "url": "http://exadapt.org/2012/index.html", 
-      "title": "Website"
-    }, 
-    {
-      "url": "http://dl.acm.org/citation.cfm?id=2185475", 
-      "title": "ACM DL"
-    }
-  ], 
-  "title": "2nd International Workshop on Adaptive Self-Tuning Computing Systems for the Exaflop Era (EXADAPT)", 
-  "notes": [
-    {
-      "note": "Keynote on \"Self-Tuning Bio-Inspired Massively-Parallel Computing\" by Prof. Steve Furber (Manchester University, UK)", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Introduction in [$#cm_29db2248aba45e59_72986f50f464ba31#$]", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Associated panel [$#cm_77154d189d2e226c_f7f7ff5c64c13965#$]", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Sponsored by Google, USA", 
-      "italic": "yes"
-    }
-  ], 
-  "when": "March 2012", 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "cm_display_as_alias": "Workshop - EXADAPT 2012 @ ASPLOS 2012", 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }, 
-    {
-      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }
-  ], 
   "authors": [
     {
       "affiliation": "Intel/CEA Exascale Lab, France", 
@@ -72,9 +17,40 @@
       "name": "63f10a6934be7b65"
     }
   ], 
+  "colocated": "ASPLOS 2012", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Keynote on \"Self-Tuning Bio-Inspired Massively-Parallel Computing\" by Prof. Steve Furber (Manchester University, UK)"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Introduction in [$#cm_29db2248aba45e59_72986f50f464ba31#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Associated panel [$#cm_77154d189d2e226c_f7f7ff5c64c13965#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Sponsored by Google, USA"
+    }
+  ], 
   "place": "London, UK", 
+  "start_iso_date": "2012-03-03", 
+  "title": "2nd International Workshop on Adaptive Self-Tuning Computing Systems for the Exaflop Era (EXADAPT)", 
   "type": {
     "name": "workshop"
   }, 
-  "start_iso_date": "2012-03-03"
+  "urls": [
+    {
+      "title": "Website", 
+      "url": "http://exadapt.org/2012/index.html"
+    }, 
+    {
+      "title": "ACM DL", 
+      "url": "http://dl.acm.org/citation.cfm?id=2185475"
+    }
+  ], 
+  "when": "March 2012"
 }

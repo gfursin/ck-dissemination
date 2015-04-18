@@ -1,16 +1,4 @@
 {
-  "title": "The MHAOTEU Toolset for Memory Hierarchy Management", 
-  "when": "August 2000", 
-  "notes": [
-    {
-      "note": "Part of EU FP5 MHAOTEU project [$#cm_4978a2f58b214af0_90d148caafe7792c#$]", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Associated public software [$#cm_d76ac3bb9a3f744c_9f143f5b31500137#$]", 
-      "italic": "yes"
-    }
-  ], 
   "authors": [
     {
       "name": "bbd2187a570e42a4"
@@ -59,36 +47,9 @@
     }
   ], 
   "bib": "@inproceedings{29db2248aba45e59:5f77c2b4c436ba2f,\n\n  author =    {J. Abella and S.A.A. Touati and A. Anderson and C. Ciuraneta and J.M. Codina M. Dai and C. Eisenbeis and G. Fursin and A. Gonzalez and J. Llosa and M. O'Boyle and A. Randrianatoavina and J. Sanchez and O. Temam and X. Vera and G. Watts},\n  title =     {The MHAOTEU Toolset for Memory Hierarchy Management},\n  booktitle = {16th IMACS World Congress on Scientific Computation, Applied Mathematics and Simulation},\n  year =      {2000}\n }\n\n", 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "where": "16th IMACS World Congress on Scientific Computation, Applied Mathematics and Simulation", 
-  "local_bib": "doc.bib", 
-  "cm_display_as_alias": "The MHAOTEU Toolset for Memory Hierarchy Management", 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2012-10-23T13:02:01.730000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }, 
-    {
-      "cm_iso_datetime": "2012-11-12T12:40:27.286000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }
-  ], 
   "bib_parsed": {
+    "_code": "Abella2000", 
     "_type": "inproceedings", 
-    "title": "The MHAOTEU Toolset for Memory Hierarchy Management", 
-    "booktitle": "16th IMACS World Congress on Scientific Computation, Applied Mathematics and Simulation", 
     "author": [
       [
         "", 
@@ -181,16 +142,31 @@
         ""
       ]
     ], 
-    "_code": "Abella2000", 
+    "booktitle": "16th IMACS World Congress on Scientific Computation, Applied Mathematics and Simulation", 
+    "title": "The MHAOTEU Toolset for Memory Hierarchy Management", 
     "year": "2000"
   }, 
-  "place": "Lausanne, Switzerland", 
   "bib_ref": "cm:29db2248aba45e59:4e8d86d598edbe3b", 
+  "local_bib": "doc.bib", 
+  "local_doc": "doc.pdf", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Part of EU FP5 MHAOTEU project [$#cm_4978a2f58b214af0_90d148caafe7792c#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Associated public software [$#cm_d76ac3bb9a3f744c_9f143f5b31500137#$]"
+    }
+  ], 
+  "place": "Lausanne, Switzerland", 
+  "publish_iso_date": "2000-01-01", 
+  "title": "The MHAOTEU Toolset for Memory Hierarchy Management", 
   "type": {
-    "peer_reviewed": "yes", 
     "name": "conference", 
+    "peer_reviewed": "yes", 
     "scope": "international"
   }, 
-  "publish_iso_date": "2000-01-01", 
-  "local_doc": "doc.pdf"
+  "when": "August 2000", 
+  "where": "16th IMACS World Congress on Scientific Computation, Applied Mathematics and Simulation"
 }

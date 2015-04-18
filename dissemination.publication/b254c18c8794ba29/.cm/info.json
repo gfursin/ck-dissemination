@@ -1,13 +1,23 @@
 {
-  "control": {
-    "engine": "CK", 
-    "version": [
-      "0", 
-      "9", 
-      "4113"
-    ], 
-    "iso_datetime": "2014-12-06T15:38:10.349000"
-  }, 
+  "backup_data_uid": "b254c18c8794ba29", 
+  "backup_module_uid": "29db2248aba45e59", 
   "backup_module_uoa": "dissemination.publication", 
-  "backup_module_uid": "29db2248aba45e59"
+  "cm_outdated": {
+    "cm_access_control": {
+      "comments_groups": "registered", 
+      "read_groups": "all", 
+      "write_groups": "owner"
+    }, 
+    "powered_by": {
+      "name": "Collective Mind Engine", 
+      "version": "1.0.1977.beta"
+    }
+  }, 
+  "control": {
+    "author_uoa": "0728a400aa1c86fe", 
+    "engine": "CM", 
+    "iso_datetime": "2012-10-23T14:37:46.946000", 
+    "version": []
+  }, 
+  "data_name": "A fast and accurate method for determining a lower bound on execution time"
 }

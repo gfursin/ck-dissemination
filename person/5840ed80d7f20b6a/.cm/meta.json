@@ -1,21 +1,3 @@
 {
-  "name": "Andrea Ornstein", 
-  "cm_display_as_alias": "Andrea Ornstein", 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2012-10-23T13:30:13.900000", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe", 
-      "cm_module_uid": "b0743a4044480ead"
-    }
-  ], 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }
+  "name": "Andrea Ornstein"
 }

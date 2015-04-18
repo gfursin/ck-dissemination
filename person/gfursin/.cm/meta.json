@@ -1,47 +1,14 @@
 {
   "cm_email": "gfursin@gmail.com", 
-  "personal_web_page": "http://fursin.net", 
-  "name": "Grigori Fursin", 
   "job_organization": [
     "4aa6d3084fe08c03", 
     "d623dd74a54aa7ab"
   ], 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "cm_description": "", 
-  "cm_display_as_alias": "Grigori Fursin", 
+  "job_title": "Senior Research Scientist", 
+  "name": "Grigori Fursin", 
+  "personal_web_page": "http://fursin.net", 
+  "professional_web_page": "http://cTuning.org/lab/people/gfursin", 
   "publications": [
     "983680d43b0b033d"
-  ], 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2012-08-28T11:57:13.146000", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe", 
-      "cm_module_uid": "b0743a4044480ead"
-    }, 
-    {
-      "cm_iso_datetime": "2012-08-28T12:07:44.962000", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_note": "", 
-      "cm_user_uoa": "0728a400aa1c86fe", 
-      "cm_module_uid": "b0743a4044480ead"
-    }, 
-    {
-      "cm_iso_datetime": "2012-08-28T13:14:17.698000", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_note": "", 
-      "cm_user_uoa": "0728a400aa1c86fe", 
-      "cm_module_uid": "b0743a4044480ead"
-    }
-  ], 
-  "job_title": "Senior Research Scientist", 
-  "professional_web_page": "http://cTuning.org/lab/people/gfursin"
+  ]
 }

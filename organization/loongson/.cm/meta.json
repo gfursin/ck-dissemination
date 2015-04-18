@@ -1,31 +1,12 @@
 {
-  "cm_archive": "", 
-  "name": "Loongson Technology Corp. Ltd, China", 
-  "country": "", 
-  "cm_file_upload_type": "", 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
   "abbreviation": "", 
-  "cm_description": "", 
-  "cm_display_as_alias": "Loongson Technology Corp. Ltd, China", 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2012-10-02T14:23:54.606000", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe", 
-      "cm_module_uid": "3594786b07dc710d"
-    }
-  ], 
+  "cm_archive": "", 
+  "cm_file_upload_name": "", 
+  "cm_file_upload_type": "", 
+  "country": "", 
+  "name": "Loongson Technology Corp. Ltd, China", 
+  "type": "company", 
   "urls": [
     "http://www.loongson.cn"
-  ], 
-  "cm_file_upload_name": "", 
-  "type": "company"
+  ]
 }

@@ -1,41 +1,23 @@
 {
-  "title": "Crowdsourcing autotuning: challenges and possible solutions", 
-  "where": "Extended abstract at Dagstuhl Seminar 13401", 
-  "publish_iso_date": "2014-01-17", 
-  "when": "January 2014", 
-  "powered_by": {
-    "version": "1.0.3121.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "local_bib": "doc.bib", 
-  "cm_display_as_alias": "Extended abstract - Crowdsourcing autotuning: challenges and possible solutions", 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2014-02-02T15:56:04.547000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }
-  ], 
   "authors": [
     {
       "name": "0728a400aa1c86fe"
     }
   ], 
-  "place": "Dagstuhl, Germany", 
   "bib_ref": "cm:29db2248aba45e59:cd75d4dd0a5957aa", 
-  "local_doc": "doc.pdf", 
-  "type": {
-    "peer_reviewed": "yes", 
-    "name": "extended_abstract", 
-    "scope": "international"
-  }, 
   "document_urls": [
     "http://dx.doi.org/10.4230/DagRep.3.9.214"
-  ]
+  ], 
+  "local_bib": "doc.bib", 
+  "local_doc": "doc.pdf", 
+  "place": "Dagstuhl, Germany", 
+  "publish_iso_date": "2014-01-17", 
+  "title": "Crowdsourcing autotuning: challenges and possible solutions", 
+  "type": {
+    "name": "extended_abstract", 
+    "peer_reviewed": "yes", 
+    "scope": "international"
+  }, 
+  "when": "January 2014", 
+  "where": "Extended abstract at Dagstuhl Seminar 13401"
 }

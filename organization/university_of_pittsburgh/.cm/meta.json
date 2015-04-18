@@ -1,32 +1,13 @@
 {
+  "abbreviation": "", 
+  "cm_classes_uoa": [], 
   "cm_dependencies": {
     "classes": []
   }, 
-  "name": "", 
-  "country": "", 
-  "cm_classes_uoa": [], 
+  "cm_dissemination": {}, 
   "cm_properties": {}, 
-  "cm_access_control": {
-    "read_groups": "registered", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "abbreviation": "", 
-  "cm_description": "University of Pittsburgh", 
-  "cm_display_as_alias": "University of Pittsburgh, USA", 
-  "powered_by": {
-    "version": "1.0.2318.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "urls": [], 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2013-11-24T17:30:28.540000", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe", 
-      "cm_module_uid": "3594786b07dc710d"
-    }
-  ], 
+  "country": "", 
+  "name": "", 
   "type": "", 
-  "cm_dissemination": {}
+  "urls": []
 }

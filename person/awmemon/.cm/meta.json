@@ -1,30 +1,11 @@
 {
   "cm_email": "engrwahidmemon@gmail.com", 
-  "personal_web_page": "", 
-  "name": "Abdul Wahid Memon", 
   "job_organization": [
     "4aa6d3084fe08c03"
   ], 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "cm_description": "", 
-  "cm_display_as_alias": "Abdul Wahid Memon", 
-  "publications": [], 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2012-06-19T11:24:04.338000", 
-      "cm_note": "", 
-      "cm_module_uid": "b0743a4044480ead", 
-      "cm_user_uoa": "74c2480dcec9e85d"
-    }
-  ], 
   "job_title": "PhD student at INRIA", 
-  "professional_web_page": ""
+  "name": "Abdul Wahid Memon", 
+  "personal_web_page": "", 
+  "professional_web_page": "", 
+  "publications": []
 }

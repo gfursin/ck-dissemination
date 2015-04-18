@@ -1,52 +1,13 @@
 {
-  "title": "Modeling of processes of learning and recognition in modified neural network", 
-  "when": "1997", 
-  "notes": [
-    {
-      "note": "Concept [$#cm_e84a25bcb528c798_10afe24ba694c479#$, $#cm_e84a25bcb528c798_a514226a97bd442e#$]", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Associated public software [$#cm_d76ac3bb9a3f744c_c9058860d64c22bd#$, $#cm_d76ac3bb9a3f744c_a8e290024a684917#$]", 
-      "italic": "yes"
-    }
-  ], 
   "authors": [
     {
       "name": "0728a400aa1c86fe"
     }
   ], 
   "bib": "@inproceedings{29db2248aba45e59:f6b2ef4dca34bb4b,\n\n  author =    {Grigori Fursin},\n  title =     {Modeling of processes of learning and recognition in modified neural network},\n  booktitle = {Proceedings of the national conference on physical processes in devices of electronic and laser engineering at Moscow Institute of Physics and Technology},\n  pages =     {102-111},\n  location = {Moscow, Russia},\n  year =      {1997}\n}\n\n", 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "where": "Proceedings of the national conference on physical processes in devices of electronic and laser engineering at Moscow Institute of Physics and Technology", 
-  "local_bib": "doc.bib", 
-  "cm_display_as_alias": "Modeling of processes of learning and recognition in modified neural network", 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2012-10-23T14:38:41.130000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }, 
-    {
-      "cm_iso_datetime": "2012-11-12T12:41:27.158000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }
-  ], 
   "bib_parsed": {
+    "_code": "Fursin1997p102", 
     "_type": "inproceedings", 
-    "lastpage": "111", 
-    "booktitle": "Proceedings of the national conference on physical processes in devices of electronic and laser engineering at Moscow Institute of Physics and Technology", 
     "author": [
       [
         "", 
@@ -55,18 +16,33 @@
         ""
       ]
     ], 
+    "booktitle": "Proceedings of the national conference on physical processes in devices of electronic and laser engineering at Moscow Institute of Physics and Technology", 
     "firstpage": "102", 
-    "_code": "Fursin1997p102", 
+    "lastpage": "111", 
     "location": "Moscow, Russia", 
-    "year": "1997", 
-    "title": "Modeling of processes of learning and recognition in modified neural network"
+    "title": "Modeling of processes of learning and recognition in modified neural network", 
+    "year": "1997"
   }, 
-  "place": "Moscow, Russia", 
   "bib_ref": "cm:29db2248aba45e59:5fe68265adaf4b24", 
+  "local_bib": "doc.bib", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Concept [$#cm_e84a25bcb528c798_10afe24ba694c479#$, $#cm_e84a25bcb528c798_a514226a97bd442e#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Associated public software [$#cm_d76ac3bb9a3f744c_c9058860d64c22bd#$, $#cm_d76ac3bb9a3f744c_a8e290024a684917#$]"
+    }
+  ], 
+  "place": "Moscow, Russia", 
+  "publish_iso_date": "1997-05-01", 
+  "title": "Modeling of processes of learning and recognition in modified neural network", 
   "type": {
-    "peer_reviewed": "yes", 
     "name": "conference", 
+    "peer_reviewed": "yes", 
     "scope": "national"
   }, 
-  "publish_iso_date": "1997-05-01"
+  "when": "1997", 
+  "where": "Proceedings of the national conference on physical processes in devices of electronic and laser engineering at Moscow Institute of Physics and Technology"
 }

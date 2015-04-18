@@ -1,50 +1,40 @@
 {
-  "title": "Using Machine Learning to Focus Iterative Optimization", 
-  "bib": "@inproceedings{29db2248aba45e59:3854f3510e3e6c91,\n author = {Agakov, Felix and Bonilla, Edwin and Cavazos, John and Franke, Bj\\\"{o}rn and Fursin, Grigori and O'Boyle, Michael F. P. and Thomson, John and Toussaint, Mark and Williams, Christopher K. I.},\n title = {Using Machine Learning to Focus Iterative Optimization},\n booktitle = {Proceedings of the International Symposium on Code Generation and Optimization},\n series = {CGO'06},\n year = {2006},\n isbn = {0-7695-2499-0},\n pages = {295--305},\n numpages = {11},\n url = {http://dx.doi.org/10.1109/CGO.2006.37},\n doi = {10.1109/CGO.2006.37},\n acmid = {1122412},\n publisher = {IEEE Computer Society},\n address = {Washington, DC, USA},\n}\n\n", 
-  "notes": [
-    {
-      "note": "Best presentation award", 
-      "bold": "yes", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Concept [$#cm_e84a25bcb528c798_4144fde47d68ae99#$]", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Extended journal version in [$#cm_29db2248aba45e59_a31e374796869125#$]", 
-      "bold": "yes", 
-      "italic": "yes"
-    }
-  ], 
   "acceptance": "acceptance rate=36$#cm_cv_percent#$ (29/80)", 
-  "when": "March 2006", 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "where": "Proceedings of the International Symposium on Code Generation and Optimization (CGO)", 
-  "local_bib": "doc.bib", 
-  "cm_display_as_alias": "Using Machine Learning to Focus Iterative Optimization", 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_updated": [
+  "authors": [
     {
-      "cm_iso_datetime": "2012-10-23T12:57:23.339000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
+      "name": "b2b5bdb50b330623"
+    }, 
+    {
+      "name": "372f04e6c991a4a9"
+    }, 
+    {
+      "name": "0e87696f4c2c8251"
+    }, 
+    {
+      "name": "15a2f01b9308dbd0"
+    }, 
+    {
+      "name": "0728a400aa1c86fe"
+    }, 
+    {
+      "name": "cc58cd93d4412b9b"
+    }, 
+    {
+      "name": "1707e0868434377a"
+    }, 
+    {
+      "name": "6dbe0453bb168051"
+    }, 
+    {
+      "name": "45a9acdd7f8cad9e"
     }
   ], 
+  "bib": "@inproceedings{29db2248aba45e59:3854f3510e3e6c91,\n author = {Agakov, Felix and Bonilla, Edwin and Cavazos, John and Franke, Bj\\\"{o}rn and Fursin, Grigori and O'Boyle, Michael F. P. and Thomson, John and Toussaint, Mark and Williams, Christopher K. I.},\n title = {Using Machine Learning to Focus Iterative Optimization},\n booktitle = {Proceedings of the International Symposium on Code Generation and Optimization},\n series = {CGO'06},\n year = {2006},\n isbn = {0-7695-2499-0},\n pages = {295--305},\n numpages = {11},\n url = {http://dx.doi.org/10.1109/CGO.2006.37},\n doi = {10.1109/CGO.2006.37},\n acmid = {1122412},\n publisher = {IEEE Computer Society},\n address = {Washington, DC, USA},\n}\n\n", 
   "bib_parsed": {
-    "numpages": "11", 
-    "publisher": "IEEE Computer Society", 
+    "_code": "Agakov2006p295305", 
     "_type": "inproceedings", 
-    "doi": "10.1109/CGO.2006.37", 
-    "isbn": "0-7695-2499-0", 
+    "acmid": "1122412", 
+    "address": "Washington, DC, USA", 
     "author": [
       [
         "", 
@@ -101,54 +91,46 @@
         ""
       ]
     ], 
-    "url": "http://dx.doi.org/10.1109/CGO.2006.37", 
-    "series": "CGO'06", 
     "booktitle": "Proceedings of the International Symposium on Code Generation and Optimization", 
-    "acmid": "1122412", 
+    "doi": "10.1109/CGO.2006.37", 
     "firstpage": "295–305", 
-    "_code": "Agakov2006p295305", 
-    "address": "Washington, DC, USA", 
-    "year": "2006", 
+    "isbn": "0-7695-2499-0", 
+    "lastpage": "", 
+    "numpages": "11", 
+    "publisher": "IEEE Computer Society", 
+    "series": "CGO'06", 
     "title": "Using Machine Learning to Focus Iterative Optimization", 
-    "lastpage": ""
+    "url": "http://dx.doi.org/10.1109/CGO.2006.37", 
+    "year": "2006"
   }, 
-  "authors": [
+  "bib_ref": "cm:29db2248aba45e59:3854f3510e3e6c91", 
+  "local_bib": "doc.bib", 
+  "local_doc": "doc.pdf", 
+  "notes": [
     {
-      "name": "b2b5bdb50b330623"
+      "bold": "yes", 
+      "italic": "yes", 
+      "note": "Best presentation award"
     }, 
     {
-      "name": "372f04e6c991a4a9"
+      "italic": "yes", 
+      "note": "Concept [$#cm_e84a25bcb528c798_4144fde47d68ae99#$]"
     }, 
     {
-      "name": "0e87696f4c2c8251"
-    }, 
-    {
-      "name": "15a2f01b9308dbd0"
-    }, 
-    {
-      "name": "0728a400aa1c86fe"
-    }, 
-    {
-      "name": "cc58cd93d4412b9b"
-    }, 
-    {
-      "name": "1707e0868434377a"
-    }, 
-    {
-      "name": "6dbe0453bb168051"
-    }, 
-    {
-      "name": "45a9acdd7f8cad9e"
+      "bold": "yes", 
+      "italic": "yes", 
+      "note": "Extended journal version in [$#cm_29db2248aba45e59_a31e374796869125#$]"
     }
   ], 
+  "pages": "295-305", 
   "place": "New York, NY, USA", 
-  "bib_ref": "cm:29db2248aba45e59:3854f3510e3e6c91", 
   "publish_iso_date": "2006-04-01", 
+  "title": "Using Machine Learning to Focus Iterative Optimization", 
   "type": {
-    "peer_reviewed": "yes", 
     "name": "conference", 
+    "peer_reviewed": "yes", 
     "scope": "international"
   }, 
-  "pages": "295-305", 
-  "local_doc": "doc.pdf"
+  "when": "March 2006", 
+  "where": "Proceedings of the International Symposium on Code Generation and Optimization (CGO)"
 }

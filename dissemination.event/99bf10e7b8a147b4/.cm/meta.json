@@ -1,50 +1,4 @@
 {
-  "colocated": "ADAPT 2014", 
-  "cm_dependencies": {
-    "classes": []
-  }, 
-  "urls": [
-    {
-      "url": "http://adapt-workshop.org/program.htm", 
-      "title": "Website and slides"
-    }, 
-    {
-      "url": "http://collective-mind.blogspot.fr/2014/02/adapt14-panel-on-reproducible-research.html", 
-      "title": "Brief blog note"
-    }
-  ], 
-  "title": "Panel on reproducible research methodologies and new publication models in computer engineering", 
-  "notes": [
-    {
-      "note": "Participants: Jack Davidson (University of Virginia / Co-Chair of ACM's Publication Board, USA); Lieven Eeckhout (Ghent University / Intel ExaScience Lab, Belgium); Sascha Hunold, Jesper Larsson Traff (Vienna University of Technology, Austria); Anton Lokhmotov (ARM, UK); Alex K.Jones, Daniel Mosse, Bruce Childers (University of Pittsburgh, USA); Grigori Fursin (INRIA, France);", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Associated workshop [$#cm_77154d189d2e226c_62b66f207403dbbb#$]", 
-      "italic": "yes"
-    }
-  ], 
-  "cm_classes_uoa": [], 
-  "when": "January 2014", 
-  "cm_properties": {}, 
-  "cm_access_control": {
-    "read_groups": "registered", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "cm_display_as_alias": "", 
-  "powered_by": {
-    "version": "1.0.3121.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2014-02-10T14:20:03.186000", 
-      "cm_module_uid": "77154d189d2e226c", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }
-  ], 
   "authors": [
     {
       "affiliation": "INRIA, France", 
@@ -63,10 +17,38 @@
       "name": "951b4c09aa9529c0"
     }
   ], 
+  "cm_classes_uoa": [], 
+  "cm_dependencies": {
+    "classes": []
+  }, 
+  "cm_dissemination": {}, 
+  "cm_properties": {}, 
+  "colocated": "ADAPT 2014", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Participants: Jack Davidson (University of Virginia / Co-Chair of ACM's Publication Board, USA); Lieven Eeckhout (Ghent University / Intel ExaScience Lab, Belgium); Sascha Hunold, Jesper Larsson Traff (Vienna University of Technology, Austria); Anton Lokhmotov (ARM, UK); Alex K.Jones, Daniel Mosse, Bruce Childers (University of Pittsburgh, USA); Grigori Fursin (INRIA, France);"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Associated workshop [$#cm_77154d189d2e226c_62b66f207403dbbb#$]"
+    }
+  ], 
   "place": "Vienna, Austria", 
+  "start_iso_date": "2014-01-22", 
+  "title": "Panel on reproducible research methodologies and new publication models in computer engineering", 
   "type": {
     "name": "panel"
   }, 
-  "cm_dissemination": {}, 
-  "start_iso_date": "2014-01-22"
+  "urls": [
+    {
+      "title": "Website and slides", 
+      "url": "http://adapt-workshop.org/program.htm"
+    }, 
+    {
+      "title": "Brief blog note", 
+      "url": "http://collective-mind.blogspot.fr/2014/02/adapt14-panel-on-reproducible-research.html"
+    }
+  ], 
+  "when": "January 2014"
 }

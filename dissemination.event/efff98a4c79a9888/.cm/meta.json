@@ -1,0 +1,40 @@
+{
+  "authors": [
+    {
+      "affiliation": "INRIA, France", 
+      "name": "0728a400aa1c86fe"
+    }, 
+    {
+      "affiliation": "University of Delaware, USA", 
+      "name": "0e87696f4c2c8251"
+    }
+  ], 
+  "colocated": "HiPEAC 2009", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Chair: Francois Bodin (CAPS-Enterprise, France); participants: Marcelo Cintra (University of Edinburgh, UK), Bilha Mendelson (IBM Haifa, Israel), Lawrence Rauchwerger (Texas A$#cm_cv_percent#$M University, USA), Per Stenstrom (Chalmers University of Technology, Sweden)"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Associated workshop [$#cm_77154d189d2e226c_e7ac144e5ea74882#$]"
+    }
+  ], 
+  "place": "Paphos, Cyprus", 
+  "start_iso_date": "2009-01-25", 
+  "title": "Panel - Can machine learning help to solve the multicore code generation issues?", 
+  "type": {
+    "name": "panel"
+  }, 
+  "urls": [
+    {
+      "title": "Website", 
+      "url": "http://www.hipeac.net/smart-workshop.html"
+    }, 
+    {
+      "title": "Video", 
+      "url": "http://cTuning.org/smart2009-panel-video"
+    }
+  ], 
+  "when": "January 2009"
+}

@@ -1,38 +1,20 @@
 {
-  "title": "Poster: Iterative Compilation and Performance Prediction", 
-  "where": "Division of Informatics", 
-  "publish_iso_date": "2003-05-15", 
-  "when": "2003", 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "local_bib": "doc.bib", 
-  "cm_display_as_alias": "Poster - Iterative Compilation and Performance Prediction", 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2012-10-23T13:13:15.572000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }
-  ], 
   "authors": [
     {
       "name": "0728a400aa1c86fe"
     }
   ], 
-  "place": "University of Edinburgh, UK", 
   "bib_ref": "cm:29db2248aba45e59:4b4079a332016220", 
+  "local_bib": "doc.bib", 
+  "local_doc": "doc.eps", 
+  "place": "University of Edinburgh, UK", 
+  "publish_iso_date": "2003-05-15", 
+  "title": "Poster: Iterative Compilation and Performance Prediction", 
   "type": {
-    "peer_reviewed": "no", 
     "name": "poster", 
+    "peer_reviewed": "no", 
     "scope": "international"
   }, 
-  "local_doc": "doc.eps"
+  "when": "2003", 
+  "where": "Division of Informatics"
 }

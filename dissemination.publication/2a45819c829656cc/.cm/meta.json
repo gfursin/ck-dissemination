@@ -1,46 +1,4 @@
 {
-  "title": "DECAN: Decremental Performance Analysis Tool via Binary Patching", 
-  "where": "Poster at the Workshop on Languages and Compilers for Parallel Computing (LCPC)", 
-  "notes": [
-    {
-      "note": "Extension of publication [$#cm_29db2248aba45e59_b254c18c8794ba29#$]", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Extension of concept [$#cm_e84a25bcb528c798_b953dacc9bc49fa8#$]", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Discontinused for Alchemist plugin within Collective Mind Framework [$#cm_d76ac3bb9a3f744c_bd5c924415bae775#$, $#cm_d76ac3bb9a3f744c_8898da99a4110bc1#$]", 
-      "italic": "yes"
-    }
-  ], 
-  "when": "2010", 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "local_bib": "doc.bib", 
-  "cm_display_as_alias": "Poster - DECAN: Decremental Performance Analysis Tool via Binary Patching", 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }, 
-    {
-      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }
-  ], 
   "authors": [
     {
       "name": "fc5b5b9b79b6e72e"
@@ -55,13 +13,31 @@
       "name": "4221a9cd7388e43a"
     }
   ], 
-  "place": "USA", 
   "bib_ref": "cm:29db2248aba45e59:2a45819c829656cc", 
+  "local_bib": "doc.bib", 
+  "local_doc": "doc.pdf", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Extension of publication [$#cm_29db2248aba45e59_b254c18c8794ba29#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Extension of concept [$#cm_e84a25bcb528c798_b953dacc9bc49fa8#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Discontinused for Alchemist plugin within Collective Mind Framework [$#cm_d76ac3bb9a3f744c_bd5c924415bae775#$, $#cm_d76ac3bb9a3f744c_8898da99a4110bc1#$]"
+    }
+  ], 
+  "place": "USA", 
+  "publish_iso_date": "2010-07-01", 
+  "title": "DECAN: Decremental Performance Analysis Tool via Binary Patching", 
   "type": {
-    "peer_reviewed": "yes", 
     "name": "poster", 
+    "peer_reviewed": "yes", 
     "scope": "international"
   }, 
-  "publish_iso_date": "2010-07-01", 
-  "local_doc": "doc.pdf"
+  "when": "2010", 
+  "where": "Poster at the Workshop on Languages and Compilers for Parallel Computing (LCPC)"
 }

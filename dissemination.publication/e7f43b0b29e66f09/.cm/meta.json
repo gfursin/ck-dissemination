@@ -1,7 +1,4 @@
 {
-  "title": "A cost-aware parallel workload allocation approach based on machine learning techniques", 
-  "when": "September 2007", 
-  "publish_iso_date": "2007-01-01", 
   "authors": [
     {
       "name": "5e5b4ca6d1475483"
@@ -14,31 +11,11 @@
     }
   ], 
   "bib": "@inproceedings{29db2248aba45e59:e7f43b0b29e66f09,\n author = {Long, Shun and Fursin, Grigori and Franke, Bj\\\"{o}rn},\n title = {A cost-aware parallel workload allocation approach based on machine learning techniques},\n booktitle = {Proceedings of the 2007 IFIP international conference on Network and Parallel Computing},\n series = {NPC'07},\n year = {2007},\n isbn = {3-540-74783-4, 978-3-540-74783-3},\n location = {Dalian, China},\n pages = {506--515},\n numpages = {10},\n url = {http://dl.acm.org/citation.cfm?id=1789295.1789363},\n acmid = {1789363},\n publisher = {Springer-Verlag},\n address = {Berlin, Heidelberg},\n keywords = {cost, instance-based learning, parallelism, workload allocation},\n}\n\n", 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "where": "Proceedings of the 2007 IFIP international conference on Network and Parallel Computing (NPC)", 
-  "local_bib": "doc.bib", 
-  "cm_display_as_alias": "A cost-aware parallel workload allocation approach based on machine learning techniques", 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2012-10-23T14:43:55.811000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }
-  ], 
   "bib_parsed": {
-    "numpages": "10", 
-    "publisher": "Springer-Verlag", 
+    "_code": "Long2007p506515", 
     "_type": "inproceedings", 
-    "isbn": "3-540-74783-4, 978-3-540-74783-3", 
+    "acmid": "1789363", 
+    "address": "Berlin, Heidelberg", 
     "author": [
       [
         "", 
@@ -59,29 +36,34 @@
         ""
       ]
     ], 
-    "url": "http://dl.acm.org/citation.cfm?id=1789295.1789363", 
-    "series": "NPC'07", 
     "booktitle": "Proceedings of the 2007 IFIP international conference on Network and Parallel Computing", 
-    "acmid": "1789363", 
     "firstpage": "506–515", 
-    "_code": "Long2007p506515", 
-    "location": "Dalian, China", 
-    "address": "Berlin, Heidelberg", 
-    "year": "2007", 
+    "isbn": "3-540-74783-4, 978-3-540-74783-3", 
     "keywords": "cost, instance-based learning, parallelism, workload allocation", 
+    "lastpage": "", 
+    "location": "Dalian, China", 
+    "numpages": "10", 
+    "publisher": "Springer-Verlag", 
+    "series": "NPC'07", 
     "title": "A cost-aware parallel workload allocation approach based on machine learning techniques", 
-    "lastpage": ""
+    "url": "http://dl.acm.org/citation.cfm?id=1789295.1789363", 
+    "year": "2007"
   }, 
+  "bib_ref": "cm:29db2248aba45e59:e7f43b0b29e66f09", 
   "document_urls": [
     "http://dl.acm.org/citation.cfm?id=1789295.1789363"
   ], 
+  "local_bib": "doc.bib", 
+  "local_doc": "doc.pdf", 
+  "pages": "506-515", 
   "place": "Dalian, China", 
-  "bib_ref": "cm:29db2248aba45e59:e7f43b0b29e66f09", 
+  "publish_iso_date": "2007-01-01", 
+  "title": "A cost-aware parallel workload allocation approach based on machine learning techniques", 
   "type": {
-    "peer_reviewed": "yes", 
     "name": "conference", 
+    "peer_reviewed": "yes", 
     "scope": "international"
   }, 
-  "pages": "506-515", 
-  "local_doc": "doc.pdf"
+  "when": "September 2007", 
+  "where": "Proceedings of the 2007 IFIP international conference on Network and Parallel Computing (NPC)"
 }

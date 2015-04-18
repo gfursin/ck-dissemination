@@ -1,69 +1,45 @@
 {
-  "urls": [
-    {
-      "url": "http://fursin.net/wiki/index.php5?title=Research:Developments:FCO", 
-      "title": "Old description"
-    }, 
-    {
-      "url": "http://open64-ici.cvs.sourceforge.net/open64-ici", 
-      "title": "Framework with ICI for Open64 compiler"
-    }, 
-    {
-      "url": "http://pathscale-ici.cvs.sourceforge.net/pathscale-ici", 
-      "title": "Framework with ICI for PathScale compiler"
-    }
-  ], 
-  "title": "Framework for Continuous Optimization (FCO)", 
-  "notes": [
-    {
-      "note": "Released in 2006", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Licence: GPL v2", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Collaboration with Institute of Computing Technology (China) to tune applications and compilers for LoongSon and Godson processors [$#cm_c47ad9a552aa7e82_e09d580d14d149f4#$, $#cm_4978a2f58b214af0_40748714f5eefa28#$]", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Discontinued for $#cm_d76ac3bb9a3f744c_69fd2f54eef853b1#$", 
-      "italic": "yes"
-    }
-  ], 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "cm_display_as_alias": "2004 - 2006 - Framework for Continuous Optimization (FCO)", 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2012-10-23T14:34:02.590000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }, 
-    {
-      "cm_iso_datetime": "2012-11-12T12:40:51.523000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }
-  ], 
   "authors": [
     {
       "name": "0728a400aa1c86fe"
     }
   ], 
   "end_iso_date": "2006-06-01", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Released in 2006"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Licence: GPL v2"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Collaboration with Institute of Computing Technology (China) to tune applications and compilers for LoongSon and Godson processors [$#cm_c47ad9a552aa7e82_e09d580d14d149f4#$, $#cm_4978a2f58b214af0_40748714f5eefa28#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Discontinued for $#cm_d76ac3bb9a3f744c_69fd2f54eef853b1#$"
+    }
+  ], 
+  "start_iso_date": "2004-06-01", 
+  "title": "Framework for Continuous Optimization (FCO)", 
   "type": {
     "name": "software"
   }, 
-  "start_iso_date": "2004-06-01"
+  "urls": [
+    {
+      "title": "Old description", 
+      "url": "http://fursin.net/wiki/index.php5?title=Research:Developments:FCO"
+    }, 
+    {
+      "title": "Framework with ICI for Open64 compiler", 
+      "url": "http://open64-ici.cvs.sourceforge.net/open64-ici"
+    }, 
+    {
+      "title": "Framework with ICI for PathScale compiler", 
+      "url": "http://pathscale-ici.cvs.sourceforge.net/pathscale-ici"
+    }
+  ]
 }

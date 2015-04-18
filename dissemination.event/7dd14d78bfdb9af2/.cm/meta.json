@@ -1,40 +1,4 @@
 {
-  "cm_dependencies": {
-    "classes": []
-  }, 
-  "urls": [
-    {
-      "url": "http://cTuning.org/event/ae-ppopp2015", 
-      "title": "AE website"
-    }, 
-    {
-      "url": "http://ppopp15.soe.ucsc.edu", 
-      "title": "PPoPP'15 website"
-    }
-  ], 
-  "title": "Artifact evaluation for PPoPP'15", 
-  "notes": [], 
-  "cm_classes_uoa": [], 
-  "when": "Feburary 2015", 
-  "cm_properties": {}, 
-  "cm_access_control": {
-    "read_groups": "registered", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "cm_display_as_alias": "", 
-  "powered_by": {
-    "version": "1.0.3121.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2014-02-10T14:20:03.186000", 
-      "cm_module_uid": "77154d189d2e226c", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }
-  ], 
   "authors": [
     {
       "affiliation": "INRIA / cTuning foundation, France", 
@@ -45,10 +9,28 @@
       "name": "951b4c09aa9529c0"
     }
   ], 
+  "cm_classes_uoa": [], 
+  "cm_dependencies": {
+    "classes": []
+  }, 
+  "cm_dissemination": {}, 
+  "cm_properties": {}, 
+  "notes": [], 
   "place": "San Francisco Bay Area, CA, USA", 
+  "start_iso_date": "2015-02-7", 
+  "title": "Artifact evaluation for PPoPP'15", 
   "type": {
     "name": "artifact_evaluation"
   }, 
-  "cm_dissemination": {}, 
-  "start_iso_date": "2015-02-7"
+  "urls": [
+    {
+      "title": "AE website", 
+      "url": "http://cTuning.org/event/ae-ppopp2015"
+    }, 
+    {
+      "title": "PPoPP'15 website", 
+      "url": "http://ppopp15.soe.ucsc.edu"
+    }
+  ], 
+  "when": "Feburary 2015"
 }

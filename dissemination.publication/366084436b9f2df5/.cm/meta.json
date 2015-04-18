@@ -1,12 +1,4 @@
 {
-  "title": "A Heuristic Search Algorithm Based on Unified Transformation Framework", 
-  "when": "June 2005", 
-  "notes": [
-    {
-      "note": "Our first experiments on program auto-tuning using polyhedral transformations (iterative optimization using polyhedral model)", 
-      "italic": "yes"
-    }
-  ], 
   "authors": [
     {
       "name": "5e5b4ca6d1475483"
@@ -16,32 +8,11 @@
     }
   ], 
   "bib": "@inproceedings{29db2248aba45e59:366084436b9f2df5,\n author = {Long,Shun and Fursin, Grigori},\n title = {A Heuristic Search Algorithm Based on Unified Transformation Framework},\n booktitle = {Proceedings of the 7th International Workshop on High Performance Scientific and Engineering Computing (HPSEC-05)},\n series = {HPSEC'05},\n year = {2005},\n isbn = {0-7695-2381-1},\n pages = {137--144},\n numpages = {8},\n url = {http://dx.doi.org/10.1109/ICPPW.2005.9},\n doi = {10.1109/ICPPW.2005.9},\n acmid = {1079460},\n publisher = {IEEE Computer Society},\n address = {Washington, DC, USA},\n}\n\n", 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "where": "Proceedings of the 7th International Workshop on High Performance Scientific and Engineering Computing (HPSEC)", 
-  "local_bib": "doc.bib", 
-  "cm_display_as_alias": "A Heuristic Search Algorithm Based on Unified Transformation Framework", 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2012-10-23T14:42:29.242000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }
-  ], 
   "bib_parsed": {
-    "numpages": "8", 
-    "publisher": "IEEE Computer Society", 
+    "_code": "Long2005p137144", 
     "_type": "inproceedings", 
-    "doi": "10.1109/ICPPW.2005.9", 
-    "isbn": "0-7695-2381-1", 
+    "acmid": "1079460", 
+    "address": "Washington, DC, USA", 
     "author": [
       [
         "", 
@@ -56,25 +27,36 @@
         ""
       ]
     ], 
-    "url": "http://dx.doi.org/10.1109/ICPPW.2005.9", 
-    "series": "HPSEC'05", 
     "booktitle": "Proceedings of the 7th International Workshop on High Performance Scientific and Engineering Computing (HPSEC-05)", 
-    "acmid": "1079460", 
+    "doi": "10.1109/ICPPW.2005.9", 
     "firstpage": "137–144", 
-    "_code": "Long2005p137144", 
-    "address": "Washington, DC, USA", 
-    "year": "2005", 
+    "isbn": "0-7695-2381-1", 
+    "lastpage": "", 
+    "numpages": "8", 
+    "publisher": "IEEE Computer Society", 
+    "series": "HPSEC'05", 
     "title": "A Heuristic Search Algorithm Based on Unified Transformation Framework", 
-    "lastpage": ""
+    "url": "http://dx.doi.org/10.1109/ICPPW.2005.9", 
+    "year": "2005"
   }, 
-  "place": "Oslo, Norway", 
   "bib_ref": "cm:29db2248aba45e59:366084436b9f2df5", 
+  "local_bib": "doc.bib", 
+  "local_doc": "doc.pdf", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Our first experiments on program auto-tuning using polyhedral transformations (iterative optimization using polyhedral model)"
+    }
+  ], 
+  "pages": "137-144", 
+  "place": "Oslo, Norway", 
   "publish_iso_date": "2005-01-01", 
+  "title": "A Heuristic Search Algorithm Based on Unified Transformation Framework", 
   "type": {
-    "peer_reviewed": "yes", 
     "name": "workshop", 
+    "peer_reviewed": "yes", 
     "scope": "international"
   }, 
-  "pages": "137-144", 
-  "local_doc": "doc.pdf"
+  "when": "June 2005", 
+  "where": "Proceedings of the 7th International Workshop on High Performance Scientific and Engineering Computing (HPSEC)"
 }

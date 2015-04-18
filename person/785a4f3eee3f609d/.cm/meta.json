@@ -1,37 +1,13 @@
 {
   "cm_email": "", 
-  "personal_web_page": "", 
-  "name": "Olivier Temam", 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
   "job_organization": [
     "4aa6d3084fe08c03"
   ], 
-  "cm_display_as_alias": "Olivier Temam", 
+  "job_title": "Senior Research Scientist", 
+  "name": "Olivier Temam", 
+  "personal_web_page": "", 
+  "professional_web_page": "http://pages.saclay.inria.fr/olivier.temam", 
   "publications": [
     "9404f8911595b11b"
-  ], 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2012-06-07T23:27:16.183000", 
-      "cm_note": "", 
-      "cm_module_uid": "b0743a4044480ead", 
-      "cm_user_uoa": "74c2480dcec9e85d"
-    }, 
-    {
-      "cm_iso_datetime": "2012-06-07T23:35:09.233000", 
-      "cm_note": "", 
-      "cm_module_uid": "b0743a4044480ead", 
-      "cm_user_uoa": "74c2480dcec9e85d"
-    }
-  ], 
-  "job_title": "Senior Research Scientist", 
-  "professional_web_page": "http://pages.saclay.inria.fr/olivier.temam"
+  ]
 }

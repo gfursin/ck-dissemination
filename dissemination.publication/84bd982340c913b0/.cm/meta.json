@@ -1,7 +1,4 @@
 {
-  "title": "Reducing training time in a one-shot machine learning-based compiler", 
-  "when": "October 2009", 
-  "publish_iso_date": "2009-06-01", 
   "authors": [
     {
       "name": "1707e0868434377a"
@@ -17,32 +14,11 @@
     }
   ], 
   "bib": "@inproceedings{29db2248aba45e59:84bd982340c913b0,\n author = {Thomson, John and O\\&\\#39;Boyle, Michael and Fursin, Grigori and Franke, Bj\\\"{o}rn},\n title = {Reducing training time in a one-shot machine learning-based compiler},\n booktitle = {Proceedings of the 22nd international conference on Languages and Compilers for Parallel Computing},\n series = {LCPC'09},\n year = {2009},\n isbn = {3-642-13373-8, 978-3-642-13373-2},\n location = {Newark, DE},\n pages = {399--407},\n numpages = {9},\n url = {http://dx.doi.org/10.1007/978-3-642-13374-9_28},\n doi = {10.1007/978-3-642-13374-9_28},\n acmid = {2155275},\n publisher = {Springer-Verlag},\n address = {Berlin, Heidelberg},\n}\n\n", 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "where": "Proceedings of the 22nd international conference on Languages and Compilers for Parallel Computing (LCPC)", 
-  "local_bib": "doc.bib", 
-  "cm_display_as_alias": "Reducing training time in a one-shot machine learning-based compiler", 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2012-10-23T14:44:39.814000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }
-  ], 
   "bib_parsed": {
-    "numpages": "9", 
-    "publisher": "Springer-Verlag", 
+    "_code": "Thomson2010p399407", 
     "_type": "inproceedings", 
-    "doi": "10.1007/978-3-642-13374-9_28", 
-    "isbn": "3-642-13373-8, 978-3-642-13373-2", 
+    "acmid": "2155275", 
+    "address": "Berlin, Heidelberg", 
     "author": [
       [
         "", 
@@ -69,24 +45,30 @@
         ""
       ]
     ], 
-    "url": "http://dx.doi.org/10.1007/978-3-642-13374-9_28", 
-    "series": "LCPC'09", 
     "booktitle": "Proceedings of the 22nd international conference on Languages and Compilers for Parallel Computing", 
-    "acmid": "2155275", 
+    "doi": "10.1007/978-3-642-13374-9_28", 
     "firstpage": "399–407", 
-    "_code": "Thomson2010p399407", 
+    "isbn": "3-642-13373-8, 978-3-642-13373-2", 
+    "lastpage": "", 
     "location": "Newark, DE", 
-    "address": "Berlin, Heidelberg", 
-    "year": "2009", 
+    "numpages": "9", 
+    "publisher": "Springer-Verlag", 
+    "series": "LCPC'09", 
     "title": "Reducing training time in a one-shot machine learning-based compiler", 
-    "lastpage": ""
+    "url": "http://dx.doi.org/10.1007/978-3-642-13374-9_28", 
+    "year": "2009"
   }, 
-  "place": "Newark, DE, USA", 
   "bib_ref": "cm:29db2248aba45e59:84bd982340c913b0", 
+  "local_bib": "doc.bib", 
+  "local_doc": "doc.pdf", 
+  "place": "Newark, DE, USA", 
+  "publish_iso_date": "2009-06-01", 
+  "title": "Reducing training time in a one-shot machine learning-based compiler", 
   "type": {
-    "peer_reviewed": "yes", 
     "name": "conference", 
+    "peer_reviewed": "yes", 
     "scope": "international"
   }, 
-  "local_doc": "doc.pdf"
+  "when": "October 2009", 
+  "where": "Proceedings of the 22nd international conference on Languages and Compilers for Parallel Computing (LCPC)"
 }

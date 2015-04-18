@@ -1,46 +1,4 @@
 {
-  "title": "Collective Mind: towards practical and collaborative auto-tuning", 
-  "where": "Special issue on Automatic Performance Tuning for HPC Architectures, Scientific Programming Journal, IOS Press", 
-  "notes": [
-    {
-      "note": "This work summarizes our long-term vision on making auto-tuning practical and reproducible using public repository of knowledge, common plugin-based auto-tuning infrastructure, predictive analytics (machine learning, data mining, statistical analysis, feature detection), crowdsourcing and collective intelligence", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "This work extends my previous article [$#cm_29db2248aba45e59_0c44d9a2db3de3c9#$]", 
-      "bold": "yes", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "Related Collective Mind infrastructure and repository [$#cm_d76ac3bb9a3f744c_bd5c924415bae775#$]", 
-      "italic": "yes"
-    }, 
-    {
-      "note": "This work supports my initiative on open research and publication model where all experimental results and related material is continuously shared, validated and improved by the community [$#cm_29db2248aba45e59_40a4b58adfb594a8#$]. To set up an example, I continue sharing all benchmarks, datasets, tools, models and experimental results in Collective Mind repository (c-mind.org/repo)", 
-      "bold": "yes", 
-      "italic": "yes"
-    }
-  ], 
-  "when": "2014", 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "local_bib": "doc.bib", 
-  "cm_display_as_alias": "Collective Mind: towards practical and collaborative auto-tuning", 
-  "powered_by": {
-    "version": "1.0.3121.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2014-06-21T21:35:22.797000", 
-      "cm_module_uid": "29db2248aba45e59", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe"
-    }
-  ], 
   "authors": [
     {
       "name": "0728a400aa1c86fe"
@@ -70,17 +28,41 @@
       "name": "3fb654f7ab9ec55b"
     }
   ], 
+  "bib_ref": "cm:29db2248aba45e59:6f40bc99c4f7df58", 
   "document_urls": [
     "http://hal.inria.fr/hal-01054763", 
     "http://iospress.metapress.com/content/f255p63828m8l384"
   ], 
+  "local_bib": "doc.bib", 
+  "local_doc": "doc.pdf", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "This work summarizes our long-term vision on making auto-tuning practical and reproducible using public repository of knowledge, common plugin-based auto-tuning infrastructure, predictive analytics (machine learning, data mining, statistical analysis, feature detection), crowdsourcing and collective intelligence"
+    }, 
+    {
+      "bold": "yes", 
+      "italic": "yes", 
+      "note": "This work extends my previous article [$#cm_29db2248aba45e59_0c44d9a2db3de3c9#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Related Collective Mind infrastructure and repository [$#cm_d76ac3bb9a3f744c_bd5c924415bae775#$]"
+    }, 
+    {
+      "bold": "yes", 
+      "italic": "yes", 
+      "note": "This work supports my initiative on open research and publication model where all experimental results and related material is continuously shared, validated and improved by the community [$#cm_29db2248aba45e59_40a4b58adfb594a8#$]. To set up an example, I continue sharing all benchmarks, datasets, tools, models and experimental results in Collective Mind repository (c-mind.org/repo)"
+    }
+  ], 
   "place": "Edinburgh, UK", 
-  "bib_ref": "cm:29db2248aba45e59:6f40bc99c4f7df58", 
+  "publish_iso_date": "2014-08-03", 
+  "title": "Collective Mind: towards practical and collaborative auto-tuning", 
   "type": {
-    "peer_reviewed": "yes", 
     "name": "journal", 
+    "peer_reviewed": "yes", 
     "scope": "international"
   }, 
-  "publish_iso_date": "2014-08-03", 
-  "local_doc": "doc.pdf"
+  "when": "2014", 
+  "where": "Special issue on Automatic Performance Tuning for HPC Architectures, Scientific Programming Journal, IOS Press"
 }

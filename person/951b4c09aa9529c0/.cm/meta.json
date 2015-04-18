@@ -1,25 +1,7 @@
 {
   "cm_email": "childers@cs.pitt.edu", 
-  "name": "Bruce Childers", 
-  "powered_by": {
-    "version": "1.0.2318.beta", 
-    "name": "Collective Mind Engine"
-  }, 
   "job_organization": [
     "4af880468cf26958"
   ], 
-  "cm_display_as_alias": "Bruce Childers", 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2013-11-24T17:26:50.241000", 
-      "cm_person_uoa": "0728a400aa1c86fe", 
-      "cm_user_uoa": "0728a400aa1c86fe", 
-      "cm_module_uid": "b0743a4044480ead"
-    }
-  ]
+  "name": "Bruce Childers"
 }

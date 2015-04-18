@@ -1,27 +1,8 @@
 {
-  "name": "University of Edinburgh", 
-  "country": "United Kingdom", 
-  "cm_access_control": {
-    "read_groups": "all", 
-    "comments_groups": "registered", 
-    "write_groups": "owner"
-  }, 
   "abbreviation": "", 
-  "cm_description": "University of Edinburgh", 
-  "cm_display_as_alias": "University of Edinburgh, UK", 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
+  "country": "United Kingdom", 
+  "name": "University of Edinburgh", 
   "urls": [
     "http://www.ed.ac.uk"
-  ], 
-  "cm_updated": [
-    {
-      "cm_iso_datetime": "2012-06-07T23:23:17.795000", 
-      "cm_note": "", 
-      "cm_module_uid": "3594786b07dc710d", 
-      "cm_user_uoa": "74c2480dcec9e85d"
-    }
   ]
 }
