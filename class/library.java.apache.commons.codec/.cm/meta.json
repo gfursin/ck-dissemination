@@ -1,0 +1,10 @@
+{
+  "build_code_deps_var": "CM_CODE_DEP_JAVA_APACHE_COMMONS_CODEC", 
+  "cm_classes_uoa": [], 
+  "cm_dependencies": {
+    "classes": []
+  }, 
+  "cm_dissemination": {}, 
+  "cm_properties": {}, 
+  "code_deps_var": "CM_CODE_DEP_JAVA_APACHE_COMMONS_CODEC"
+}

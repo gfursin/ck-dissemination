@@ -1,0 +1,11 @@
+{
+  "cm_classes_uoa": [], 
+  "cm_dependencies": {
+    "classes": []
+  }, 
+  "cm_dissemination": {}, 
+  "cm_properties": {}, 
+  "code_deps_var": "CM_CODE_DEP_CUDA", 
+  "include_deps_var": "CM_CODE_DEP_CUDA", 
+  "lib_deps_var": "CM_CODE_DEP_CUDA"
+}

@@ -1,0 +1,6 @@
+{
+  "cm_archive": "", 
+  "code_deps_var": "CM_CODE_DEP_MPC", 
+  "include_deps_var": "CM_CODE_DEP_MPC", 
+  "lib_deps_var": "CM_CODE_DEP_MPC"
+}

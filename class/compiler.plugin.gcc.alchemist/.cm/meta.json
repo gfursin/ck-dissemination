@@ -1,0 +1,8 @@
+{
+  "cm_archive": "", 
+  "cm_file_upload_name": "", 
+  "cm_file_upload_type": "", 
+  "code_deps_var": "CM_CODE_DEP_COMPILER_PLUGIN_ALCHEMIST", 
+  "include_deps_var": "CM_CODE_DEP_COMPILER_PLUGIN_ALCHEMIST", 
+  "lib_deps_var": "CM_CODE_DEP_COMPILER_PLUGIN_ALCHEMIST"
+}

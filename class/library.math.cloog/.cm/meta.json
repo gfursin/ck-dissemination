@@ -1,0 +1,6 @@
+{
+  "cm_archive": "", 
+  "code_deps_var": "CM_CODE_DEP_CLOOG", 
+  "include_deps_var": "CM_CODE_DEP_CLOOG", 
+  "lib_deps_var": "CM_CODE_DEP_CLOOG"
+}
