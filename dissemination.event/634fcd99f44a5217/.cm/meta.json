@@ -1,31 +1,31 @@
 {
   "authors": [
     {
-      "affiliation": "University of Edinburgh, UK", 
+      "affiliation": "University of Edinburgh, UK",
       "name": "cc58cd93d4412b9b"
-    }, 
+    },
     {
-      "affiliation": "University of Edinburgh, UK", 
+      "affiliation": "University of Edinburgh, UK",
       "name": "0728a400aa1c86fe"
     }
-  ], 
+  ],
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Local organizers: Michael O'Boyle (University of Edinburgh, UK), Grigori Fursin (University of Edinburgh, UK)"
     }
-  ], 
-  "place": "Edinburgh, UK", 
-  "start_iso_date": "2001-05-27", 
-  "title": "9th Workshop on Compilers for Parallel Computers (CPC)", 
+  ],
+  "place": "Edinburgh, UK",
+  "start_iso_date": "2001-05-27",
+  "title": "9th Workshop on Compilers for Parallel Computers (CPC)",
   "type": {
     "name": "workshop"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "http://www.icsa.informatics.ed.ac.uk/cpc2001"
     }
-  ], 
+  ],
   "when": "June 2001"
 }

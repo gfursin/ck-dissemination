@@ -1,56 +1,56 @@
 {
   "authors": [
     {
-      "affiliation": "University of Edinburgh, UK", 
+      "affiliation": "University of Edinburgh, UK",
       "name": "a8524659a1e72739"
-    }, 
+    },
     {
-      "affiliation": "INRIA, France", 
+      "affiliation": "INRIA, France",
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "colocated": "HiPEAC 2014", 
+  ],
+  "colocated": "HiPEAC 2014",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Keynote: \"Towards Resource Management in Parallel Architectures Under the Hood\" by Prof. Per Stenstrom (Chalmers University of Technology, Sweden)"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Associated panel on reproducible research methodologies and new publication models in computer engineering [$#cm_77154d189d2e226c_99bf10e7b8a147b4#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Shared research material and experimental results for 2 papers have been validated by our volunteers: Alberto Magni from the University of Edinburgh, UK and Sascha Hunold from Vienna University of Technology, Austria"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Sponsored by Nvidia, USA"
     }
-  ], 
-  "place": "Vienna, Austria", 
-  "start_iso_date": "2014-01-22", 
-  "title": "4th International workshop on Adaptive Self-Tuning Computing Systems (ADAPT) with a special focus on reproducibility", 
+  ],
+  "place": "Vienna, Austria",
+  "start_iso_date": "2014-01-22",
+  "title": "4th International workshop on Adaptive Self-Tuning Computing Systems (ADAPT) with a special focus on reproducibility",
   "type": {
     "name": "workshop"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "http://adapt-workshop.org"
-    }, 
+    },
     {
-      "title": "Final program", 
+      "title": "Final program",
       "url": "http://adapt-workshop.org/program.htm"
-    }, 
+    },
     {
-      "title": "Shared artifacts (paper 1)", 
+      "title": "Shared artifacts (paper 1)",
       "url": "http://c-mind.org/repo/?view_cid=876bf92b1409cb46:26177154df5a20ef"
-    }, 
+    },
     {
-      "title": "Shared artifacts (paper 2)", 
+      "title": "Shared artifacts (paper 2)",
       "url": "http://c-mind.org/repo/?view_cid=876bf92b1409cb46:ac4b5d8f1a252bd8"
     }
-  ], 
+  ],
   "when": "January 2014"
 }

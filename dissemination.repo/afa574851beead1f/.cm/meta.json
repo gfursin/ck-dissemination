@@ -3,30 +3,30 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "end_iso_date": "2011-08-30", 
+  ],
+  "end_iso_date": "2011-08-30",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Developed with $#cm_cv_my3#$ team [$#cm_86ea434e815f5059_544749564b62bfc8#$, $#cm_86ea434e815f5059_286004aebddd15ff#$, $#cm_86ea434e815f5059_989b2c721778a8f9#$] as customizable repository for Intel Exascale Lab, CEA, GENCI and UVSQ (France)"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Funded by [$#cm_c47ad9a552aa7e82_482d03ef4adc20dd#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Powered by Codelet Tuning Infrastructure [$#cm_d76ac3bb9a3f744c_b43a5c06b49cf893#$]"
-    }, 
+    },
     {
-      "bold": "yes", 
-      "italic": "yes", 
+      "bold": "yes",
+      "italic": "yes",
       "note": "Discontinued for [$#cm_4d63887b5cda54aa_4d4fbc8d3ae7e75c#$]"
     }
-  ], 
-  "start_iso_date": "2010-03-01", 
-  "title": "In-house Codelet Tuning Repository for Intel Exascale Lab (aka cTuning2)", 
-  "to": "decompose large applications into codelets for continuous characterization and tuning", 
+  ],
+  "start_iso_date": "2010-03-01",
+  "title": "In-house Codelet Tuning Repository for Intel Exascale Lab (aka cTuning2)",
+  "to": "decompose large applications into codelets for continuous characterization and tuning",
   "type": {
     "name": "private_repository"
   }

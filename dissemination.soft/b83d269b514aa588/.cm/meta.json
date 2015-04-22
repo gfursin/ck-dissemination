@@ -3,39 +3,39 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "end_iso_date": "cur.", 
+  ],
+  "end_iso_date": "cur.",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Released in 2013"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Technology: C, C++, Fortran, PHP, python event-based plugin framework"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Included plugins to open up latest GCC and LLVM for fine-grain program analysis and auto-tuning, and to open up HPC applications for online tuning and adaptation on heterogeneous architectures [$#cm_29db2248aba45e59_1943b3f46fabaee4#$, $#cm_29db2248aba45e59_3b9c0386749be8ad#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Current version: 1.0beta (LGPL v2 license)"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Associated publications [$#cm_29db2248aba45e59_1943b3f46fabaee4#$, $#cm_29db2248aba45e59_f98a6602e010cfd5#$, $#cm_29db2248aba45e59_bfb3134d4c078236#$, $#cm_29db2248aba45e59_db899893d4b71ba7#$, $#cm_29db2248aba45e59_241959a66d0e6895#$, $#cm_29db2248aba45e59_54ac7ceace451a83#$]"
     }
-  ], 
-  "start_iso_date": "2011-09-02", 
-  "title": "OpenME event-based plugin framework and unified interface", 
-  "to": "making rigid, hardwired applications and tools interactive, tunable and adaptive", 
+  ],
+  "start_iso_date": "2011-09-02",
+  "title": "OpenME event-based plugin framework and unified interface",
+  "to": "making rigid, hardwired applications and tools interactive, tunable and adaptive",
   "type": {
     "name": "software"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "http://cTuning.org/tools/cm"
     }
   ]

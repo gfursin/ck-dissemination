@@ -1,32 +1,32 @@
 {
   "authors": [
     {
-      "affiliation": "IBM Haifa, Israel", 
+      "affiliation": "IBM Haifa, Israel",
       "name": "26be346568084f4a"
-    }, 
+    },
     {
-      "affiliation": "INRIA, France", 
+      "affiliation": "INRIA, France",
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "colocated": "HiPEAC 2010", 
+  ],
+  "colocated": "HiPEAC 2010",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Keynote on \"Using GCC as a toolbox for research: GCC plugins and whole-program compilation\" by Diego Novillo (Google, Canada)"
     }
-  ], 
-  "place": "Pisa, Italy", 
-  "start_iso_date": "2010-01-23", 
-  "title": "2nd International Workshop on GCC Research Opportunities (GROW)", 
+  ],
+  "place": "Pisa, Italy",
+  "start_iso_date": "2010-01-23",
+  "title": "2nd International Workshop on GCC Research Opportunities (GROW)",
   "type": {
     "name": "panel"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "http://ctuning.org/workshop-grow10"
     }
-  ], 
+  ],
   "when": "January 2010"
 }

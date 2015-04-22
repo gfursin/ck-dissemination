@@ -2,31 +2,31 @@
   "authors": [
     {
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
       "name": "9ed8ac14830b7849"
-    }, 
+    },
     {
       "name": "4f66018a4b4423a6"
-    }, 
+    },
     {
       "name": "63f10a6934be7b65"
     }
-  ], 
-  "bib_ref": "cm:29db2248aba45e59:72986f50f464ba31", 
+  ],
+  "bib_ref": "cm:29db2248aba45e59:72986f50f464ba31",
   "document_urls": [
     "http://dl.acm.org/citation.cfm?id=2185475"
-  ], 
-  "local_bib": "doc.bib", 
-  "local_doc": "doc.pdf", 
-  "place": "", 
-  "publish_iso_date": "2012-04-01", 
-  "title": "Introducing 2nd International Workshop on Adaptive Self-Tuning Computing Systems for the Exaflop Era (EXADAPT)", 
+  ],
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
+  "place": "",
+  "publish_iso_date": "2012-04-01",
+  "title": "Introducing 2nd International Workshop on Adaptive Self-Tuning Computing Systems for the Exaflop Era (EXADAPT)",
   "type": {
-    "name": "introduction", 
-    "peer_reviewed": "no", 
+    "name": "introduction",
+    "peer_reviewed": "no",
     "scope": "international"
-  }, 
-  "when": "2012", 
+  },
+  "when": "2012",
   "where": "ACM Digital Library"
 }

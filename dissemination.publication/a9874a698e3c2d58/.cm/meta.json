@@ -2,70 +2,70 @@
   "authors": [
     {
       "name": "bbd2187a570e42a4"
-    }, 
+    },
     {
       "name": "f7e8a84d0bba035d"
-    }, 
+    },
     {
       "name": "4ac9b87768fd85ef"
-    }, 
+    },
     {
       "name": "a0568a9bb34778ba"
-    }, 
+    },
     {
       "name": "fa24b9ebd7888b7b"
-    }, 
+    },
     {
       "name": "94a70498a9c22d62"
-    }, 
+    },
     {
       "name": "15a2f01b9308dbd0"
-    }, 
+    },
     {
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
       "name": "5a61fc9849146b1b"
-    }, 
+    },
     {
       "name": "03614a0890bdb840"
-    }, 
+    },
     {
       "name": "498e14b1397d5c15"
-    }, 
+    },
     {
       "name": "993b6dcc4aeeb1a1"
-    }, 
+    },
     {
       "name": "cc58cd93d4412b9b"
-    }, 
+    },
     {
       "name": "e5666223412584e4"
-    }, 
+    },
     {
       "name": "dad49a7811a8221f"
     }
-  ], 
-  "bib_ref": "cm:29db2248aba45e59:a9874a698e3c2d58", 
-  "local_bib": "doc.bib", 
+  ],
+  "bib_ref": "cm:29db2248aba45e59:a9874a698e3c2d58",
+  "local_bib": "doc.bib",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Part of EU FP5 MHAOTEU project [$#cm_4978a2f58b214af0_90d148caafe7792c#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Associated public software [$#cm_d76ac3bb9a3f744c_9f143f5b31500137#$]"
     }
-  ], 
-  "place": "", 
-  "publish_iso_date": "2000-01-01", 
-  "title": "Guided Transformations", 
+  ],
+  "place": "",
+  "publish_iso_date": "2000-01-01",
+  "title": "Guided Transformations",
   "type": {
-    "name": "tech_report", 
-    "peer_reviewed": "no", 
+    "name": "tech_report",
+    "peer_reviewed": "no",
     "scope": "international"
-  }, 
-  "when": "2001", 
+  },
+  "when": "2001",
   "where": "MHAOTEU ESPRIT project No 24942 technical report M3.D2"
 }

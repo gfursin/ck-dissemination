@@ -2,55 +2,55 @@
   "authors": [
     {
       "name": "bbd2187a570e42a4"
-    }, 
+    },
     {
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
       "name": "5a61fc9849146b1b"
-    }, 
+    },
     {
       "name": "993b6dcc4aeeb1a1"
-    }, 
+    },
     {
       "name": "cc58cd93d4412b9b"
-    }, 
+    },
     {
       "name": "5b468682c331c11e"
-    }, 
+    },
     {
       "name": "785a4f3eee3f609d"
-    }, 
+    },
     {
       "name": "bd01eec037c54142"
-    }, 
+    },
     {
       "name": "dad49a7811a8221f"
-    }, 
+    },
     {
       "name": "c0b343f7a51cacdb"
     }
-  ], 
-  "bib_ref": "cm:29db2248aba45e59:47759c6d5adb7b84", 
-  "local_bib": "doc.bib", 
+  ],
+  "bib_ref": "cm:29db2248aba45e59:47759c6d5adb7b84",
+  "local_bib": "doc.bib",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Part of EU FP5 MHAOTEU project [$#cm_4978a2f58b214af0_90d148caafe7792c#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Associated public software [$#cm_d76ac3bb9a3f744c_9f143f5b31500137#$]"
     }
-  ], 
-  "place": "", 
-  "publish_iso_date": "2000-01-01", 
-  "title": "Advanced Performance Analysis", 
+  ],
+  "place": "",
+  "publish_iso_date": "2000-01-01",
+  "title": "Advanced Performance Analysis",
   "type": {
-    "name": "tech_report", 
-    "peer_reviewed": "no", 
+    "name": "tech_report",
+    "peer_reviewed": "no",
     "scope": "international"
-  }, 
-  "when": "2001", 
+  },
+  "when": "2001",
   "where": "MHAOTEU ESPRIT project No 24942 technical report M3.D2"
 }

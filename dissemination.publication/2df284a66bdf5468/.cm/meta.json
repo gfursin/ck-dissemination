@@ -1,70 +1,70 @@
 {
-  "acceptance": "acceptance rate: 28$#cm_cv_percent#$ (27/97)", 
+  "acceptance": "acceptance rate: 28$#cm_cv_percent#$ (27/97)",
   "authors": [
     {
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
       "name": "785a4f3eee3f609d"
     }
-  ], 
-  "bib": "@inproceedings{29db2248aba45e59:2df284a66bdf5468,\n author = {Fursin, Grigori and Temam, Olivier},\n title = {Collective Optimization},\n booktitle = {Proceedings of the 4th International Conference on High Performance Embedded Architectures and Compilers},\n series = {HiPEAC'09},\n year = {2009},\n isbn = {978-3-540-92989-5},\n location = {Paphos, Cyprus},\n pages = {34--49},\n numpages = {16},\n url = {http://dx.doi.org/10.1007/978-3-540-92990-1_5},\n doi = {10.1007/978-3-540-92990-1_5},\n acmid = {1505823},\n publisher = {Springer-Verlag},\n address = {Berlin, Heidelberg},\n}\n\n", 
+  ],
+  "bib": "@inproceedings{29db2248aba45e59:2df284a66bdf5468,\n author = {Fursin, Grigori and Temam, Olivier},\n title = {Collective Optimization},\n booktitle = {Proceedings of the 4th International Conference on High Performance Embedded Architectures and Compilers},\n series = {HiPEAC'09},\n year = {2009},\n isbn = {978-3-540-92989-5},\n location = {Paphos, Cyprus},\n pages = {34--49},\n numpages = {16},\n url = {http://dx.doi.org/10.1007/978-3-540-92990-1_5},\n doi = {10.1007/978-3-540-92990-1_5},\n acmid = {1505823},\n publisher = {Springer-Verlag},\n address = {Berlin, Heidelberg},\n}\n\n",
   "bib_parsed": {
-    "_code": "Fursin2009p3449", 
-    "_type": "inproceedings", 
-    "acmid": "1505823", 
-    "address": "Berlin, Heidelberg", 
+    "_code": "Fursin2009p3449",
+    "_type": "inproceedings",
+    "acmid": "1505823",
+    "address": "Berlin, Heidelberg",
     "author": [
       [
-        "", 
-        "Fursin", 
-        "Grigori", 
+        "",
+        "Fursin",
+        "Grigori",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Temam", 
-        "Olivier", 
+        "",
+        "Temam",
+        "Olivier",
         ""
       ]
-    ], 
-    "booktitle": "Proceedings of the 4th International Conference on High Performance Embedded Architectures and Compilers", 
-    "doi": "10.1007/978-3-540-92990-1_5", 
-    "firstpage": "34–49", 
-    "isbn": "978-3-540-92989-5", 
-    "lastpage": "", 
-    "location": "Paphos, Cyprus", 
-    "numpages": "16", 
-    "publisher": "Springer-Verlag", 
-    "series": "HiPEAC'09", 
-    "title": "Collective Optimization", 
-    "url": "http://dx.doi.org/10.1007/978-3-540-92990-1_5", 
+    ],
+    "booktitle": "Proceedings of the 4th International Conference on High Performance Embedded Architectures and Compilers",
+    "doi": "10.1007/978-3-540-92990-1_5",
+    "firstpage": "34–49",
+    "isbn": "978-3-540-92989-5",
+    "lastpage": "",
+    "location": "Paphos, Cyprus",
+    "numpages": "16",
+    "publisher": "Springer-Verlag",
+    "series": "HiPEAC'09",
+    "title": "Collective Optimization",
+    "url": "http://dx.doi.org/10.1007/978-3-540-92990-1_5",
     "year": "2009"
-  }, 
-  "bib_ref": "cm:29db2248aba45e59:2df284a66bdf5468", 
-  "local_bib": "doc.bib", 
-  "local_doc": "doc.pdf", 
+  },
+  "bib_ref": "cm:29db2248aba45e59:2df284a66bdf5468",
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Implements concept [$#cm_e84a25bcb528c798_cbd09ece363c9f84#$]"
-    }, 
+    },
     {
-      "bold": "yes", 
-      "italic": "yes", 
+      "bold": "yes",
+      "italic": "yes",
       "note": "Considerably extended in journal version [$#cm_29db2248aba45e59_530e5f456ea259de#$]"
     }
-  ], 
-  "pages": "34-49", 
-  "place": "Paphos, Cyprus", 
-  "publish_iso_date": "2009-01-01", 
-  "reproducible": "yes", 
-  "title": "Collective Optimization", 
+  ],
+  "pages": "34-49",
+  "place": "Paphos, Cyprus",
+  "publish_iso_date": "2009-01-01",
+  "reproducible": "yes",
+  "title": "Collective Optimization",
   "type": {
-    "name": "conference", 
-    "peer_reviewed": "yes", 
+    "name": "conference",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "January 2009", 
+  },
+  "when": "January 2009",
   "where": "Proceedings of the 4th International Conference on High Performance Embedded Architectures and Compilers (HiPEAC)"
 }

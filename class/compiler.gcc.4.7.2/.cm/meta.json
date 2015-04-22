@@ -1,9 +1,9 @@
 {
-  "cm_classes_uoa": [], 
+  "cm_classes_uoa": [],
   "cm_dependencies": {
     "classes": []
-  }, 
-  "cm_dissemination": {}, 
-  "cm_properties": {}, 
+  },
+  "cm_dissemination": {},
+  "cm_properties": {},
   "code_deps_var": "CM_CODE_DEP_GCC"
 }

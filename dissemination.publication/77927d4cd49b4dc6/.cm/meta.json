@@ -2,109 +2,109 @@
   "authors": [
     {
       "name": "c0380c3aa332dd50"
-    }, 
+    },
     {
       "name": "43dcab9f619930fb"
-    }, 
+    },
     {
       "name": "aed869704d00bf51"
-    }, 
+    },
     {
       "name": "ae34b2b854cb5d11"
-    }, 
+    },
     {
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
       "name": "785a4f3eee3f609d"
-    }, 
+    },
     {
       "name": "3963949348f2591d"
     }
-  ], 
-  "bib": "@article{29db2248aba45e59:77927d4cd49b4dc6,\n author = {Chen, Yang and Fang, Shuangde and Huang, Yuanjie and Eeckhout, Lieven and Fursin, Grigori and Temam, Olivier and Wu, Chengyong},\n title = {Deconstructing iterative optimization},\n journal = {ACM Transactions on Architecture and Code Optimization (TACO)},\n issue_date = {September 2012},\n volume = {9},\n number = {3},\n month = oct,\n year = {2012},\n issn = {1544-3566},\n pages = {21:1--21:30},\n articleno = {21},\n numpages = {30},\n url = {http://doi.acm.org/10.1145/2355585.2355594},\n doi = {10.1145/2355585.2355594},\n acmid = {2355594},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {Benchmarking, Compiler optimization, Iterative optimization},\n}\n\n", 
+  ],
+  "bib": "@article{29db2248aba45e59:77927d4cd49b4dc6,\n author = {Chen, Yang and Fang, Shuangde and Huang, Yuanjie and Eeckhout, Lieven and Fursin, Grigori and Temam, Olivier and Wu, Chengyong},\n title = {Deconstructing iterative optimization},\n journal = {ACM Transactions on Architecture and Code Optimization (TACO)},\n issue_date = {September 2012},\n volume = {9},\n number = {3},\n month = oct,\n year = {2012},\n issn = {1544-3566},\n pages = {21:1--21:30},\n articleno = {21},\n numpages = {30},\n url = {http://doi.acm.org/10.1145/2355585.2355594},\n doi = {10.1145/2355585.2355594},\n acmid = {2355594},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {Benchmarking, Compiler optimization, Iterative optimization},\n}\n\n",
   "bib_parsed": {
-    "_code": "Chen2012ATACOp2112130", 
-    "_type": "article", 
-    "acmid": "2355594", 
-    "address": "New York, NY, USA", 
-    "articleno": "21", 
+    "_code": "Chen2012ATACOp2112130",
+    "_type": "article",
+    "acmid": "2355594",
+    "address": "New York, NY, USA",
+    "articleno": "21",
     "author": [
       [
-        "", 
-        "Chen", 
-        "Yang", 
+        "",
+        "Chen",
+        "Yang",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Fang", 
-        "Shuangde", 
+        "",
+        "Fang",
+        "Shuangde",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Huang", 
-        "Yuanjie", 
+        "",
+        "Huang",
+        "Yuanjie",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Eeckhout", 
-        "Lieven", 
+        "",
+        "Eeckhout",
+        "Lieven",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Fursin", 
-        "Grigori", 
+        "",
+        "Fursin",
+        "Grigori",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Temam", 
-        "Olivier", 
+        "",
+        "Temam",
+        "Olivier",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Wu", 
-        "Chengyong", 
+        "",
+        "Wu",
+        "Chengyong",
         ""
       ]
-    ], 
-    "doi": "10.1145/2355585.2355594", 
-    "firstpage": "21:1–21:30", 
-    "issn": "1544-3566", 
-    "issue_date": "September 2012", 
-    "journal": "ACM Transactions on Architecture and Code Optimization (TACO)", 
-    "journal_abbrev": "TACO", 
-    "keywords": "Benchmarking, Compiler optimization, Iterative optimization", 
-    "lastpage": "", 
-    "month": "October", 
-    "number": "3", 
-    "numpages": "30", 
-    "publisher": "ACM", 
-    "title": "Deconstructing iterative optimization", 
-    "url": "http://doi.acm.org/10.1145/2355585.2355594", 
-    "volume": "9", 
+    ],
+    "doi": "10.1145/2355585.2355594",
+    "firstpage": "21:1–21:30",
+    "issn": "1544-3566",
+    "issue_date": "September 2012",
+    "journal": "ACM Transactions on Architecture and Code Optimization (TACO)",
+    "journal_abbrev": "TACO",
+    "keywords": "Benchmarking, Compiler optimization, Iterative optimization",
+    "lastpage": "",
+    "month": "October",
+    "number": "3",
+    "numpages": "30",
+    "publisher": "ACM",
+    "title": "Deconstructing iterative optimization",
+    "url": "http://doi.acm.org/10.1145/2355585.2355594",
+    "volume": "9",
     "year": "2012"
-  }, 
-  "bib_ref": "cm:29db2248aba45e59:77927d4cd49b4dc6", 
+  },
+  "bib_ref": "cm:29db2248aba45e59:77927d4cd49b4dc6",
   "document_urls": [
     "http://dl.acm.org/citation.cfm?id=2355594"
-  ], 
-  "local_bib": "doc.bib", 
-  "local_doc": "doc.pdf", 
-  "pages": "21:1-21:30", 
-  "place": "", 
-  "publish_iso_date": "2012-10-01", 
-  "title": "Deconstructing iterative optimization", 
+  ],
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
+  "pages": "21:1-21:30",
+  "place": "",
+  "publish_iso_date": "2012-10-01",
+  "title": "Deconstructing iterative optimization",
   "type": {
-    "name": "journal", 
-    "peer_reviewed": "yes", 
+    "name": "journal",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "September 2012", 
+  },
+  "when": "September 2012",
   "where": "ACM Transactions on Architecture and Code Optimization (TACO), Volume 9, Number 3"
 }

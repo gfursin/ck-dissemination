@@ -1,27 +1,27 @@
 {
   "authors": [
     {
-      "affiliation": "UVSQ, France", 
+      "affiliation": "UVSQ, France",
       "name": "bd01eec037c54142"
-    }, 
+    },
     {
-      "affiliation": "INRIA, France", 
+      "affiliation": "INRIA, France",
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "colocated": "HiPEAC 2010", 
-  "notes": [], 
-  "place": "Pisa, Italy", 
-  "start_iso_date": "2010-01-25", 
-  "title": "Tutorial - \"Speedup-Test: Statistical Methodology to Evaluate Program Speedups and their Optimisation Techniques\"", 
+  ],
+  "colocated": "HiPEAC 2010",
+  "notes": [],
+  "place": "Pisa, Italy",
+  "start_iso_date": "2010-01-25",
+  "title": "Tutorial - \"Speedup-Test: Statistical Methodology to Evaluate Program Speedups and their Optimisation Techniques\"",
   "type": {
     "name": "tutorial"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "http://www.hipeac.net/conference/pisa/speedup"
     }
-  ], 
+  ],
   "when": "January 2010"
 }

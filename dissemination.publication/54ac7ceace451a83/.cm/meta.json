@@ -3,23 +3,23 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "bib_ref": "cm:29db2248aba45e59:54ac7ceace451a83", 
+  ],
+  "bib_ref": "cm:29db2248aba45e59:54ac7ceace451a83",
   "document_urls": [
     "http://doi.ieeecomputersociety.org/10.1109/SC.Companion.2012.217"
-  ], 
-  "local_bib": "doc.bib", 
-  "local_doc": "doc.pdf", 
-  "pages": "1403", 
-  "place": "Salt Lake City, Utah,USA", 
-  "publish_iso_date": "2012-11-01", 
-  "reproducible": "yes", 
-  "title": "cTuning.org: novel extensible methodology, framework and public repository to collaboratively address Exascale challenges", 
+  ],
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
+  "pages": "1403",
+  "place": "Salt Lake City, Utah,USA",
+  "publish_iso_date": "2012-11-01",
+  "reproducible": "yes",
+  "title": "cTuning.org: novel extensible methodology, framework and public repository to collaboratively address Exascale challenges",
   "type": {
-    "name": "poster", 
-    "peer_reviewed": "yes", 
+    "name": "poster",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "2012", 
+  },
+  "when": "2012",
   "where": "Poster at SuperComputing Companion (SC)"
 }

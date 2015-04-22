@@ -1,11 +1,11 @@
 {
-  "cm_archive": "", 
-  "cm_file_upload_name": "", 
-  "cm_file_upload_type": "", 
+  "cm_archive": "",
+  "cm_file_upload_name": "",
+  "cm_file_upload_type": "",
   "cm_files": [
     ""
-  ], 
-  "code_deps_var": "CM_CODE_DEP_PPL", 
-  "include_deps_var": "CM_CODE_DEP_PPL", 
+  ],
+  "code_deps_var": "CM_CODE_DEP_PPL",
+  "include_deps_var": "CM_CODE_DEP_PPL",
   "lib_deps_var": "CM_CODE_DEP_PPL"
 }

@@ -1,23 +1,23 @@
 {
   "authors": [
     {
-      "affiliation": "INRIA, France", 
+      "affiliation": "INRIA, France",
       "name": "0728a400aa1c86fe"
     }
-  ], 
+  ],
   "local_docs": [
     {
-      "file": "lecture-fursin-adaptive-compilation-2007.pdf", 
+      "file": "lecture-fursin-adaptive-compilation-2007.pdf",
       "title": "Online lecture"
     }
-  ], 
-  "notes": [], 
-  "place": "Paris South University (France)", 
-  "start_iso_date": "2007-10-25", 
-  "title": "Preparing and teaching MS course", 
+  ],
+  "notes": [],
+  "place": "Paris South University (France)",
+  "start_iso_date": "2007-10-25",
+  "title": "Preparing and teaching MS course",
   "type": {
     "name": "lecturer"
-  }, 
-  "when": "", 
+  },
+  "when": "",
   "why": "on \"Adaptive and Feedback Driven Compilation and Optimization; Machine Learning\""
 }

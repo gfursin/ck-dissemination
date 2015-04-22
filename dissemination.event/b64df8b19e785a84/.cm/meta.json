@@ -1,47 +1,47 @@
 {
   "authors": [
     {
-      "affiliation": "INRIA, France", 
+      "affiliation": "INRIA, France",
       "name": "e58fbedc23c45278"
-    }, 
+    },
     {
-      "affiliation": "IBM Haifa, Israel", 
+      "affiliation": "IBM Haifa, Israel",
       "name": "390d14b83b7d7cba"
-    }, 
+    },
     {
-      "affiliation": "IBM Haifa, Israel", 
+      "affiliation": "IBM Haifa, Israel",
       "name": "26be346568084f4a"
-    }, 
+    },
     {
-      "affiliation": "Red Hat, USA", 
+      "affiliation": "Red Hat, USA",
       "name": "973d79be46c24a5c"
-    }, 
+    },
     {
-      "affiliation": "STMicroelectronics, Italy", 
+      "affiliation": "STMicroelectronics, Italy",
       "name": "1bb82b434ba10641"
-    }, 
+    },
     {
-      "affiliation": "INRIA, France", 
+      "affiliation": "INRIA, France",
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
-      "affiliation": "Ecole des Mines de Paris, France", 
+      "affiliation": "Ecole des Mines de Paris, France",
       "name": "3bb14a13a9af9326"
     }
-  ], 
-  "colocated": "HiPEAC 2007", 
-  "notes": [], 
-  "place": "Ghent, Belgium", 
-  "start_iso_date": "2007-01-28", 
-  "title": "2nd HiPEAC GCC Tutorial: How To and Return on Experience", 
+  ],
+  "colocated": "HiPEAC 2007",
+  "notes": [],
+  "place": "Ghent, Belgium",
+  "start_iso_date": "2007-01-28",
+  "title": "2nd HiPEAC GCC Tutorial: How To and Return on Experience",
   "type": {
     "name": "tutorial"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "http://www.hipeac.net/gcc-tutorial"
     }
-  ], 
+  ],
   "when": "January 2007"
 }

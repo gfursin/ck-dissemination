@@ -1,87 +1,87 @@
 {
-  "acceptance": "acceptance rate=29$#cm_cv_percent#$", 
+  "acceptance": "acceptance rate=29$#cm_cv_percent#$",
   "authors": [
     {
       "name": "6020e15763149288"
-    }, 
+    },
     {
       "name": "e58fbedc23c45278"
-    }, 
+    },
     {
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
       "name": "390d14b83b7d7cba"
-    }, 
+    },
     {
       "name": "de479b86d6130eb6"
     }
-  ], 
-  "bib": "@inproceedings{29db2248aba45e59:1dc5655fcaa4c4ca,\n author = {Namolaru, Mircea and Cohen, Albert and Fursin, Grigori and Zaks, Ayal and Freund, Ari},\n title = {Practical aggregation of semantical program properties for machine learning based optimization},\n booktitle = {Proceedings of the 2010 international conference on Compilers, Architectures and Synthesis for Embedded Systems},\n series = {CASES'10},\n year = {2010},\n isbn = {978-1-60558-903-9},\n location = {Scottsdale, Arizona, USA},\n pages = {197--206},\n numpages = {10},\n url = {http://doi.acm.org/10.1145/1878921.1878951},\n doi = {10.1145/1878921.1878951},\n acmid = {1878951},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {compilation, machine learning},\n}\n\n", 
+  ],
+  "bib": "@inproceedings{29db2248aba45e59:1dc5655fcaa4c4ca,\n author = {Namolaru, Mircea and Cohen, Albert and Fursin, Grigori and Zaks, Ayal and Freund, Ari},\n title = {Practical aggregation of semantical program properties for machine learning based optimization},\n booktitle = {Proceedings of the 2010 international conference on Compilers, Architectures and Synthesis for Embedded Systems},\n series = {CASES'10},\n year = {2010},\n isbn = {978-1-60558-903-9},\n location = {Scottsdale, Arizona, USA},\n pages = {197--206},\n numpages = {10},\n url = {http://doi.acm.org/10.1145/1878921.1878951},\n doi = {10.1145/1878921.1878951},\n acmid = {1878951},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {compilation, machine learning},\n}\n\n",
   "bib_parsed": {
-    "_code": "Namolar2010p197206", 
-    "_type": "inproceedings", 
-    "acmid": "1878951", 
-    "address": "New York, NY, USA", 
+    "_code": "Namolar2010p197206",
+    "_type": "inproceedings",
+    "acmid": "1878951",
+    "address": "New York, NY, USA",
     "author": [
       [
-        "", 
-        "Namolaru", 
-        "Mircea", 
+        "",
+        "Namolaru",
+        "Mircea",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Cohen", 
-        "Albert", 
+        "",
+        "Cohen",
+        "Albert",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Fursin", 
-        "Grigori", 
+        "",
+        "Fursin",
+        "Grigori",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Zaks", 
-        "Ayal", 
+        "",
+        "Zaks",
+        "Ayal",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Freund", 
-        "Ari", 
+        "",
+        "Freund",
+        "Ari",
         ""
       ]
-    ], 
-    "booktitle": "Proceedings of the 2010 international conference on Compilers, Architectures and Synthesis for Embedded Systems", 
-    "doi": "10.1145/1878921.1878951", 
-    "firstpage": "197–206", 
-    "isbn": "978-1-60558-903-9", 
-    "keywords": "compilation, machine learning", 
-    "lastpage": "", 
-    "location": "Scottsdale, Arizona, USA", 
-    "numpages": "10", 
-    "publisher": "ACM", 
-    "series": "CASES'10", 
-    "title": "Practical aggregation of semantical program properties for machine learning based optimization", 
-    "url": "http://doi.acm.org/10.1145/1878921.1878951", 
+    ],
+    "booktitle": "Proceedings of the 2010 international conference on Compilers, Architectures and Synthesis for Embedded Systems",
+    "doi": "10.1145/1878921.1878951",
+    "firstpage": "197–206",
+    "isbn": "978-1-60558-903-9",
+    "keywords": "compilation, machine learning",
+    "lastpage": "",
+    "location": "Scottsdale, Arizona, USA",
+    "numpages": "10",
+    "publisher": "ACM",
+    "series": "CASES'10",
+    "title": "Practical aggregation of semantical program properties for machine learning based optimization",
+    "url": "http://doi.acm.org/10.1145/1878921.1878951",
     "year": "2010"
-  }, 
-  "bib_ref": "cm:29db2248aba45e59:1dc5655fcaa4c4ca", 
-  "local_bib": "doc.bib", 
-  "local_doc": "doc.pdf", 
-  "pages": "197-206", 
-  "place": "Scottsdale, Arizona, USA", 
-  "publish_iso_date": "2010-01-01", 
-  "reproducible": "yes", 
-  "title": "Practical aggregation of semantical program properties for machine learning based optimization", 
+  },
+  "bib_ref": "cm:29db2248aba45e59:1dc5655fcaa4c4ca",
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
+  "pages": "197-206",
+  "place": "Scottsdale, Arizona, USA",
+  "publish_iso_date": "2010-01-01",
+  "reproducible": "yes",
+  "title": "Practical aggregation of semantical program properties for machine learning based optimization",
   "type": {
-    "name": "conference", 
-    "peer_reviewed": "yes", 
+    "name": "conference",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "October 2010", 
+  },
+  "when": "October 2010",
   "where": "Proceedings of the International Conference on Compilers, Architectures and Synthesis for Embedded Systems (CASES'10)"
 }

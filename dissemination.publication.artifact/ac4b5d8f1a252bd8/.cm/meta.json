@@ -1,15 +1,15 @@
 {
-  "authors": [], 
-  "authors_plain": "Chris Schneider, Adam Barker, Simon Dobson", 
-  "cm_classes_uoa": [], 
+  "authors": [],
+  "authors_plain": "Chris Schneider, Adam Barker, Simon Dobson",
+  "cm_classes_uoa": [],
   "cm_dependencies": {
     "classes": []
-  }, 
-  "cm_dissemination": {}, 
-  "cm_properties": {}, 
-  "document_urls": [], 
-  "local_doc": "shared_material.zip", 
-  "organization_plain": "University of St Andrews, UK", 
+  },
+  "cm_dissemination": {},
+  "cm_properties": {},
+  "document_urls": [],
+  "local_doc": "shared_material.zip",
+  "organization_plain": "University of St Andrews, UK",
   "related_publications": [
     "6eeb9a481b006da3"
   ]

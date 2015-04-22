@@ -1,9 +1,9 @@
 {
-  "build_code_deps_var": "CM_CODE_DEP_SPEC_CPU2006", 
-  "cm_classes_uoa": [], 
+  "build_code_deps_var": "CM_CODE_DEP_SPEC_CPU2006",
+  "cm_classes_uoa": [],
   "cm_dependencies": {
     "classes": []
-  }, 
-  "cm_dissemination": {}, 
+  },
+  "cm_dissemination": {},
   "cm_properties": {}
 }

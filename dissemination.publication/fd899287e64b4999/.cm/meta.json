@@ -2,92 +2,92 @@
   "authors": [
     {
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
       "name": "e58fbedc23c45278"
-    }, 
+    },
     {
       "name": "cc58cd93d4412b9b"
-    }, 
+    },
     {
       "name": "785a4f3eee3f609d"
     }
-  ], 
-  "bib": "@incollection{29db2248aba45e59:fd899287e64b4999,\n author = {Fursin, Grigori and Cohen, Albert and O'Boyle, Michael F. P. and Temam, Olivier},\n title = {Quick and Practical Run-Time Evaluation of Multiple Program Optimizations},\n journal = {Transactions on High-Performance Embedded Architectures and Compilers},\n editor = {Stenstr\\\"{o}m, Per},\n year = {2006},\n isbn = {978-3-540-71527-6},\n pages = {13--31},\n numpages = {20},\n url = {http://dx.doi.org/10.1007/978-3-540-71528-3_4},\n doi = {10.1007/978-3-540-71528-3_4},\n acmid = {1506109},\n publisher = {Springer-Verlag},\n address = {Berlin, Heidelberg},\n}\n\n", 
+  ],
+  "bib": "@incollection{29db2248aba45e59:fd899287e64b4999,\n author = {Fursin, Grigori and Cohen, Albert and O'Boyle, Michael F. P. and Temam, Olivier},\n title = {Quick and Practical Run-Time Evaluation of Multiple Program Optimizations},\n journal = {Transactions on High-Performance Embedded Architectures and Compilers},\n editor = {Stenstr\\\"{o}m, Per},\n year = {2006},\n isbn = {978-3-540-71527-6},\n pages = {13--31},\n numpages = {20},\n url = {http://dx.doi.org/10.1007/978-3-540-71528-3_4},\n doi = {10.1007/978-3-540-71528-3_4},\n acmid = {1506109},\n publisher = {Springer-Verlag},\n address = {Berlin, Heidelberg},\n}\n\n",
   "bib_parsed": {
-    "_code": "Fursin2006THEAC_QAPp1331", 
-    "_type": "incollection", 
-    "acmid": "1506109", 
-    "address": "Berlin, Heidelberg", 
+    "_code": "Fursin2006THEAC_QAPp1331",
+    "_type": "incollection",
+    "acmid": "1506109",
+    "address": "Berlin, Heidelberg",
     "author": [
       [
-        "", 
-        "Fursin", 
-        "Grigori", 
+        "",
+        "Fursin",
+        "Grigori",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Cohen", 
-        "Albert", 
+        "",
+        "Cohen",
+        "Albert",
         ""
-      ], 
+      ],
       [
-        "", 
-        "O'Boyle", 
-        "Michael F. P.", 
+        "",
+        "O'Boyle",
+        "Michael F. P.",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Temam", 
-        "Olivier", 
+        "",
+        "Temam",
+        "Olivier",
         ""
       ]
-    ], 
-    "doi": "10.1007/978-3-540-71528-3_4", 
+    ],
+    "doi": "10.1007/978-3-540-71528-3_4",
     "editor": [
       [
-        "", 
-        "Stenström", 
-        "Per", 
+        "",
+        "Stenström",
+        "Per",
         ""
       ]
-    ], 
-    "firstpage": "13–31", 
-    "isbn": "978-3-540-71527-6", 
-    "journal": "Transactions on High-Performance Embedded Architectures and Compilers", 
-    "journal_abbrev": "THEAC", 
-    "lastpage": "", 
-    "numpages": "20", 
-    "publisher": "Springer-Verlag", 
-    "title": "Quick and Practical Run-Time Evaluation of Multiple Program Optimizations", 
-    "url": "http://dx.doi.org/10.1007/978-3-540-71528-3_4", 
+    ],
+    "firstpage": "13–31",
+    "isbn": "978-3-540-71527-6",
+    "journal": "Transactions on High-Performance Embedded Architectures and Compilers",
+    "journal_abbrev": "THEAC",
+    "lastpage": "",
+    "numpages": "20",
+    "publisher": "Springer-Verlag",
+    "title": "Quick and Practical Run-Time Evaluation of Multiple Program Optimizations",
+    "url": "http://dx.doi.org/10.1007/978-3-540-71528-3_4",
     "year": "2006"
-  }, 
-  "bib_ref": "cm:29db2248aba45e59:fd899287e64b4999", 
+  },
+  "bib_ref": "cm:29db2248aba45e59:fd899287e64b4999",
   "document_urls": [
     "http://hal.inria.fr/docs/00/08/41/10/PDF/fcop06.pdf"
-  ], 
-  "local_bib": "doc.bib", 
-  "local_doc": "doc.pdf", 
+  ],
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
   "notes": [
     {
-      "bold": "yes", 
-      "italic": "yes", 
+      "bold": "yes",
+      "italic": "yes",
       "note": "Extended version of [$#cm_29db2248aba45e59_5e16c10fa43f8bb4#$]"
     }
-  ], 
-  "pages": "13-31", 
-  "place": "", 
-  "publish_iso_date": "2006-01-01", 
-  "reproducible": "yes", 
-  "title": "Quick and Practical Run-Time Evaluation of Multiple Program Optimizations", 
+  ],
+  "pages": "13-31",
+  "place": "",
+  "publish_iso_date": "2006-01-01",
+  "reproducible": "yes",
+  "title": "Quick and Practical Run-Time Evaluation of Multiple Program Optimizations",
   "type": {
-    "name": "journal", 
-    "peer_reviewed": "yes", 
+    "name": "journal",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "2006", 
+  },
+  "when": "2006",
   "where": "Transactions on High-Performance Embedded Architectures and Compilers, Volume 1"
 }

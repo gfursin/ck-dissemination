@@ -3,21 +3,21 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "bib_ref": "cm:29db2248aba45e59:cd75d4dd0a5957aa", 
+  ],
+  "bib_ref": "cm:29db2248aba45e59:cd75d4dd0a5957aa",
   "document_urls": [
     "http://dx.doi.org/10.4230/DagRep.3.9.214"
-  ], 
-  "local_bib": "doc.bib", 
-  "local_doc": "doc.pdf", 
-  "place": "Dagstuhl, Germany", 
-  "publish_iso_date": "2014-01-17", 
-  "title": "Crowdsourcing autotuning: challenges and possible solutions", 
+  ],
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
+  "place": "Dagstuhl, Germany",
+  "publish_iso_date": "2014-01-17",
+  "title": "Crowdsourcing autotuning: challenges and possible solutions",
   "type": {
-    "name": "extended_abstract", 
-    "peer_reviewed": "yes", 
+    "name": "extended_abstract",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "January 2014", 
+  },
+  "when": "January 2014",
   "where": "Extended abstract at Dagstuhl Seminar 13401"
 }

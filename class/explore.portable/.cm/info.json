@@ -1,23 +1,23 @@
 {
-  "backup_data_uid": "dc6b904ae894e1cb", 
-  "backup_module_uid": "58014c9c91d6d101", 
-  "backup_module_uoa": "class", 
+  "backup_data_uid": "dc6b904ae894e1cb",
+  "backup_module_uid": "58014c9c91d6d101",
+  "backup_module_uoa": "class",
   "cm_outdated": {
     "cm_access_control": {
-      "comments_groups": "registered", 
-      "read_groups": "all", 
+      "comments_groups": "registered",
+      "read_groups": "all",
       "write_groups": "owner"
-    }, 
+    },
     "powered_by": {
-      "name": "Collective Mind Engine", 
+      "name": "Collective Mind Engine",
       "version": "1.0.2015.beta"
     }
-  }, 
+  },
   "control": {
-    "author_uoa": "0728a400aa1c86fe", 
-    "engine": "CM", 
-    "iso_datetime": "2013-05-11T08:48:10.421000", 
+    "author_uoa": "0728a400aa1c86fe",
+    "engine": "CM",
+    "iso_datetime": "2013-05-11T08:48:10.421000",
     "version": []
-  }, 
+  },
   "data_name": "explore.portable"
 }

@@ -2,65 +2,65 @@
   "authors": [
     {
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
       "name": "de445ffdc94d43c2"
-    }, 
+    },
     {
       "name": "785a4f3eee3f609d"
-    }, 
+    },
     {
       "name": "6020e15763149288"
-    }, 
+    },
     {
       "name": "7dcb8ad3d12231b3"
-    }, 
+    },
     {
       "name": "390d14b83b7d7cba"
-    }, 
+    },
     {
       "name": "5d754afaba3be88c"
-    }, 
+    },
     {
       "name": "dccc84c77add5f08"
-    }, 
+    },
     {
       "name": "cbba52ad400f8466"
-    }, 
+    },
     {
       "name": "817b443be8507751"
-    }, 
+    },
     {
       "name": "d061f7d22c1c44cc"
-    }, 
+    },
     {
       "name": "372f04e6c991a4a9"
-    }, 
+    },
     {
       "name": "1707e0868434377a"
-    }, 
+    },
     {
       "name": "1ae45caac9f52386"
-    }, 
+    },
     {
       "name": "270d44280c42bd92"
-    }, 
+    },
     {
       "name": "cc58cd93d4412b9b"
     }
-  ], 
-  "bib_ref": "cm:29db2248aba45e59:4f7549e2a7c1c8a3", 
-  "local_bib": "doc.bib", 
-  "local_doc": "doc.pdf", 
-  "place": "Italy", 
-  "publish_iso_date": "2008-07-01", 
-  "reproducible": "yes", 
-  "title": "MILEPOST GCC: machine learning based research compiler", 
+  ],
+  "bib_ref": "cm:29db2248aba45e59:4f7549e2a7c1c8a3",
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
+  "place": "Italy",
+  "publish_iso_date": "2008-07-01",
+  "reproducible": "yes",
+  "title": "MILEPOST GCC: machine learning based research compiler",
   "type": {
-    "name": "poster", 
-    "peer_reviewed": "yes", 
+    "name": "poster",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "2008", 
+  },
+  "when": "2008",
   "where": "Poster at ACACES summer school"
 }

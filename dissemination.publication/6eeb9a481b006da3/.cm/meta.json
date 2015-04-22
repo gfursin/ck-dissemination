@@ -1,31 +1,31 @@
 {
-  "authors": [], 
-  "authors_plain": "Chris Schneider, Adam Barker, Simon Dobson", 
-  "bib": "", 
-  "bib_parsed": {}, 
-  "cm_classes_uoa": [], 
+  "authors": [],
+  "authors_plain": "Chris Schneider, Adam Barker, Simon Dobson",
+  "bib": "",
+  "bib_parsed": {},
+  "cm_classes_uoa": [],
   "cm_dependencies": {
     "classes": []
-  }, 
-  "cm_dissemination": {}, 
-  "cm_properties": {}, 
-  "document_urls": [], 
-  "language": "", 
-  "local_doc": "doc.pdf", 
-  "organization_plain": "University of St Andrews, UK", 
-  "place": "Vienna, Austria", 
-  "publish_iso_date": "2014-01-22", 
-  "reproducible": "yes", 
+  },
+  "cm_dissemination": {},
+  "cm_properties": {},
+  "document_urls": [],
+  "language": "",
+  "local_doc": "doc.pdf",
+  "organization_plain": "University of St Andrews, UK",
+  "place": "Vienna, Austria",
+  "publish_iso_date": "2014-01-22",
+  "reproducible": "yes",
   "shared_artifacts": [
     "ac4b5d8f1a252bd8"
-  ], 
-  "title": "Autonomous Fault Detection in Self-Healing Systems: Comparing Hidden Markov Models and Artificial Neural Networks", 
-  "title_orig": "", 
+  ],
+  "title": "Autonomous Fault Detection in Self-Healing Systems: Comparing Hidden Markov Models and Artificial Neural Networks",
+  "title_orig": "",
   "type": {
-    "name": "workshop", 
-    "peer_reviewed": "yes", 
+    "name": "workshop",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "January 2014", 
+  },
+  "when": "January 2014",
   "where": "4th International Workshop on Adaptive Self-tuning Computing Systems (ADAPT'14) co-located with HiPEAC'14"
 }

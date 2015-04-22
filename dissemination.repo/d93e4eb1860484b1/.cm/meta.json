@@ -3,26 +3,26 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "end_iso_date": "2006-06-01", 
-  "for": "research on multi-objective program and architecture auto-tuning and co-design combined with machine learning", 
+  ],
+  "end_iso_date": "2006-06-01",
+  "for": "research on multi-objective program and architecture auto-tuning and co-design combined with machine learning",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Powered by FCO framework [$#cm_d76ac3bb9a3f744c_30489f4f8a9c7b1d#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Funded by [$#cm_5ae0ce43ceb4d73c_2d941ccdf19040d7#$, $#cm_c47ad9a552aa7e82_e09d580d14d149f4#$]"
-    }, 
+    },
     {
-      "bold": "yes", 
-      "italic": "yes", 
+      "bold": "yes",
+      "italic": "yes",
       "note": "Discontinued for [$#cm_4d63887b5cda54aa_122a0cb1e6ff9fc1#$]"
     }
-  ], 
-  "start_iso_date": "2004-06-01", 
-  "title": "In-house collaborative optimization repository", 
+  ],
+  "start_iso_date": "2004-06-01",
+  "title": "In-house collaborative optimization repository",
   "type": {
     "name": "private_repository"
   }

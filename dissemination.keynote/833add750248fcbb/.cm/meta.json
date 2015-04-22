@@ -3,36 +3,36 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "end_iso_date": "", 
-  "funded": "", 
+  ],
+  "end_iso_date": "",
+  "funded": "",
   "local_docs": [
     {
-      "file": "flyer_2013_@2hpsc.pdf", 
+      "file": "flyer_2013_@2hpsc.pdf",
       "title": "Conference flyer"
-    }, 
+    },
     {
-      "file": "presentation_fursin_hpsc_2013_fursin1.pdf", 
+      "file": "presentation_fursin_hpsc_2013_fursin1.pdf",
       "title": "View presentation 1"
-    }, 
+    },
     {
-      "file": "presentation_fursin_hpsc_2013_fursin2.pdf", 
+      "file": "presentation_fursin_hpsc_2013_fursin2.pdf",
       "title": "View presentation 2"
     }
-  ], 
-  "notes": [], 
-  "start_iso_date": "2013-03-27", 
-  "title": "Keynote at HPCS 2013", 
+  ],
+  "notes": [],
+  "start_iso_date": "2013-03-27",
+  "title": "Keynote at HPCS 2013",
   "type": {
     "name": "keynote"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "http://goo.gl/emTlc"
     }
-  ], 
-  "where": "NTU, Taipei, Taiwan", 
-  "where_prefix": "in", 
+  ],
+  "where": "NTU, Taipei, Taiwan",
+  "where_prefix": "in",
   "why": "(\"Systematizing tuning of computer systems using crowdsourcing and statistics\")"
 }

@@ -1,8 +1,8 @@
 {
-  "abbreviation": "NCAR", 
-  "country": "USA", 
-  "name": "The National Center for Atmospheric Research", 
-  "type": "governmental organization", 
+  "abbreviation": "NCAR",
+  "country": "USA",
+  "name": "The National Center for Atmospheric Research",
+  "type": "governmental organization",
   "urls": [
     "http://ncar.ucar.edu"
   ]

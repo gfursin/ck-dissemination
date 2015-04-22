@@ -1,40 +1,40 @@
 {
   "authors": [
     {
-      "affiliation": "INRIA, France", 
+      "affiliation": "INRIA, France",
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
-      "affiliation": "Intel/CEA Exascale Lab, France", 
+      "affiliation": "Intel/CEA Exascale Lab, France",
       "name": "60563242e8aff972"
     }
-  ], 
-  "colocated": "SuperComputing 2011", 
+  ],
+  "colocated": "SuperComputing 2011",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Presenting and discussing long-term $#cm_cv_r_and_d#$ of my team at Intel/CEA Exascale Lab, France"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Continuation in [$#cm_29db2248aba45e59_1943b3f46fabaee4#$, $#cm_29db2248aba45e59_f98a6602e010cfd5#$]"
     }
-  ], 
-  "place": "Seattle, WA, USA", 
-  "start_iso_date": "2011-11-18", 
-  "title": "BOF - Collaboratively mining rich information to prepare the Exascale challenges @ SC 2011", 
+  ],
+  "place": "Seattle, WA, USA",
+  "start_iso_date": "2011-11-18",
+  "title": "BOF - Collaboratively mining rich information to prepare the Exascale challenges @ SC 2011",
   "type": {
     "name": "bof"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "http://www.sc11.supercomputing.org/schedule/event_detail.php?evid=bof164"
-    }, 
+    },
     {
-      "title": "Backup", 
+      "title": "Backup",
       "url": "http://ctuning.org/sc2011-bof-characterization"
     }
-  ], 
+  ],
   "when": "November 2011"
 }

@@ -1,36 +1,36 @@
 {
   "authors": [
     {
-      "affiliation": "INRIA / cTuning foundation, France", 
+      "affiliation": "INRIA / cTuning foundation, France",
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
-      "affiliation": "University of Pittsburgh, USA", 
+      "affiliation": "University of Pittsburgh, USA",
       "name": "951b4c09aa9529c0"
     }
-  ], 
-  "cm_classes_uoa": [], 
+  ],
+  "cm_classes_uoa": [],
   "cm_dependencies": {
     "classes": []
-  }, 
-  "cm_dissemination": {}, 
-  "cm_properties": {}, 
-  "notes": [], 
-  "place": "San Francisco Bay Area, CA, USA", 
-  "start_iso_date": "2015-02-7", 
-  "title": "Artifact evaluation for PPoPP'15", 
+  },
+  "cm_dissemination": {},
+  "cm_properties": {},
+  "notes": [],
+  "place": "San Francisco Bay Area, CA, USA",
+  "start_iso_date": "2015-02-7",
+  "title": "Artifact evaluation for PPoPP'15",
   "type": {
     "name": "artifact_evaluation"
-  }, 
+  },
   "urls": [
     {
-      "title": "AE website", 
+      "title": "AE website",
       "url": "http://cTuning.org/event/ae-ppopp2015"
-    }, 
+    },
     {
-      "title": "PPoPP'15 website", 
+      "title": "PPoPP'15 website",
       "url": "http://ppopp15.soe.ucsc.edu"
     }
-  ], 
+  ],
   "when": "Feburary 2015"
 }

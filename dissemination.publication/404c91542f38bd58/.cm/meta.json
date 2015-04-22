@@ -1,86 +1,86 @@
 {
-  "acceptance": "acceptance rate=29$#cm_cv_percent#$", 
+  "acceptance": "acceptance rate=29$#cm_cv_percent#$",
   "authors": [
     {
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
       "name": "0e87696f4c2c8251"
-    }, 
+    },
     {
       "name": "cc58cd93d4412b9b"
-    }, 
+    },
     {
       "name": "785a4f3eee3f609d"
     }
-  ], 
-  "bib": "@inproceedings{29db2248aba45e59:404c91542f38bd58,\n author = {Fursin, Grigori and Cavazos, John and O'Boyle, Michael and Temam, Olivier},\n title = {MiDataSets: creating the conditions for a more realistic evaluation of Iterative optimization},\n booktitle = {Proceedings of the 2nd international conference on High performance embedded architectures and compilers},\n series = {HiPEAC'07},\n year = {2007},\n isbn = {978-3-540-69337-6},\n location = {Ghent, Belgium},\n pages = {245--260},\n numpages = {16},\n url = {http://dl.acm.org/citation.cfm?id=1762146.1762170},\n acmid = {1762170},\n publisher = {Springer-Verlag},\n address = {Berlin, Heidelberg},\n}\n\n", 
+  ],
+  "bib": "@inproceedings{29db2248aba45e59:404c91542f38bd58,\n author = {Fursin, Grigori and Cavazos, John and O'Boyle, Michael and Temam, Olivier},\n title = {MiDataSets: creating the conditions for a more realistic evaluation of Iterative optimization},\n booktitle = {Proceedings of the 2nd international conference on High performance embedded architectures and compilers},\n series = {HiPEAC'07},\n year = {2007},\n isbn = {978-3-540-69337-6},\n location = {Ghent, Belgium},\n pages = {245--260},\n numpages = {16},\n url = {http://dl.acm.org/citation.cfm?id=1762146.1762170},\n acmid = {1762170},\n publisher = {Springer-Verlag},\n address = {Berlin, Heidelberg},\n}\n\n",
   "bib_parsed": {
-    "_code": "Fursin2007p245260", 
-    "_type": "inproceedings", 
-    "acmid": "1762170", 
-    "address": "Berlin, Heidelberg", 
+    "_code": "Fursin2007p245260",
+    "_type": "inproceedings",
+    "acmid": "1762170",
+    "address": "Berlin, Heidelberg",
     "author": [
       [
-        "", 
-        "Fursin", 
-        "Grigori", 
+        "",
+        "Fursin",
+        "Grigori",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Cavazos", 
-        "John", 
+        "",
+        "Cavazos",
+        "John",
         ""
-      ], 
+      ],
       [
-        "", 
-        "O'Boyle", 
-        "Michael", 
+        "",
+        "O'Boyle",
+        "Michael",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Temam", 
-        "Olivier", 
+        "",
+        "Temam",
+        "Olivier",
         ""
       ]
-    ], 
-    "booktitle": "Proceedings of the 2nd international conference on High performance embedded architectures and compilers", 
-    "firstpage": "245–260", 
-    "isbn": "978-3-540-69337-6", 
-    "lastpage": "", 
-    "location": "Ghent, Belgium", 
-    "numpages": "16", 
-    "publisher": "Springer-Verlag", 
-    "series": "HiPEAC'07", 
-    "title": "MiDataSets: creating the conditions for a more realistic evaluation of Iterative optimization", 
-    "url": "http://dl.acm.org/citation.cfm?id=1762146.1762170", 
+    ],
+    "booktitle": "Proceedings of the 2nd international conference on High performance embedded architectures and compilers",
+    "firstpage": "245–260",
+    "isbn": "978-3-540-69337-6",
+    "lastpage": "",
+    "location": "Ghent, Belgium",
+    "numpages": "16",
+    "publisher": "Springer-Verlag",
+    "series": "HiPEAC'07",
+    "title": "MiDataSets: creating the conditions for a more realistic evaluation of Iterative optimization",
+    "url": "http://dl.acm.org/citation.cfm?id=1762146.1762170",
     "year": "2007"
-  }, 
-  "bib_ref": "cm:29db2248aba45e59:404c91542f38bd58", 
-  "local_bib": "doc.bib", 
-  "local_doc": "doc.pdf", 
+  },
+  "bib_ref": "cm:29db2248aba45e59:404c91542f38bd58",
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Preparing $#cm_cv_r_and_d#$ on collective optimization [$#cm_e84a25bcb528c798_cbd09ece363c9f84#$, $#cm_e84a25bcb528c798_4144fde47d68ae99#$, $#cm_e84a25bcb528c798_94f7fafabf0baa0b#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Released in public repositories of knowledge [$#cm_4d63887b5cda54aa_122a0cb1e6ff9fc1#$, $#cm_4d63887b5cda54aa_4d4fbc8d3ae7e75c#$]"
     }
-  ], 
-  "pages": "245-260", 
-  "place": "Ghent, Belgium", 
-  "publish_iso_date": "2007-01-01", 
-  "reproducible": "yes", 
-  "title": "MiDataSets: creating the conditions for a more realistic evaluation of Iterative optimization", 
+  ],
+  "pages": "245-260",
+  "place": "Ghent, Belgium",
+  "publish_iso_date": "2007-01-01",
+  "reproducible": "yes",
+  "title": "MiDataSets: creating the conditions for a more realistic evaluation of Iterative optimization",
   "type": {
-    "name": "conference", 
-    "peer_reviewed": "yes", 
+    "name": "conference",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "January 2007", 
+  },
+  "when": "January 2007",
   "where": "Proceedings of the 2nd international conference on High performance embedded architectures and compilers (HiPEAC)"
 }

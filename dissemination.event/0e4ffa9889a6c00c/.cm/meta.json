@@ -1,46 +1,46 @@
 {
   "authors": [
     {
-      "affiliation": "BSC/UPC, Spain", 
+      "affiliation": "BSC/UPC, Spain",
       "name": "1a905d99c4d4cb55"
-    }, 
+    },
     {
-      "affiliation": "University of Edinburgh, UK", 
+      "affiliation": "University of Edinburgh, UK",
       "name": "c4290b1422e8e85d"
-    }, 
+    },
     {
-      "affiliation": "INRIA, France", 
+      "affiliation": "INRIA, France",
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "cm_classes_uoa": [], 
+  ],
+  "cm_classes_uoa": [],
   "cm_dependencies": {
     "classes": []
-  }, 
-  "cm_dissemination": {}, 
-  "cm_properties": {}, 
-  "colocated": "HiPEAC Spring Computing Systems Week 2014", 
+  },
+  "cm_dissemination": {},
+  "cm_properties": {},
+  "colocated": "HiPEAC Spring Computing Systems Week 2014",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Participants: Paolo Faraboschi (HP Labs, Spain), Ana Lucia Varbanescu (University of Amsterdam, Netherlands), Mats Brorsson (KTH, Sweden), Pooyan Dadvand (CIMNE/UPC, Spain) and Paul Keir (CodePlay, UK);"
     }
-  ], 
-  "place": "BSC, Barcelona, Spain", 
-  "start_iso_date": "2014-05-15", 
-  "title": "Panel \"Is Current Research on Heterogeneous HPC Platforms inline with Real-world Application needs?\"", 
+  ],
+  "place": "BSC, Barcelona, Spain",
+  "start_iso_date": "2014-05-15",
+  "title": "Panel \"Is Current Research on Heterogeneous HPC Platforms inline with Real-world Application needs?\"",
   "type": {
     "name": "panel"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website and slides", 
+      "title": "Website and slides",
       "url": "http://www.hipeac.net/add/res/102/481"
-    }, 
+    },
     {
-      "title": "CSW Website", 
+      "title": "CSW Website",
       "url": "http://www.hipeac.net/csw/2014/barcelona"
     }
-  ], 
+  ],
   "when": "May 2014"
 }

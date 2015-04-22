@@ -1,41 +1,41 @@
 {
   "authors": [
     {
-      "name": "aadbdca8d7ac43ff", 
+      "name": "aadbdca8d7ac43ff",
       "organization": [
-        "4aa6d3084fe08c03", 
-        "d623dd74a54aa7ab", 
+        "4aa6d3084fe08c03",
+        "d623dd74a54aa7ab",
         "53c541fc8d6c7d86"
       ]
-    }, 
+    },
     {
-      "name": "0728a400aa1c86fe", 
+      "name": "0728a400aa1c86fe",
       "organization": [
-        "4aa6d3084fe08c03", 
+        "4aa6d3084fe08c03",
         "d623dd74a54aa7ab"
       ]
     }
-  ], 
-  "bib": "", 
-  "bib_ref": "cm:29db2248aba45e59:f98a6602e010cfd5", 
-  "cm_archive": "", 
-  "cm_rank": 0, 
+  ],
+  "bib": "",
+  "bib_ref": "cm:29db2248aba45e59:f98a6602e010cfd5",
+  "cm_archive": "",
+  "cm_rank": 0,
   "document_urls": [
-    "http://www.iospress.nl/book/parallel-computing-accelerating-computational-science-and-engineering-cse", 
+    "http://www.iospress.nl/book/parallel-computing-accelerating-computational-science-and-engineering-cse",
     "http://www.ebooks.iospress.nl/volume/parallel-computing-accelerating-computational-science-and-engineering-cse"
-  ], 
-  "language": "English", 
-  "local_bib": "doc.bib", 
-  "place": "Munich, Germany", 
-  "publish_iso_date": "2013-09-15", 
-  "reproducible": "yes", 
-  "title": "Crowdtuning: systematizing auto-tuning using predictive modeling and crowdsourcing", 
-  "title_orig": "Crowdtuning: systematizing auto-tuning using predictive modeling and crowdsourcing", 
+  ],
+  "language": "English",
+  "local_bib": "doc.bib",
+  "place": "Munich, Germany",
+  "publish_iso_date": "2013-09-15",
+  "reproducible": "yes",
+  "title": "Crowdtuning: systematizing auto-tuning using predictive modeling and crowdsourcing",
+  "title_orig": "Crowdtuning: systematizing auto-tuning using predictive modeling and crowdsourcing",
   "type": {
-    "name": "workshop", 
-    "peer_reviewed": "yes", 
+    "name": "workshop",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "September 2013", 
+  },
+  "when": "September 2013",
   "where": "Proceedings of the Application Autotuning for HPC mini-symposium co-located with PARCO 2013"
 }

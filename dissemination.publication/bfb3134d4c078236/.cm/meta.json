@@ -3,24 +3,24 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "bib_ref": "cm:29db2248aba45e59:bfb3134d4c078236", 
-  "local_bib": "doc.bib", 
-  "local_doc": "doc.pdf", 
+  ],
+  "bib_ref": "cm:29db2248aba45e59:bfb3134d4c078236",
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Introducing open-source Collective Mind Framework (plugin-based knowledge management system) [$#cm_d76ac3bb9a3f744c_bd5c924415bae775#$] and public repository [$#cm_4d63887b5cda54aa_4d4fbc8d3ae7e75c#$] to start collaborative systematization of computer engineering and initiate new publication model where all research artifacts are shared, validated and extended by the community [$#cm_e84a25bcb528c798_94f7fafabf0baa0b#$]"
     }
-  ], 
-  "place": "", 
-  "publish_iso_date": "2013-06-01", 
-  "title": "HiPEAC Thematic Session on \"Making Computer Engineering a science\": cleaning up the mess", 
+  ],
+  "place": "",
+  "publish_iso_date": "2013-06-01",
+  "title": "HiPEAC Thematic Session on \"Making Computer Engineering a science\": cleaning up the mess",
   "type": {
-    "name": "newsletter", 
-    "peer_reviewed": "yes", 
+    "name": "newsletter",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "2013", 
+  },
+  "when": "2013",
   "where": "HiPEAC newsletter 35"
 }

@@ -2,26 +2,26 @@
   "authors": [
     {
       "name": "4cf1a9c63f91fe04"
-    }, 
+    },
     {
       "name": "86c95d7af48aafe7"
-    }, 
+    },
     {
       "name": "712c6205df4120b4"
     }
-  ], 
-  "bib": "", 
-  "bib_ref": "cm:29db2248aba45e59:4f4fa2921461ec0a", 
-  "language": "Russian", 
-  "local_bib": "doc.bib", 
-  "place": "Moscow", 
-  "publish_iso_date": "1981-01-01", 
-  "title": "Neuristor and other functional circuits with volume feedback", 
+  ],
+  "bib": "",
+  "bib_ref": "cm:29db2248aba45e59:4f4fa2921461ec0a",
+  "language": "Russian",
+  "local_bib": "doc.bib",
+  "place": "Moscow",
+  "publish_iso_date": "1981-01-01",
+  "title": "Neuristor and other functional circuits with volume feedback",
   "type": {
-    "name": "journal", 
-    "peer_reviewed": "yes", 
+    "name": "journal",
+    "peer_reviewed": "yes",
     "scope": "national"
-  }, 
-  "when": "1981", 
+  },
+  "when": "1981",
   "where": "Radio i Sviaz"
 }

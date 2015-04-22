@@ -1,22 +1,22 @@
 {
-  "backup_data_uid": "4e7ca6817f550cba", 
-  "backup_module_uid": "b0743a4044480ead", 
-  "backup_module_uoa": "person", 
+  "backup_data_uid": "4e7ca6817f550cba",
+  "backup_module_uid": "b0743a4044480ead",
+  "backup_module_uoa": "person",
   "cm_outdated": {
     "cm_access_control": {
-      "comments_groups": "registered", 
-      "read_groups": "all", 
+      "comments_groups": "registered",
+      "read_groups": "all",
       "write_groups": "admin"
-    }, 
+    },
     "powered_by": {
-      "name": "Collective Mind Engine", 
+      "name": "Collective Mind Engine",
       "version": "1.0.2015.beta"
     }
-  }, 
+  },
   "control": {
-    "engine": "CM", 
-    "iso_datetime": "2013-09-22T14:31:07.671553", 
+    "engine": "CM",
+    "iso_datetime": "2013-09-22T14:31:07.671553",
     "version": []
-  }, 
+  },
   "data_name": "anonymous"
 }

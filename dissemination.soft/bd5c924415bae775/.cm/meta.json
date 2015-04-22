@@ -3,76 +3,76 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "end_iso_date": "cur.", 
+  ],
+  "end_iso_date": "cur.",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Released in 2013 (V1.0beta, standard BSD license)"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Partially funded by INRIA 4 year fellowship [$#cm_5ae0ce43ceb4d73c_72d7c56eac47e48d#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Includes software [$#cm_d76ac3bb9a3f744c_b83d269b514aa588#$, $#cm_d76ac3bb9a3f744c_8898da99a4110bc1#$, $#cm_d76ac3bb9a3f744c_c2c4b3caf3027fd6#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Aggregated and unified all $#cm_cv_my3#$ past research and development ideas and prototypes within new Collective Mind Framework and Repository to systematize collaborative research, development and experimentation"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Continued new publication model in computer engineering where all research artifacts (tools, benchmarks, datasets, models) are continuously shared and validated by the community, and extended in new cM Lego-style $#cm_cv_r_and_d#$ scenarios"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Technology: easily customizable for any end-user $#cm_cv_r_and_d#$ scenario through plugins; agile development methodology; NoSQL databases with JSON representation; ElasticSearch indexing; unified python plugins for web-services, auto-tuning, data mining and machine learning; OpenME interface to connect applications and tools written in C, C++, Fortran, PHP to cM; upport for practically any Unix and Windows-based desktops, laptops, supercomputers, cloud servers, and even tablets and mobile phones with ARM,Intel,ST,Loongson,AMD,NVidia and other chips; powerful graph capabilities"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Publications [$#cm_29db2248aba45e59_1943b3f46fabaee4#$, $#cm_29db2248aba45e59_f98a6602e010cfd5#$, $#cm_29db2248aba45e59_bfb3134d4c078236#$, $#cm_29db2248aba45e59_db899893d4b71ba7#$, $#cm_29db2248aba45e59_241959a66d0e6895#$, $#cm_29db2248aba45e59_54ac7ceace451a83#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Associated events [$#cm_77154d189d2e226c_ba9ff465bb24fbb6#$, $#cm_77154d189d2e226c_62b66f207403dbbb#$, $#cm_77154d189d2e226c_4bf48a6e31437834#$, $#cm_77154d189d2e226c_7a7848344740d897#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Associated live repository and online advice service [$#cm_4d63887b5cda54aa_4d4fbc8d3ae7e75c#$]"
     }
-  ], 
-  "start_iso_date": "2011-09-03", 
-  "title": "Collective Mind Framework and Repository (cM aka cTuning3)", 
+  ],
+  "start_iso_date": "2011-09-03",
+  "title": "Collective Mind Framework and Repository (cM aka cTuning3)",
   "type": {
     "name": "software"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "http://cTuning.org/tools/cm"
-    }, 
+    },
     {
-      "title": "cM SVN download", 
+      "title": "cM SVN download",
       "url": "http://sourceforge.net/p/c-mind"
-    }, 
+    },
     {
-      "title": "cM wiki", 
+      "title": "cM wiki",
       "url": "http://ctuning.org/cm/wiki"
-    }, 
+    },
     {
-      "title": "New cM development tasks", 
+      "title": "New cM development tasks",
       "url": "https://sourceforge.net/p/c-mind/tickets"
-    }, 
+    },
     {
-      "title": "Old cM development tasks", 
+      "title": "Old cM development tasks",
       "url": "http://unidapt.org/redmine/projects/cm"
-    }, 
+    },
     {
-      "title": "cM Google Group discussions", 
+      "title": "cM Google Group discussions",
       "url": "http://groups.google.com/group/collective-mind"
     }
-  ], 
+  ],
   "why": "- plugin-based knowledge management system to preserve, systematize and share all research, development and experimentation artifacts using private or in-house web and plugin-based, customizable, schema-free, NoSQL repository of knowledge combined with crowdsourcing and machine learning; collaborative and agile implementation and systematization of experimental scenarios combined with statistical analysis and data mining; plugin-based program and architecture auto-tuning and co-design combined with crowdsourcing, machine learning and run-time adaptation"
 }

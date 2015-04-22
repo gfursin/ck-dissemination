@@ -1,6 +1,6 @@
 {
-  "cm_archive": "", 
-  "code_deps_var": "CM_CODE_DEP_MILEPOST_GCC", 
-  "include_deps_var": "CM_CODE_DEP_MILEPOST_GCC", 
+  "cm_archive": "",
+  "code_deps_var": "CM_CODE_DEP_MILEPOST_GCC",
+  "include_deps_var": "CM_CODE_DEP_MILEPOST_GCC",
   "lib_deps_var": "CM_CODE_DEP_MILEPOST_GCC"
 }

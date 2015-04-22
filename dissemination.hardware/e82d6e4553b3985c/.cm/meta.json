@@ -3,36 +3,36 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "end_iso_date": "1999-02-01", 
-  "local_docs": [], 
+  ],
+  "end_iso_date": "1999-02-01",
+  "local_docs": [],
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Released to MIPT colleagues in 1997"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Related DOS/Windows software: [$#cm_d76ac3bb9a3f744c_c9058860d64c22bd#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Used in various undergraduate MIPT laboratories"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Partially funded by [$#cm_5ae0ce43ceb4d73c_1ab347a4deda9b88#$, $#cm_4978a2f58b214af0_98aa4be821b47b6f#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Publications [$#cm_29db2248aba45e59_154e2c842ea60cb5#$, $#cm_29db2248aba45e59_5fe68265adaf4b24#$, $#cm_29db2248aba45e59_ecb835592497469e#$]"
     }
-  ], 
-  "start_iso_date": "1993-02-01", 
-  "title": "ADC/DAC board for personal computer", 
+  ],
+  "start_iso_date": "1993-02-01",
+  "title": "ADC/DAC board for personal computer",
   "type": {
     "name": "hardware"
-  }, 
-  "urls": [], 
+  },
+  "urls": [],
   "why": " - automating measurement of charateristics of semiconductor devices"
 }

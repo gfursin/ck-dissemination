@@ -1,89 +1,89 @@
 {
-  "acceptance": "acceptance rate=62$#cm_cv_percent#$ (8/13)", 
+  "acceptance": "acceptance rate=62$#cm_cv_percent#$ (8/13)",
   "authors": [
     {
       "name": "e024180b738425be"
-    }, 
+    },
     {
       "name": "c0380c3aa332dd50"
-    }, 
+    },
     {
       "name": "3963949348f2591d"
-    }, 
+    },
     {
       "name": "5e5b4ca6d1475483"
-    }, 
+    },
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "bib": "@inproceedings{29db2248aba45e59:018846323bc3cf1d,\n\n  author =    {Lianjie Luo and Yang Chen and Chengyong Wu and Shun Long and Grigori Fursin},\n  title =     {Finding representative sets of optimizations for adaptive multiversioning applications},\n  booktitle = {3rd Workshop on Statistical and Machine Learning Approaches Applied to Architectures and Compilation (SMART'09), co-located with HiPEAC'09 conference},\n  year =      {2009},\n  month =     {January},\n  keys =      {http://www.hipeac.net/smart-workshop.html}\n}\n\n", 
+  ],
+  "bib": "@inproceedings{29db2248aba45e59:018846323bc3cf1d,\n\n  author =    {Lianjie Luo and Yang Chen and Chengyong Wu and Shun Long and Grigori Fursin},\n  title =     {Finding representative sets of optimizations for adaptive multiversioning applications},\n  booktitle = {3rd Workshop on Statistical and Machine Learning Approaches Applied to Architectures and Compilation (SMART'09), co-located with HiPEAC'09 conference},\n  year =      {2009},\n  month =     {January},\n  keys =      {http://www.hipeac.net/smart-workshop.html}\n}\n\n",
   "bib_parsed": {
-    "_code": "Luo2009", 
-    "_type": "inproceedings", 
+    "_code": "Luo2009",
+    "_type": "inproceedings",
     "author": [
       [
-        "", 
-        "Luo", 
-        "Lianjie", 
+        "",
+        "Luo",
+        "Lianjie",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Chen", 
-        "Yang", 
+        "",
+        "Chen",
+        "Yang",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Wu", 
-        "Chengyong", 
+        "",
+        "Wu",
+        "Chengyong",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Long", 
-        "Shun", 
+        "",
+        "Long",
+        "Shun",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Fursin", 
-        "Grigori", 
+        "",
+        "Fursin",
+        "Grigori",
         ""
       ]
-    ], 
-    "booktitle": "3rd Workshop on Statistical and Machine Learning Approaches Applied to Architectures and Compilation (SMART'09), co-located with HiPEAC'09 conference", 
-    "keys": "http://www.hipeac.net/smart-workshop.html", 
-    "month": "January", 
-    "title": "Finding representative sets of optimizations for adaptive multiversioning applications", 
+    ],
+    "booktitle": "3rd Workshop on Statistical and Machine Learning Approaches Applied to Architectures and Compilation (SMART'09), co-located with HiPEAC'09 conference",
+    "keys": "http://www.hipeac.net/smart-workshop.html",
+    "month": "January",
+    "title": "Finding representative sets of optimizations for adaptive multiversioning applications",
     "year": "2009"
-  }, 
-  "bib_ref": "cm:29db2248aba45e59:199e2c0b9d4abcb9", 
+  },
+  "bib_ref": "cm:29db2248aba45e59:199e2c0b9d4abcb9",
   "document_urls": [
     "http://hal.archives-ouvertes.fr/docs/00/43/60/34/PDF/smart_paper.pdf"
-  ], 
-  "local_bib": "doc.bib", 
-  "local_doc": "doc.pdf", 
+  ],
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Extends [$#cm_29db2248aba45e59_5e16c10fa43f8bb4#$, $#cm_e84a25bcb528c798_b085ae81345e4452#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Funded by [$#cm_c47ad9a552aa7e82_0dd07d427c84c0f6#$, $#cm_c47ad9a552aa7e82_e09d580d14d149f4#$]"
     }
-  ], 
-  "place": "Paphos, Cyprus", 
-  "publish_iso_date": "2009-01-01", 
-  "reproducible": "yes", 
-  "title": "Finding representative sets of optimizations for adaptive multiversioning applications", 
+  ],
+  "place": "Paphos, Cyprus",
+  "publish_iso_date": "2009-01-01",
+  "reproducible": "yes",
+  "title": "Finding representative sets of optimizations for adaptive multiversioning applications",
   "type": {
-    "name": "workshop", 
-    "peer_reviewed": "yes", 
+    "name": "workshop",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "2009", 
+  },
+  "when": "2009",
   "where": "3rd Workshop on Statistical and Machine Learning Approaches Applied to Architectures and Compilation (SMART'09), co-located with HiPEAC'09 conference"
 }

@@ -1,111 +1,111 @@
 {
-  "acceptance": "acceptance rate=41$#cm_cv_percent#$ (41/100)", 
+  "acceptance": "acceptance rate=41$#cm_cv_percent#$ (41/100)",
   "authors": [
     {
       "name": "0e87696f4c2c8251"
-    }, 
+    },
     {
       "name": "a8524659a1e72739"
-    }, 
+    },
     {
       "name": "b2b5bdb50b330623"
-    }, 
+    },
     {
       "name": "372f04e6c991a4a9"
-    }, 
+    },
     {
       "name": "cc58cd93d4412b9b"
-    }, 
+    },
     {
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
       "name": "785a4f3eee3f609d"
     }
-  ], 
-  "bib": "@inproceedings{29db2248aba45e59:5d3c4fe024f79be8,\n author = {Cavazos, John and Dubach, Christophe and Agakov, Felix and Bonilla, Edwin and O'Boyle, Michael F. P. and Fursin, Grigori and Temam, Olivier},\n title = {Automatic performance model construction for the fast software exploration of new hardware designs},\n booktitle = {Proceedings of the 2006 international conference on Compilers, Architecture and Synthesis for Embedded Systems},\n series = {CASES'06},\n year = {2006},\n isbn = {1-59593-543-6},\n location = {Seoul, Korea},\n pages = {24--34},\n numpages = {11},\n url = {http://doi.acm.org/10.1145/1176760.1176765},\n doi = {10.1145/1176760.1176765},\n acmid = {1176765},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {architecture, artificial neural networks, compiler optimization, machine learning, performance modelling},\n}\n\n", 
+  ],
+  "bib": "@inproceedings{29db2248aba45e59:5d3c4fe024f79be8,\n author = {Cavazos, John and Dubach, Christophe and Agakov, Felix and Bonilla, Edwin and O'Boyle, Michael F. P. and Fursin, Grigori and Temam, Olivier},\n title = {Automatic performance model construction for the fast software exploration of new hardware designs},\n booktitle = {Proceedings of the 2006 international conference on Compilers, Architecture and Synthesis for Embedded Systems},\n series = {CASES'06},\n year = {2006},\n isbn = {1-59593-543-6},\n location = {Seoul, Korea},\n pages = {24--34},\n numpages = {11},\n url = {http://doi.acm.org/10.1145/1176760.1176765},\n doi = {10.1145/1176760.1176765},\n acmid = {1176765},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {architecture, artificial neural networks, compiler optimization, machine learning, performance modelling},\n}\n\n",
   "bib_parsed": {
-    "_code": "Cavazos2006p2434", 
-    "_type": "inproceedings", 
-    "acmid": "1176765", 
-    "address": "New York, NY, USA", 
+    "_code": "Cavazos2006p2434",
+    "_type": "inproceedings",
+    "acmid": "1176765",
+    "address": "New York, NY, USA",
     "author": [
       [
-        "", 
-        "Cavazos", 
-        "John", 
+        "",
+        "Cavazos",
+        "John",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Dubach", 
-        "Christophe", 
+        "",
+        "Dubach",
+        "Christophe",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Agakov", 
-        "Felix", 
+        "",
+        "Agakov",
+        "Felix",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Bonilla", 
-        "Edwin", 
+        "",
+        "Bonilla",
+        "Edwin",
         ""
-      ], 
+      ],
       [
-        "", 
-        "O'Boyle", 
-        "Michael F. P.", 
+        "",
+        "O'Boyle",
+        "Michael F. P.",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Fursin", 
-        "Grigori", 
+        "",
+        "Fursin",
+        "Grigori",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Temam", 
-        "Olivier", 
+        "",
+        "Temam",
+        "Olivier",
         ""
       ]
-    ], 
-    "booktitle": "Proceedings of the 2006 international conference on Compilers, Architecture and Synthesis for Embedded Systems", 
-    "doi": "10.1145/1176760.1176765", 
-    "firstpage": "24–34", 
-    "isbn": "1-59593-543-6", 
-    "keywords": "architecture, artificial neural networks, compiler optimization, machine learning, performance modelling", 
-    "lastpage": "", 
-    "location": "Seoul, Korea", 
-    "numpages": "11", 
-    "publisher": "ACM", 
-    "series": "CASES'06", 
-    "title": "Automatic performance model construction for the fast software exploration of new hardware designs", 
-    "url": "http://doi.acm.org/10.1145/1176760.1176765", 
+    ],
+    "booktitle": "Proceedings of the 2006 international conference on Compilers, Architecture and Synthesis for Embedded Systems",
+    "doi": "10.1145/1176760.1176765",
+    "firstpage": "24–34",
+    "isbn": "1-59593-543-6",
+    "keywords": "architecture, artificial neural networks, compiler optimization, machine learning, performance modelling",
+    "lastpage": "",
+    "location": "Seoul, Korea",
+    "numpages": "11",
+    "publisher": "ACM",
+    "series": "CASES'06",
+    "title": "Automatic performance model construction for the fast software exploration of new hardware designs",
+    "url": "http://doi.acm.org/10.1145/1176760.1176765",
     "year": "2006"
-  }, 
-  "bib_ref": "cm:29db2248aba45e59:5d3c4fe024f79be8", 
-  "local_bib": "doc.bib", 
-  "local_doc": "doc.pdf", 
+  },
+  "bib_ref": "cm:29db2248aba45e59:5d3c4fe024f79be8",
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
   "notes": [
     {
-      "bold": "yes", 
-      "italic": "yes", 
+      "bold": "yes",
+      "italic": "yes",
       "note": "Finalist best paper award"
     }
-  ], 
-  "pages": "24-34", 
-  "place": "Seoul, Korea", 
-  "publish_iso_date": "2006-11-01", 
-  "title": "Automatic performance model construction for the fast software exploration of new hardware designs", 
+  ],
+  "pages": "24-34",
+  "place": "Seoul, Korea",
+  "publish_iso_date": "2006-11-01",
+  "title": "Automatic performance model construction for the fast software exploration of new hardware designs",
   "type": {
-    "name": "conference", 
-    "peer_reviewed": "yes", 
+    "name": "conference",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "October 2006", 
+  },
+  "when": "October 2006",
   "where": "Proceedings of the International Conference on Compilers, Architecture and Synthesis for Embedded Systems (CASES)"
 }

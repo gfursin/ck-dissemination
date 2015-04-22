@@ -1,44 +1,44 @@
 {
   "authors": [
     {
-      "affiliation": "University of Edinburgh, UK", 
+      "affiliation": "University of Edinburgh, UK",
       "name": "a8524659a1e72739"
-    }, 
+    },
     {
-      "affiliation": "INRIA, France", 
+      "affiliation": "INRIA, France",
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "colocated": "HiPEAC 2013", 
+  ],
+  "colocated": "HiPEAC 2013",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Keynote on \"Autotuning Recursive Functions\" by Prof. Markus Pueschel (ETHZ, Switzerland) sponsored by Microsoft Research"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Introduction in [$#cm_29db2248aba45e59_c574c168b737dd92#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Sponsored by Microsoft Research, UK and Nvidia, USA"
     }
-  ], 
-  "place": "Berlin, Germany", 
-  "start_iso_date": "2013-01-22", 
-  "title": "3rd International workshop on Adaptive Self-Tuning Computing Systems (ADAPT)", 
+  ],
+  "place": "Berlin, Germany",
+  "start_iso_date": "2013-01-22",
+  "title": "3rd International workshop on Adaptive Self-Tuning Computing Systems (ADAPT)",
   "type": {
     "name": "workshop"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "http://homepages.inf.ed.ac.uk/cdubach/adapt2013"
-    }, 
+    },
     {
-      "title": "ACM DL", 
+      "title": "ACM DL",
       "url": "http://dl.acm.org/citation.cfm?id=2484904"
     }
-  ], 
+  ],
   "when": "January 2013"
 }

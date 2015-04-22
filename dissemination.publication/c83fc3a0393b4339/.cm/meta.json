@@ -1,83 +1,83 @@
 {
-  "acceptance": "acceptance rate=26$#cm_cv_percent#$ (25/95)", 
+  "acceptance": "acceptance rate=26$#cm_cv_percent#$ (25/95)",
   "authors": [
     {
       "name": "15a2f01b9308dbd0"
-    }, 
+    },
     {
       "name": "cc58cd93d4412b9b"
-    }, 
+    },
     {
       "name": "1707e0868434377a"
-    }, 
+    },
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "bib": "@inproceedings{29db2248aba45e59:c83fc3a0393b4339,\n author = {Franke, Bj\\\"{o}rn and O'Boyle, Michael and Thomson, John and Fursin, Grigori},\n title = {Probabilistic source-level optimisation of embedded programs},\n booktitle = {Proceedings of the 2005 ACM SIGPLAN/SIGBED conference on Languages, Compilers, and Tools for Embedded Systems},\n series = {LCTES'05},\n year = {2005},\n isbn = {1-59593-018-3},\n location = {Chicago, Illinois, USA},\n pages = {78--86},\n numpages = {9},\n url = {http://doi.acm.org/10.1145/1065910.1065922},\n doi = {10.1145/1065910.1065922},\n acmid = {1065922},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {adaptive compilation, digital signal processing, feedback-directed optimization, iterative compilation, source-level optimization},\n}\n\n", 
+  ],
+  "bib": "@inproceedings{29db2248aba45e59:c83fc3a0393b4339,\n author = {Franke, Bj\\\"{o}rn and O'Boyle, Michael and Thomson, John and Fursin, Grigori},\n title = {Probabilistic source-level optimisation of embedded programs},\n booktitle = {Proceedings of the 2005 ACM SIGPLAN/SIGBED conference on Languages, Compilers, and Tools for Embedded Systems},\n series = {LCTES'05},\n year = {2005},\n isbn = {1-59593-018-3},\n location = {Chicago, Illinois, USA},\n pages = {78--86},\n numpages = {9},\n url = {http://doi.acm.org/10.1145/1065910.1065922},\n doi = {10.1145/1065910.1065922},\n acmid = {1065922},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {adaptive compilation, digital signal processing, feedback-directed optimization, iterative compilation, source-level optimization},\n}\n\n",
   "bib_parsed": {
-    "_code": "Franke2005p7886", 
-    "_type": "inproceedings", 
-    "acmid": "1065922", 
-    "address": "New York, NY, USA", 
+    "_code": "Franke2005p7886",
+    "_type": "inproceedings",
+    "acmid": "1065922",
+    "address": "New York, NY, USA",
     "author": [
       [
-        "", 
-        "Franke", 
-        "Björn", 
+        "",
+        "Franke",
+        "Björn",
         ""
-      ], 
+      ],
       [
-        "", 
-        "O'Boyle", 
-        "Michael", 
+        "",
+        "O'Boyle",
+        "Michael",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Thomson", 
-        "John", 
+        "",
+        "Thomson",
+        "John",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Fursin", 
-        "Grigori", 
+        "",
+        "Fursin",
+        "Grigori",
         ""
       ]
-    ], 
-    "booktitle": "Proceedings of the 2005 ACM SIGPLAN/SIGBED conference on Languages, Compilers, and Tools for Embedded Systems", 
-    "doi": "10.1145/1065910.1065922", 
-    "firstpage": "78–86", 
-    "isbn": "1-59593-018-3", 
-    "keywords": "adaptive compilation, digital signal processing, feedback-directed optimization, iterative compilation, source-level optimization", 
-    "lastpage": "", 
-    "location": "Chicago, Illinois, USA", 
-    "numpages": "9", 
-    "publisher": "ACM", 
-    "series": "LCTES'05", 
-    "title": "Probabilistic source-level optimisation of embedded programs", 
-    "url": "http://doi.acm.org/10.1145/1065910.1065922", 
+    ],
+    "booktitle": "Proceedings of the 2005 ACM SIGPLAN/SIGBED conference on Languages, Compilers, and Tools for Embedded Systems",
+    "doi": "10.1145/1065910.1065922",
+    "firstpage": "78–86",
+    "isbn": "1-59593-018-3",
+    "keywords": "adaptive compilation, digital signal processing, feedback-directed optimization, iterative compilation, source-level optimization",
+    "lastpage": "",
+    "location": "Chicago, Illinois, USA",
+    "numpages": "9",
+    "publisher": "ACM",
+    "series": "LCTES'05",
+    "title": "Probabilistic source-level optimisation of embedded programs",
+    "url": "http://doi.acm.org/10.1145/1065910.1065922",
     "year": "2005"
-  }, 
-  "bib_ref": "cm:29db2248aba45e59:c83fc3a0393b4339", 
-  "local_bib": "doc.bib", 
-  "local_doc": "doc.pdf", 
+  },
+  "bib_ref": "cm:29db2248aba45e59:c83fc3a0393b4339",
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Introducing probabilistic approach for adaptive exploration of large optimization spaces (effectively reducing tuning dimensions)"
     }
-  ], 
-  "pages": "78-86", 
-  "place": "Chicago, IL, USA", 
-  "publish_iso_date": "2005-06-01", 
-  "title": "Probabilistic source-level optimisation of embedded programs", 
+  ],
+  "pages": "78-86",
+  "place": "Chicago, IL, USA",
+  "publish_iso_date": "2005-06-01",
+  "title": "Probabilistic source-level optimisation of embedded programs",
   "type": {
-    "name": "conference", 
-    "peer_reviewed": "yes", 
+    "name": "conference",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "June 2005", 
+  },
+  "when": "June 2005",
   "where": "Proceedings of the 2005 ACM SIGPLAN/SIGBED conference on Languages, Compilers, and Tools for Embedded Systems (LCTES)"
 }

@@ -2,87 +2,87 @@
   "authors": [
     {
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
       "name": "785a4f3eee3f609d"
     }
-  ], 
-  "bib": "@article{29db2248aba45e59:530e5f456ea259de,\n author = {Fursin, Grigori and Temam, Olivier},\n title = {Collective optimization: A practical collaborative approach},\n journal = {ACM Transactions on Architecture and Code Optimization (TACO)},\n issue_date = {December 2010},\n volume = {7},\n number = {4},\n month = dec,\n year = {2010},\n issn = {1544-3566},\n pages = {20:1--20:29},\n articleno = {20},\n numpages = {29},\n url = {http://doi.acm.org/10.1145/1880043.1880047},\n doi = {10.1145/1880043.1880047},\n acmid = {1880047},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {Collective optimization, adaptive compiler, collective optimization database, continuous optimization, function cloning, iterative compilation, multiple datasets, program characterization, program reaction to optimization, runtime adaptation, self-tuning computing systems, statistical optimization},\n}\n\n", 
+  ],
+  "bib": "@article{29db2248aba45e59:530e5f456ea259de,\n author = {Fursin, Grigori and Temam, Olivier},\n title = {Collective optimization: A practical collaborative approach},\n journal = {ACM Transactions on Architecture and Code Optimization (TACO)},\n issue_date = {December 2010},\n volume = {7},\n number = {4},\n month = dec,\n year = {2010},\n issn = {1544-3566},\n pages = {20:1--20:29},\n articleno = {20},\n numpages = {29},\n url = {http://doi.acm.org/10.1145/1880043.1880047},\n doi = {10.1145/1880043.1880047},\n acmid = {1880047},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {Collective optimization, adaptive compiler, collective optimization database, continuous optimization, function cloning, iterative compilation, multiple datasets, program characterization, program reaction to optimization, runtime adaptation, self-tuning computing systems, statistical optimization},\n}\n\n",
   "bib_parsed": {
-    "_code": "Fursin2010ATACOp2012029", 
-    "_type": "article", 
-    "acmid": "1880047", 
-    "address": "New York, NY, USA", 
-    "articleno": "20", 
+    "_code": "Fursin2010ATACOp2012029",
+    "_type": "article",
+    "acmid": "1880047",
+    "address": "New York, NY, USA",
+    "articleno": "20",
     "author": [
       [
-        "", 
-        "Fursin", 
-        "Grigori", 
+        "",
+        "Fursin",
+        "Grigori",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Temam", 
-        "Olivier", 
+        "",
+        "Temam",
+        "Olivier",
         ""
       ]
-    ], 
-    "doi": "10.1145/1880043.1880047", 
-    "firstpage": "20:1–20:29", 
-    "issn": "1544-3566", 
-    "issue_date": "December 2010", 
-    "journal": "ACM Transactions on Architecture and Code Optimization (TACO)", 
-    "journal_abbrev": "ATACO", 
-    "keywords": "Collective optimization, adaptive compiler, collective optimization database, continuous optimization, function cloning, iterative compilation, multiple datasets, program characterization, program reaction to optimization, runtime adaptation, self-tuning computing systems, statistical optimization", 
-    "lastpage": "", 
-    "month": "December", 
-    "number": "4", 
-    "numpages": "29", 
-    "publisher": "ACM", 
-    "title": "Collective optimization: A practical collaborative approach", 
-    "url": "http://doi.acm.org/10.1145/1880043.1880047", 
-    "volume": "7", 
+    ],
+    "doi": "10.1145/1880043.1880047",
+    "firstpage": "20:1–20:29",
+    "issn": "1544-3566",
+    "issue_date": "December 2010",
+    "journal": "ACM Transactions on Architecture and Code Optimization (TACO)",
+    "journal_abbrev": "ATACO",
+    "keywords": "Collective optimization, adaptive compiler, collective optimization database, continuous optimization, function cloning, iterative compilation, multiple datasets, program characterization, program reaction to optimization, runtime adaptation, self-tuning computing systems, statistical optimization",
+    "lastpage": "",
+    "month": "December",
+    "number": "4",
+    "numpages": "29",
+    "publisher": "ACM",
+    "title": "Collective optimization: A practical collaborative approach",
+    "url": "http://doi.acm.org/10.1145/1880043.1880047",
+    "volume": "7",
     "year": "2010"
-  }, 
-  "bib_ref": "cm:29db2248aba45e59:530e5f456ea259de", 
+  },
+  "bib_ref": "cm:29db2248aba45e59:530e5f456ea259de",
   "document_urls": [
     "http://dx.doi.org/10.1145/1880043.1880047"
-  ], 
-  "local_bib": "doc.bib", 
-  "local_doc": "doc.pdf", 
+  ],
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Implements concept [$#cm_e84a25bcb528c798_cbd09ece363c9f84#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Award [$#cm_5ae0ce43ceb4d73c_72d7c56eac47e48d#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Extended paper [$#cm_29db2248aba45e59_2df284a66bdf5468#$]"
-    }, 
+    },
     {
-      "bold": "yes", 
-      "italic": "yes", 
+      "bold": "yes",
+      "italic": "yes",
       "note": "All benchmarks, datasets, tools, models and experimental results have been released in cTuning public optimization repository of knowledge [$#cm_4d63887b5cda54aa_122a0cb1e6ff9fc1#$] for collaborative validation and extension!"
-    }, 
+    },
     {
-      "bold": "yes", 
-      "italic": "yes", 
+      "bold": "yes",
+      "italic": "yes",
       "note": "Continues in [$#cm_e84a25bcb528c798_94f7fafabf0baa0b#$]"
     }
-  ], 
-  "pages": "20:1-20:29", 
-  "publish_iso_date": "2010-12-01", 
-  "title": "Collective optimization: A practical collaborative approach", 
+  ],
+  "pages": "20:1-20:29",
+  "publish_iso_date": "2010-12-01",
+  "title": "Collective optimization: A practical collaborative approach",
   "type": {
-    "name": "journal", 
-    "peer_reviewed": "yes", 
+    "name": "journal",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "December 2010", 
+  },
+  "when": "December 2010",
   "where": "ACM Transactions on Architecture and Code Optimization (TACO), Volume 7, Number 4"
 }

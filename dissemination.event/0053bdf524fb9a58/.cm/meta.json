@@ -1,17 +1,17 @@
 {
   "authors": [
     {
-      "affiliation": "INRIA, France", 
+      "affiliation": "INRIA, France",
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "colocated": "HiPEAC computing systems week", 
-  "notes": [], 
-  "place": "Infineon, Munich, Germany", 
-  "start_iso_date": "2009-06-02", 
-  "title": "cTuning tools tutorial on collaborative and reproducible program and architecture characterization and auto-tuning", 
+  ],
+  "colocated": "HiPEAC computing systems week",
+  "notes": [],
+  "place": "Infineon, Munich, Germany",
+  "start_iso_date": "2009-06-02",
+  "title": "cTuning tools tutorial on collaborative and reproducible program and architecture characterization and auto-tuning",
   "type": {
     "name": "tutorial"
-  }, 
+  },
   "when": "June 2009"
 }

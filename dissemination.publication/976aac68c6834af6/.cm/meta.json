@@ -3,61 +3,61 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "bib": "@phdthesis{29db2248aba45e59:61df8131994fad97,\n\n  author =  {Grigori Fursin},\n  title =   {Iterative Compilation and Performance Prediction for Numerical Applications},\n  year =    {2004},\n  address = {United Kingdom},\n  school =  {University of Edinburgh}\n}\n\n", 
+  ],
+  "bib": "@phdthesis{29db2248aba45e59:61df8131994fad97,\n\n  author =  {Grigori Fursin},\n  title =   {Iterative Compilation and Performance Prediction for Numerical Applications},\n  year =    {2004},\n  address = {United Kingdom},\n  school =  {University of Edinburgh}\n}\n\n",
   "bib_parsed": {
-    "_code": "Fursin2004PHD", 
-    "_type": "phdthesis", 
-    "address": "United Kingdom", 
+    "_code": "Fursin2004PHD",
+    "_type": "phdthesis",
+    "address": "United Kingdom",
     "author": [
       [
-        "", 
-        "Fursin", 
-        "Grigori", 
+        "",
+        "Fursin",
+        "Grigori",
         ""
       ]
-    ], 
-    "school": "University of Edinburgh", 
-    "title": "Iterative Compilation and Performance Prediction for Numerical Applications", 
+    ],
+    "school": "University of Edinburgh",
+    "title": "Iterative Compilation and Performance Prediction for Numerical Applications",
     "year": "2004"
-  }, 
-  "bib_ref": "cm:29db2248aba45e59:976aac68c6834af6", 
+  },
+  "bib_ref": "cm:29db2248aba45e59:976aac68c6834af6",
   "document_urls": [
     "http://www.inf.ed.ac.uk/publications/thesis/online/IP040027.pdf"
-  ], 
-  "local_bib": "doc.bib", 
-  "local_doc": "doc.pdf", 
+  ],
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Based on publications [$#cm_29db2248aba45e59_91c6126884641b59#$, $#cm_29db2248aba45e59_71496986d1f8072c#$, $#cm_29db2248aba45e59_b254c18c8794ba29#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "PhD degree [$#cm_e50b2aeb0e771b47_af47af80ffcc4f40#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Concept [$#cm_e84a25bcb528c798_a514226a97bd442e#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Presented ideas are now being used and extended in Intel Exascale Lab (France) [$#cm_1de563264d7896b1_8cd7f026b644209b#$, $#cm_29db2248aba45e59_2a45819c829656cc#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Associated public software [$#cm_d76ac3bb9a3f744c_a8e290024a684917#$]"
     }
-  ], 
-  "place": "UK", 
-  "publish_iso_date": "2004-04-01", 
-  "reproducible": "yes", 
-  "title": "Iterative Compilation and Performance Prediction for Numerical Applications", 
+  ],
+  "place": "UK",
+  "publish_iso_date": "2004-04-01",
+  "reproducible": "yes",
+  "title": "Iterative Compilation and Performance Prediction for Numerical Applications",
   "type": {
-    "name": "phd_thesis", 
-    "peer_reviewed": "yes", 
+    "name": "phd_thesis",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "May 2004", 
+  },
+  "when": "May 2004",
   "where": "PhD thesis, University of Edinburgh"
 }

@@ -1,52 +1,52 @@
 {
   "authors": [
     {
-      "affiliation": "University of Pittsburgh, USA", 
+      "affiliation": "University of Pittsburgh, USA",
       "name": "79cab05c720e60c9"
-    }, 
+    },
     {
-      "affiliation": "INRIA, France", 
+      "affiliation": "INRIA, France",
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
-      "affiliation": "University of Pittsburgh, USA", 
+      "affiliation": "University of Pittsburgh, USA",
       "name": "84ca450db33325e8"
-    }, 
+    },
     {
-      "affiliation": "University of Pittsburgh, USA", 
+      "affiliation": "University of Pittsburgh, USA",
       "name": "951b4c09aa9529c0"
     }
-  ], 
-  "colocated": "HPCA 2014", 
+  ],
+  "colocated": "HPCA 2014",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Submission Deadline: January 8, 2014"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Notification of Acceptance: January 23, 2014"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Final (Camera-ready) Manuscripts Due: January 30, 2014"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Workshop Date: February 15, 2014"
     }
-  ], 
-  "place": "Orlando, Florida, USA", 
-  "start_iso_date": "2014-02-15", 
-  "title": "Workshop on Reproducible Research Methodologies (REPRODUCE)", 
+  ],
+  "place": "Orlando, Florida, USA",
+  "start_iso_date": "2014-02-15",
+  "title": "Workshop on Reproducible Research Methodologies (REPRODUCE)",
   "type": {
     "name": "workshop"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "http://www.occamportal.org/reproduce"
     }
-  ], 
+  ],
   "when": "February 2014"
 }

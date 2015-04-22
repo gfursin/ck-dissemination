@@ -3,36 +3,36 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "end_iso_date": "2011-09-01", 
+  ],
+  "end_iso_date": "2011-09-01",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Released in 2010"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Last version: 1.0 (GPL v2 license)"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Funded by [$#cm_c47ad9a552aa7e82_e09d580d14d149f4#$]"
-    }, 
+    },
     {
-      "bold": "yes", 
-      "italic": "yes", 
+      "bold": "yes",
+      "italic": "yes",
       "note": "Partially merged with Collective Mind repository [$#cm_4d63887b5cda54aa_4d4fbc8d3ae7e75c#$]"
     }
-  ], 
-  "start_iso_date": "2010-01-01", 
-  "title": "KDatasets", 
-  "to": "Multiple datasets for cBench [$#cm_d76ac3bb9a3f744c_75dd8c241a5a4a1a#$] (1000 per benchmark)", 
+  ],
+  "start_iso_date": "2010-01-01",
+  "title": "KDatasets",
+  "to": "Multiple datasets for cBench [$#cm_d76ac3bb9a3f744c_75dd8c241a5a4a1a#$] (1000 per benchmark)",
   "type": {
     "name": "datasets"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "http://kdatasets.appspot.com"
     }
   ]

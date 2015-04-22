@@ -2,236 +2,236 @@
   "authors": [
     {
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
       "name": "9ed8ac14830b7849"
-    }, 
+    },
     {
       "name": "aadbdca8d7ac43ff"
-    }, 
+    },
     {
       "name": "ac1449f95f88bd34"
-    }, 
+    },
     {
       "name": "785a4f3eee3f609d"
-    }, 
+    },
     {
       "name": "6020e15763149288"
-    }, 
+    },
     {
       "name": "7dcb8ad3d12231b3"
-    }, 
+    },
     {
       "name": "5d754afaba3be88c"
-    }, 
+    },
     {
       "name": "390d14b83b7d7cba"
-    }, 
+    },
     {
       "name": "817b443be8507751"
-    }, 
+    },
     {
       "name": "d061f7d22c1c44cc"
-    }, 
+    },
     {
       "name": "dccc84c77add5f08"
-    }, 
+    },
     {
       "name": "cbba52ad400f8466"
-    }, 
+    },
     {
       "name": "372f04e6c991a4a9"
-    }, 
+    },
     {
       "name": "1707e0868434377a"
-    }, 
+    },
     {
       "name": "e3346a34a3688395"
-    }, 
+    },
     {
       "name": "cc58cd93d4412b9b"
     }
-  ], 
-  "bib": "@article {29db2248aba45e59:a31e374796869125,\n   author = {Fursin, Grigori and Kashnikov, Yuriy and Memon, Abdul Wahid and Chamski, Zbigniew and Temam, Olivier and Namolaru, Mircea and Yom-Tov, Elad and Mendelson, Bilha and Zaks, Ayal and Courtois, Eric and Bodin, Francois and Barnard, Phil and Ashton, Elton and Bonilla, Edwin and Thomson, John and Williams, Christopher and O'Boyle, Michael F. P.},\n   affiliation = {INRIA Saclay, Parc Club Orsay Universite, 3 rue Jean Rostand, 91893 Orsay, France},\n   title = {Milepost GCC: Machine Learning Enabled Self-tuning Compiler},\n   journal = {International Journal of Parallel Programming},\n   publisher = {Springer Netherlands},\n   issn = {0885-7458},\n   keyword = {Computer Science},\n   pages = {296-327},\n   volume = {39},\n   issue = {3},\n   url = {http://dx.doi.org/10.1007/s10766-010-0161-2},\n   note = {10.1007/s10766-010-0161-2},\n   year = {2011},\n   keywords = {machine learning compiler, self-tuning compiler, adaptive compiler, automatic performance tuning, machine learning, program characterization, program features, collective optimization, continuous optimization, multi-objective optimization, empirical performance tuning, optimization repository, iterative compilation, feedback-directed compilation, adaptive compilation, optimization prediction, portable optimization}\n}\n\n", 
+  ],
+  "bib": "@article {29db2248aba45e59:a31e374796869125,\n   author = {Fursin, Grigori and Kashnikov, Yuriy and Memon, Abdul Wahid and Chamski, Zbigniew and Temam, Olivier and Namolaru, Mircea and Yom-Tov, Elad and Mendelson, Bilha and Zaks, Ayal and Courtois, Eric and Bodin, Francois and Barnard, Phil and Ashton, Elton and Bonilla, Edwin and Thomson, John and Williams, Christopher and O'Boyle, Michael F. P.},\n   affiliation = {INRIA Saclay, Parc Club Orsay Universite, 3 rue Jean Rostand, 91893 Orsay, France},\n   title = {Milepost GCC: Machine Learning Enabled Self-tuning Compiler},\n   journal = {International Journal of Parallel Programming},\n   publisher = {Springer Netherlands},\n   issn = {0885-7458},\n   keyword = {Computer Science},\n   pages = {296-327},\n   volume = {39},\n   issue = {3},\n   url = {http://dx.doi.org/10.1007/s10766-010-0161-2},\n   note = {10.1007/s10766-010-0161-2},\n   year = {2011},\n   keywords = {machine learning compiler, self-tuning compiler, adaptive compiler, automatic performance tuning, machine learning, program characterization, program features, collective optimization, continuous optimization, multi-objective optimization, empirical performance tuning, optimization repository, iterative compilation, feedback-directed compilation, adaptive compilation, optimization prediction, portable optimization}\n}\n\n",
   "bib_parsed": {
-    "_code": "Fursin2011IJPPp296", 
-    "_type": "article", 
-    "affiliation": "INRIA Saclay, Parc Club Orsay Universite, 3 rue Jean Rostand, 91893 Orsay, France", 
+    "_code": "Fursin2011IJPPp296",
+    "_type": "article",
+    "affiliation": "INRIA Saclay, Parc Club Orsay Universite, 3 rue Jean Rostand, 91893 Orsay, France",
     "author": [
       [
-        "", 
-        "Fursin", 
-        "Grigori", 
+        "",
+        "Fursin",
+        "Grigori",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Kashnikov", 
-        "Yuriy", 
+        "",
+        "Kashnikov",
+        "Yuriy",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Memon", 
-        "Abdul Wahid", 
+        "",
+        "Memon",
+        "Abdul Wahid",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Chamski", 
-        "Zbigniew", 
+        "",
+        "Chamski",
+        "Zbigniew",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Temam", 
-        "Olivier", 
+        "",
+        "Temam",
+        "Olivier",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Namolaru", 
-        "Mircea", 
+        "",
+        "Namolaru",
+        "Mircea",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Yom-Tov", 
-        "Elad", 
+        "",
+        "Yom-Tov",
+        "Elad",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Mendelson", 
-        "Bilha", 
+        "",
+        "Mendelson",
+        "Bilha",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Zaks", 
-        "Ayal", 
+        "",
+        "Zaks",
+        "Ayal",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Courtois", 
-        "Eric", 
+        "",
+        "Courtois",
+        "Eric",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Bodin", 
-        "Francois", 
+        "",
+        "Bodin",
+        "Francois",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Barnard", 
-        "Phil", 
+        "",
+        "Barnard",
+        "Phil",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Ashton", 
-        "Elton", 
+        "",
+        "Ashton",
+        "Elton",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Bonilla", 
-        "Edwin", 
+        "",
+        "Bonilla",
+        "Edwin",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Thomson", 
-        "John", 
+        "",
+        "Thomson",
+        "John",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Williams", 
-        "Christopher", 
+        "",
+        "Williams",
+        "Christopher",
         ""
-      ], 
+      ],
       [
-        "", 
-        "O'Boyle", 
-        "Michael F. P.", 
+        "",
+        "O'Boyle",
+        "Michael F. P.",
         ""
       ]
-    ], 
-    "firstpage": "296", 
-    "issn": "0885-7458", 
-    "issue": "3", 
-    "journal": "International Journal of Parallel Programming", 
-    "journal_abbrev": "IJPP", 
-    "keyword": "Computer Science", 
-    "keywords": "machine learning compiler, self-tuning compiler, adaptive compiler, automatic performance tuning, machine learning, program characterization, program features, collective optimization, continuous optimization, multi-objective optimization, empirical performance tuning, optimization repository, iterative compilation, feedback-directed compilation, adaptive compilation, optimization prediction, portable optimization", 
-    "lastpage": "327", 
-    "note": "10.1007/s10766-010-0161-2", 
-    "publisher": "Springer Netherlands", 
-    "title": "Milepost GCC: Machine Learning Enabled Self-tuning Compiler", 
-    "url": "http://dx.doi.org/10.1007/s10766-010-0161-2", 
-    "volume": "39", 
+    ],
+    "firstpage": "296",
+    "issn": "0885-7458",
+    "issue": "3",
+    "journal": "International Journal of Parallel Programming",
+    "journal_abbrev": "IJPP",
+    "keyword": "Computer Science",
+    "keywords": "machine learning compiler, self-tuning compiler, adaptive compiler, automatic performance tuning, machine learning, program characterization, program features, collective optimization, continuous optimization, multi-objective optimization, empirical performance tuning, optimization repository, iterative compilation, feedback-directed compilation, adaptive compilation, optimization prediction, portable optimization",
+    "lastpage": "327",
+    "note": "10.1007/s10766-010-0161-2",
+    "publisher": "Springer Netherlands",
+    "title": "Milepost GCC: Machine Learning Enabled Self-tuning Compiler",
+    "url": "http://dx.doi.org/10.1007/s10766-010-0161-2",
+    "volume": "39",
     "year": "2011"
-  }, 
-  "bib_ref": "cm:29db2248aba45e59:a31e374796869125", 
+  },
+  "bib_ref": "cm:29db2248aba45e59:a31e374796869125",
   "document_urls": [
     "http://dx.doi.org/10.1007/s10766-010-0161-2"
-  ], 
-  "local_bib": "doc.bib", 
-  "local_doc": "doc.pdf", 
+  ],
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Implements concept [$#cm_e84a25bcb528c798_4144fde47d68ae99#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Funded by [$#cm_c47ad9a552aa7e82_fae723f1d4b7dab1#$, $#cm_c47ad9a552aa7e82_0dd07d427c84c0f6#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Collaboration with IBM (Israel), University of Edinburgh (UK), ARC (now Synopsys, UK), CAPS Entreprise (France), and ICT (China)"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "MILEPOST GCC software [$#cm_d76ac3bb9a3f744c_38aa288519b38bf7#$]; most of technology is now available in mainline GCC and is being added to major commercial compilers"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "cTuning CC software [$#cm_d76ac3bb9a3f744c_005a61df9b4a4698#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "cTuning repository [$#cm_4d63887b5cda54aa_122a0cb1e6ff9fc1#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Award [$#cm_5ae0ce43ceb4d73c_72d7c56eac47e48d#$]"
-    }, 
+    },
     {
-      "bold": "yes", 
-      "italic": "yes", 
+      "bold": "yes",
+      "italic": "yes",
       "note": "Considered by IBM to be the first practical machine-learning based compiler in the world (IBM press-release [$#cm_29db2248aba45e59_065ef420f809ff7b#$])"
-    }, 
+    },
     {
-      "bold": "yes", 
-      "italic": "yes", 
+      "bold": "yes",
+      "italic": "yes",
       "note": "All benchmarks, datasets, tools, models and experimental results have been released to public for collaborative validation and extension!"
     }
-  ], 
-  "pages": "296-327", 
-  "place": "", 
-  "publish_iso_date": "2011-11-01", 
-  "reproducible": "yes", 
-  "title": "Milepost GCC: Machine Learning Enabled Self-tuning Compiler", 
+  ],
+  "pages": "296-327",
+  "place": "",
+  "publish_iso_date": "2011-11-01",
+  "reproducible": "yes",
+  "title": "Milepost GCC: Machine Learning Enabled Self-tuning Compiler",
   "type": {
-    "name": "journal", 
-    "peer_reviewed": "yes", 
+    "name": "journal",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "June 2011", 
+  },
+  "when": "June 2011",
   "where": "International Journal of Parallel Programming"
 }

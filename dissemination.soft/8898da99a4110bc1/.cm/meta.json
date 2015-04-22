@@ -2,43 +2,43 @@
   "authors": [
     {
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
       "name": "aadbdca8d7ac43ff"
     }
-  ], 
-  "end_iso_date": "cur.", 
-  "for": "fine-grain program feature extraction, decremental analysis, and optimization in GCC", 
+  ],
+  "end_iso_date": "cur.",
+  "for": "fine-grain program feature extraction, decremental analysis, and optimization in GCC",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Collaboration with STMicroelectronics [$#cm_86ea434e815f5059_ca7f207e943bf411#$, $#cm_c47ad9a552aa7e82_6b7444e0a5d4022a#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Pre-released in 2013"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Current version: 1.0beta (GPL v2 license)"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Technology: GCC dynamic plugin written in C"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Associated publications [$#cm_29db2248aba45e59_1943b3f46fabaee4#$, $#cm_29db2248aba45e59_f98a6602e010cfd5#$, $#cm_29db2248aba45e59_bfb3134d4c078236#$, $#cm_29db2248aba45e59_db899893d4b71ba7#$, $#cm_29db2248aba45e59_241959a66d0e6895#$, $#cm_29db2248aba45e59_54ac7ceace451a83#$]"
     }
-  ], 
-  "start_iso_date": "2011-09-01", 
-  "title": "Alchemist plugin", 
+  ],
+  "start_iso_date": "2011-09-01",
+  "title": "Alchemist plugin",
   "type": {
     "name": "software"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "http://cTuning.org/tools/cm"
     }
   ]

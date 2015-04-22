@@ -1,22 +1,22 @@
 {
-  "backup_data_uid": "739340c5eed04f36", 
-  "backup_module_uid": "58014c9c91d6d101", 
-  "backup_module_uoa": "class", 
+  "backup_data_uid": "739340c5eed04f36",
+  "backup_module_uid": "58014c9c91d6d101",
+  "backup_module_uoa": "class",
   "cm_outdated": {
     "cm_access_control": {
-      "read_groups": "all", 
+      "read_groups": "all",
       "write_groups": "owner"
-    }, 
+    },
     "powered_by": {
-      "name": "Collective Mind Engine", 
+      "name": "Collective Mind Engine",
       "version": "1.0.2015.beta"
     }
-  }, 
+  },
   "control": {
-    "author_uoa": "0728a400aa1c86fe", 
-    "engine": "CM", 
-    "iso_datetime": "2013-03-13T21:28:25.734000", 
+    "author_uoa": "0728a400aa1c86fe",
+    "engine": "CM",
+    "iso_datetime": "2013-03-13T21:28:25.734000",
     "version": []
-  }, 
+  },
   "data_name": "processor.accelerator"
 }

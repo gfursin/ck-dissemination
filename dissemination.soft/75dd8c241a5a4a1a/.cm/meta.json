@@ -3,32 +3,32 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "end_iso_date": "2010-03-01", 
+  ],
+  "end_iso_date": "2010-03-01",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Released in 2008"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Last version: 1.1 (GPL v2 license)"
-    }, 
+    },
     {
-      "bold": "yes", 
-      "italic": "yes", 
+      "bold": "yes",
+      "italic": "yes",
       "note": "Discontinued and merged with Collective Mind repository [$#cm_4d63887b5cda54aa_4d4fbc8d3ae7e75c#$]"
     }
-  ], 
-  "start_iso_date": "2006-01-05", 
-  "title": "cBench (Collective Benchmark)", 
-  "to": "unify and systematize benchmarking with multiple datasets for realistic and collaborative program and architecture auto-tuning and co-design combined with machine learning; unify training and tuning of MILEPOST GCC []; enable research on split compilation []", 
+  ],
+  "start_iso_date": "2006-01-05",
+  "title": "cBench (Collective Benchmark)",
+  "to": "unify and systematize benchmarking with multiple datasets for realistic and collaborative program and architecture auto-tuning and co-design combined with machine learning; unify training and tuning of MILEPOST GCC []; enable research on split compilation []",
   "type": {
     "name": "benchmark"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "http://ctuning.org/wiki/index.php/CTools:CBench"
     }
   ]

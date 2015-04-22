@@ -3,35 +3,35 @@
     {
       "name": "712c6205df4120b4"
     }
-  ], 
-  "bib": "@book{29db2248aba45e59:f86d6b04860957e6,\n\n", 
+  ],
+  "bib": "@book{29db2248aba45e59:f86d6b04860957e6,\n\n",
   "bib_parsed": {
-    "_code": "Fursin1985_FM", 
-    "_type": "book", 
-    "address": "Moscow, Russia", 
+    "_code": "Fursin1985_FM",
+    "_type": "book",
+    "address": "Moscow, Russia",
     "author": [
       [
-        "", 
-        "Fursin", 
-        "Grigori I", 
+        "",
+        "Fursin",
+        "Grigori I",
         ""
       ]
-    ], 
-    "numpages": "112", 
-    "publisher": "Moscow Institute of Physics and Technology", 
-    "title": "Functional microelectronics", 
+    ],
+    "numpages": "112",
+    "publisher": "Moscow Institute of Physics and Technology",
+    "title": "Functional microelectronics",
     "year": "1985"
-  }, 
-  "bib_ref": "cm:29db2248aba45e59:f86d6b04860957e6", 
-  "local_bib": "doc.bib", 
-  "place": "Moscow, Russia", 
-  "publish_iso_date": "1985-01-01", 
-  "title": "Functional microelectronics", 
+  },
+  "bib_ref": "cm:29db2248aba45e59:f86d6b04860957e6",
+  "local_bib": "doc.bib",
+  "place": "Moscow, Russia",
+  "publish_iso_date": "1985-01-01",
+  "title": "Functional microelectronics",
   "type": {
-    "name": "book", 
-    "peer_reviewed": "no", 
+    "name": "book",
+    "peer_reviewed": "no",
     "scope": "national"
-  }, 
-  "when": "1985", 
+  },
+  "when": "1985",
   "where": "Moscow Institute of Physics and Technology"
 }

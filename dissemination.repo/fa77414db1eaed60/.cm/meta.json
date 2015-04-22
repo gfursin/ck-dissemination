@@ -3,30 +3,30 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "end_iso_date": "2006-06-01", 
-  "for": "research on multi-objective program and architecture characterization, optimization and co-design with first experiments on predictive modeling", 
+  ],
+  "end_iso_date": "2006-06-01",
+  "for": "research on multi-objective program and architecture characterization, optimization and co-design with first experiments on predictive modeling",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Powered by EOS framework [$#cm_d76ac3bb9a3f744c_9f143f5b31500137#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Developed and used in the EU FP5 MHAOTEU project [$#cm_4978a2f58b214af0_90d148caafe7792c#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Funded by [$#cm_c47ad9a552aa7e82_12054470fa5ca33e#$, $#cm_5ae0ce43ceb4d73c_2d941ccdf19040d7#$]"
-    }, 
+    },
     {
-      "bold": "yes", 
-      "italic": "yes", 
+      "bold": "yes",
+      "italic": "yes",
       "note": "Discontinued for [$#cm_4d63887b5cda54aa_d93e4eb1860484b1#$]"
     }
-  ], 
-  "start_iso_date": "1999-02-02", 
-  "title": "In-house collaborative optimization repository", 
+  ],
+  "start_iso_date": "1999-02-02",
+  "title": "In-house collaborative optimization repository",
   "type": {
     "name": "private_repository"
   }

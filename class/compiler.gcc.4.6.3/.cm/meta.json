@@ -1,9 +1,9 @@
 {
-  "cm_archive": "", 
-  "cm_file_upload_name": "", 
-  "cm_file_upload_type": "", 
+  "cm_archive": "",
+  "cm_file_upload_name": "",
+  "cm_file_upload_type": "",
   "cm_files": [
     ""
-  ], 
+  ],
   "code_deps_var": "CM_CODE_DEP_GCC"
 }

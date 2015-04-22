@@ -3,39 +3,39 @@
     {
       "name": "712c6205df4120b4"
     }
-  ], 
-  "bib": "@article {29db2248aba45e59:2c2234eada2d3a27,\n   author = {Grigori I. Fursin},\n   title = {Modulation transistors - promising elements of functional devices},\n   journal = {Electronics Industry},\n   address = {USSR},\n   pages = {6-22},\n   volume = {3},\n   year = {1978}\n}\n\n", 
+  ],
+  "bib": "@article {29db2248aba45e59:2c2234eada2d3a27,\n   author = {Grigori I. Fursin},\n   title = {Modulation transistors - promising elements of functional devices},\n   journal = {Electronics Industry},\n   address = {USSR},\n   pages = {6-22},\n   volume = {3},\n   year = {1978}\n}\n\n",
   "bib_parsed": {
-    "_code": "Fursin1978EIp6", 
-    "_type": "article", 
-    "address": "USSR", 
+    "_code": "Fursin1978EIp6",
+    "_type": "article",
+    "address": "USSR",
     "author": [
       [
-        "", 
-        "Fursin", 
-        "Grigori I", 
+        "",
+        "Fursin",
+        "Grigori I",
         ""
       ]
-    ], 
-    "firstpage": "6", 
-    "journal": "Electronics Industry", 
-    "journal_abbrev": "EI", 
-    "lastpage": "22", 
-    "title": "Modulation transistors - promising elements of functional devices", 
-    "volume": "3", 
+    ],
+    "firstpage": "6",
+    "journal": "Electronics Industry",
+    "journal_abbrev": "EI",
+    "lastpage": "22",
+    "title": "Modulation transistors - promising elements of functional devices",
+    "volume": "3",
     "year": "1978"
-  }, 
-  "bib_ref": "cm:29db2248aba45e59:2c2234eada2d3a27", 
-  "local_bib": "doc.bib", 
-  "pages": "6-22", 
-  "place": "USSR", 
-  "publish_iso_date": "1978-01-01", 
-  "title": "Modulation transistors - promising elements of functional devices", 
+  },
+  "bib_ref": "cm:29db2248aba45e59:2c2234eada2d3a27",
+  "local_bib": "doc.bib",
+  "pages": "6-22",
+  "place": "USSR",
+  "publish_iso_date": "1978-01-01",
+  "title": "Modulation transistors - promising elements of functional devices",
   "type": {
-    "name": "journal", 
-    "peer_reviewed": "yes", 
+    "name": "journal",
+    "peer_reviewed": "yes",
     "scope": "national"
-  }, 
-  "when": "1978", 
+  },
+  "when": "1978",
   "where": "Electronics Industry, Volume 3"
 }

@@ -1,40 +1,40 @@
 {
   "authors": [
     {
-      "affiliation": "INRIA, France", 
+      "affiliation": "INRIA, France",
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
-      "affiliation": "University of Delaware, USA", 
+      "affiliation": "University of Delaware, USA",
       "name": "0e87696f4c2c8251"
     }
-  ], 
-  "colocated": "HiPEAC 2009", 
+  ],
+  "colocated": "HiPEAC 2009",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Associated panel [$#cm_77154d189d2e226c_efff98a4c79a9888#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Chair: Prof. David Padua (UIUC, USA)"
     }
-  ], 
-  "place": "Paphos, Cyprus", 
-  "start_iso_date": "2009-01-25", 
-  "title": "3rd International Workshop Statistical and Machine learning approaches to ARchitecture and compilaTion (SMART)", 
+  ],
+  "place": "Paphos, Cyprus",
+  "start_iso_date": "2009-01-25",
+  "title": "3rd International Workshop Statistical and Machine learning approaches to ARchitecture and compilaTion (SMART)",
   "type": {
     "name": "workshop"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "http://www.hipeac.net/smart-workshop.html"
-    }, 
+    },
     {
-      "title": "Final program", 
+      "title": "Final program",
       "url": "http://unidapt.org/index.php/Dissemination:SMART09"
     }
-  ], 
+  ],
   "when": "January 2009"
 }

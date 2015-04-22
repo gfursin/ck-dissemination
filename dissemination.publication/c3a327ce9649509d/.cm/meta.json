@@ -3,31 +3,31 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "bib_ref": "cm:29db2248aba45e59:c3a327ce9649509d", 
-  "local_bib": "doc.bib", 
+  ],
+  "bib_ref": "cm:29db2248aba45e59:c3a327ce9649509d",
+  "local_bib": "doc.bib",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Concept [$#cm_e84a25bcb528c798_a514226a97bd442e#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "MS degree [$#cm_e50b2aeb0e771b47_e24de396a1b7c9d2#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Associated public software [$#cm_d76ac3bb9a3f744c_a8e290024a684917#$]"
     }
-  ], 
-  "place": "Moscow, Russia", 
-  "publish_iso_date": "1999-06-01", 
-  "title": "Unifying remote access to high-performance computing systems (HPC) as a web service", 
+  ],
+  "place": "Moscow, Russia",
+  "publish_iso_date": "1999-06-01",
+  "title": "Unifying remote access to high-performance computing systems (HPC) as a web service",
   "type": {
-    "name": "ms_thesis", 
-    "peer_reviewed": "yes", 
+    "name": "ms_thesis",
+    "peer_reviewed": "yes",
     "scope": "national"
-  }, 
-  "when": "May 1999", 
+  },
+  "when": "May 1999",
   "where": "MS Thesis, Moscow Institute of Physics and Technology and Institute of High-Performance Computing Systems of Russian Academy of Sciences"
 }

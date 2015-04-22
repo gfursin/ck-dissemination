@@ -3,52 +3,52 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "end_iso_date": "2010-03-01", 
+  ],
+  "end_iso_date": "2010-03-01",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Software support for $#cm_cv_my3#$ technique for split compilation (to dynamic optimization and adaptation for statically compiled programs using multi-versioning and light run-time adaptation mechanisms) [$#cm_29db2248aba45e59_5e16c10fa43f8bb4#$, $#cm_29db2248aba45e59_d60d0d44ec4a042e#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Supports predictive scheduling for heterogeneous architectures [$#cm_29db2248aba45e59_3b9c0386749be8ad#$] and adaptive libraries combined with automatically built run-time decision trees [$#cm_29db2248aba45e59_199e2c0b9d4abcb9#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Funded by [$#cm_5ae0ce43ceb4d73c_2d941ccdf19040d7#$, $#cm_c47ad9a552aa7e82_0dd07d427c84c0f6#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Publications [$#cm_29db2248aba45e59_5e16c10fa43f8bb4#$, $#cm_29db2248aba45e59_3b9c0386749be8ad#$, $#cm_29db2248aba45e59_199e2c0b9d4abcb9#$, $#cm_29db2248aba45e59_63c8a602a044dba9#$, $#cm_29db2248aba45e59_d60d0d44ec4a042e#$, $#cm_29db2248aba45e59_2df284a66bdf5468#$, $#cm_29db2248aba45e59_0c44d9a2db3de3c9#$, $#cm_29db2248aba45e59_e94906b2eacf7d3f#$, $#cm_29db2248aba45e59_530e5f456ea259de#$, $#cm_29db2248aba45e59_1943b3f46fabaee4#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Finalized in mainline GCC 4.8 in 2012"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Prepared for mainline GCC during Google Summer of Code program in 2009 [$#cm_c47ad9a552aa7e82_0dd07d427c84c0f6#$]"
-    }, 
+    },
     {
-      "bold": "yes", 
-      "italic": "yes", 
+      "bold": "yes",
+      "italic": "yes",
       "note": "Redesigned and unified in [$#cm_d76ac3bb9a3f744c_b83d269b514aa588#$]"
     }
-  ], 
-  "start_iso_date": "2004-10-01", 
-  "title": "UNIDAPT - universal plugin-based program run-time adaptation framework", 
-  "to": "", 
+  ],
+  "start_iso_date": "2004-10-01",
+  "title": "UNIDAPT - universal plugin-based program run-time adaptation framework",
+  "to": "",
   "type": {
     "name": "software"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "http://sourceforge.net/projects/unidapt"
-    }, 
+    },
     {
-      "title": "GCC multi-versioning description", 
+      "title": "GCC multi-versioning description",
       "url": "http://gcc.gnu.org/wiki/FunctionMultiVersioning"
     }
   ]

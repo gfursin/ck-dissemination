@@ -1,44 +1,44 @@
 {
   "authors": [
     {
-      "affiliation": "INRIA, France", 
+      "affiliation": "INRIA, France",
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "colocated": "ACM ECRC 2013 / HiPEAC computing week 2013", 
+  ],
+  "colocated": "ACM ECRC 2013 / HiPEAC computing week 2013",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Keynote on \"OCCAM: Open Curation for Computer Architecture Modeling\" by Prof. Bruce Childers and Prof. Alex Jones (University of Pittsburgh, USA)"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Talks by Vittorio Zaccaria (Politecnico di Milano, Italy), Christophe Guillon and Christian Bertin (STMicroelectronics, France), Christoph Reichenbach (Johann-Wolfgang Goethe Universitat Frankfurt, Germany)"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Newsletter in [$#cm_29db2248aba45e59_bfb3134d4c078236#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Sponsored by HiPEAC, EU"
     }
-  ], 
-  "place": "Paris, France", 
-  "start_iso_date": "2013-05-02", 
-  "title": "Thematic session - making computer engineering a science", 
+  ],
+  "place": "Paris, France",
+  "start_iso_date": "2013-05-02",
+  "title": "Thematic session - making computer engineering a science",
   "type": {
     "name": "thematic_session"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "http://www.hipeac.net/thematic-session/making-computer-engineering-science"
-    }, 
+    },
     {
-      "title": "Backup", 
+      "title": "Backup",
       "url": "http://ctuning.org/making-computer-engineering-a-science-2013"
     }
-  ], 
+  ],
   "when": "May 2013"
 }

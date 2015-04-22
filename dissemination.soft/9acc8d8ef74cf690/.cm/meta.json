@@ -3,32 +3,32 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "end_iso_date": "2010-03-01", 
+  ],
+  "end_iso_date": "2010-03-01",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Released in 2008"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Last version: 1.1 (GPL v2 license)"
-    }, 
+    },
     {
-      "bold": "yes", 
-      "italic": "yes", 
+      "bold": "yes",
+      "italic": "yes",
       "note": "Discontinued and merged with Collective Mind repository [$#cm_4d63887b5cda54aa_4d4fbc8d3ae7e75c#$]"
     }
-  ], 
-  "start_iso_date": "2006-01-04", 
-  "title": "cDatasets (Collective Datasets)", 
-  "to": "multiple datasets for cBench [$#cm_d76ac3bb9a3f744c_75dd8c241a5a4a1a#$] (20..100 per benchmark)", 
+  ],
+  "start_iso_date": "2006-01-04",
+  "title": "cDatasets (Collective Datasets)",
+  "to": "multiple datasets for cBench [$#cm_d76ac3bb9a3f744c_75dd8c241a5a4a1a#$] (20..100 per benchmark)",
   "type": {
     "name": "datasets"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "https://sourceforge.net/projects/cbenchmark/files/cDatasets"
     }
   ]

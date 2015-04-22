@@ -1,23 +1,23 @@
 {
-  "backup_data_uid": "54da59d1ece434ea", 
-  "backup_module_uid": "77154d189d2e226c", 
-  "backup_module_uoa": "dissemination.event", 
+  "backup_data_uid": "54da59d1ece434ea",
+  "backup_module_uid": "77154d189d2e226c",
+  "backup_module_uoa": "dissemination.event",
   "cm_outdated": {
     "cm_access_control": {
-      "comments_groups": "registered", 
-      "read_groups": "all", 
+      "comments_groups": "registered",
+      "read_groups": "all",
       "write_groups": "owner"
-    }, 
+    },
     "powered_by": {
-      "name": "Collective Mind Engine", 
+      "name": "Collective Mind Engine",
       "version": "1.0.2318.beta"
     }
-  }, 
+  },
   "control": {
-    "author_uoa": "0728a400aa1c86fe", 
-    "engine": "CM", 
-    "iso_datetime": "2013-11-24T18:11:49.709000", 
+    "author_uoa": "0728a400aa1c86fe",
+    "engine": "CM",
+    "iso_datetime": "2013-11-24T18:11:49.709000",
     "version": []
-  }, 
+  },
   "data_name": "Workshop - TRUST 2014 @ PLDI 2014"
 }

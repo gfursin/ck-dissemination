@@ -1,6 +1,6 @@
 {
-  "cm_archive": "", 
-  "code_deps_var": "CM_CODE_DEP_GMP", 
-  "include_deps_var": "CM_CODE_DEP_GMP", 
+  "cm_archive": "",
+  "code_deps_var": "CM_CODE_DEP_GMP",
+  "include_deps_var": "CM_CODE_DEP_GMP",
   "lib_deps_var": "CM_CODE_DEP_GMP"
 }

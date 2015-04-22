@@ -3,35 +3,35 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "end_iso_date": "2010-03-01", 
+  ],
+  "end_iso_date": "2010-03-01",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Released in 2010"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Last version: 2.5 (GPL v2 license)"
-    }, 
+    },
     {
-      "bold": "yes", 
-      "italic": "yes", 
+      "bold": "yes",
+      "italic": "yes",
       "note": "Moved to Collective Mind Framework as a ctuning.compiler plugin [$#cm_d76ac3bb9a3f744c_bd5c924415bae775#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "IBM press-release [$#cm_29db2248aba45e59_065ef420f809ff7b#$]"
     }
-  ], 
-  "start_iso_date": "2009-01-01", 
-  "title": "cTuning CC - machine learning based self-tuning meta-optimizer for any compiler including GCC, LLVM, ICC, etc.", 
+  ],
+  "start_iso_date": "2009-01-01",
+  "title": "cTuning CC - machine learning based self-tuning meta-optimizer for any compiler including GCC, LLVM, ICC, etc.",
   "type": {
     "name": "software"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "http://cTuning.org/ctuning-cc"
     }
   ]

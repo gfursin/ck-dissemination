@@ -1,88 +1,88 @@
 {
-  "acceptance": "acceptance rate: 57$#cm_cv_percent#$ (8/14)", 
+  "acceptance": "acceptance rate: 57$#cm_cv_percent#$ (8/14)",
   "authors": [
     {
       "name": "aed869704d00bf51"
-    }, 
+    },
     {
       "name": "0ff539f838a49009"
-    }, 
+    },
     {
       "name": "3963949348f2591d"
-    }, 
+    },
     {
       "name": "9ed8ac14830b7849"
-    }, 
+    },
     {
       "name": "aa5ec70fe4482b99"
-    }, 
+    },
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "bib": "@inproceedings{29db2248aba45e59:14d2bbb4b5165005,\n\n  author =    {Yuanjie Huang and Liang Peng and Chengyong Wu and Yuriy Kashnikov and Joern Renneke and Grigori Fursin},\n  title =     {Transforming GCC into a research-friendly environment: plugins for optimization tuning and reordering, function cloning and program instrumentation},\n  booktitle = {2nd International Workshop on GCC Research Opportunities (GROW), co-located with HiPEAC'10 conference},\n  year =      {2010},\n  month =     {January},\n  keys =      {http://cTuning.org/workshop-grow10}\n}\n\n", 
+  ],
+  "bib": "@inproceedings{29db2248aba45e59:14d2bbb4b5165005,\n\n  author =    {Yuanjie Huang and Liang Peng and Chengyong Wu and Yuriy Kashnikov and Joern Renneke and Grigori Fursin},\n  title =     {Transforming GCC into a research-friendly environment: plugins for optimization tuning and reordering, function cloning and program instrumentation},\n  booktitle = {2nd International Workshop on GCC Research Opportunities (GROW), co-located with HiPEAC'10 conference},\n  year =      {2010},\n  month =     {January},\n  keys =      {http://cTuning.org/workshop-grow10}\n}\n\n",
   "bib_parsed": {
-    "_code": "Huang2010", 
-    "_type": "inproceedings", 
+    "_code": "Huang2010",
+    "_type": "inproceedings",
     "author": [
       [
-        "", 
-        "Huang", 
-        "Yuanjie", 
+        "",
+        "Huang",
+        "Yuanjie",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Peng", 
-        "Liang", 
+        "",
+        "Peng",
+        "Liang",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Wu", 
-        "Chengyong", 
+        "",
+        "Wu",
+        "Chengyong",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Kashnikov", 
-        "Yuriy", 
+        "",
+        "Kashnikov",
+        "Yuriy",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Renneke", 
-        "Joern", 
+        "",
+        "Renneke",
+        "Joern",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Fursin", 
-        "Grigori", 
+        "",
+        "Fursin",
+        "Grigori",
         ""
       ]
-    ], 
-    "booktitle": "2nd International Workshop on GCC Research Opportunities (GROW), co-located with HiPEAC'10 conference", 
-    "keys": "http://cTuning.org/workshop-grow10", 
-    "month": "January", 
-    "title": "Transforming GCC into a research-friendly environment: plugins for optimization tuning and reordering, function cloning and program instrumentation", 
+    ],
+    "booktitle": "2nd International Workshop on GCC Research Opportunities (GROW), co-located with HiPEAC'10 conference",
+    "keys": "http://cTuning.org/workshop-grow10",
+    "month": "January",
+    "title": "Transforming GCC into a research-friendly environment: plugins for optimization tuning and reordering, function cloning and program instrumentation",
     "year": "2010"
-  }, 
-  "bib_ref": "cm:29db2248aba45e59:e94906b2eacf7d3f", 
+  },
+  "bib_ref": "cm:29db2248aba45e59:e94906b2eacf7d3f",
   "document_urls": [
     "http://hal.archives-ouvertes.fr/docs/00/45/11/06/PDF/hpwp2010.pdf"
-  ], 
-  "local_bib": "doc.bib", 
-  "local_doc": "doc.pdf", 
-  "place": "Pisa, Italy", 
-  "publish_iso_date": "2010-01-01", 
-  "reproducible": "yes", 
-  "title": "Transforming GCC into a research-friendly environment: plugins for optimization tuning and reordering, function cloning and program instrumentation", 
+  ],
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
+  "place": "Pisa, Italy",
+  "publish_iso_date": "2010-01-01",
+  "reproducible": "yes",
+  "title": "Transforming GCC into a research-friendly environment: plugins for optimization tuning and reordering, function cloning and program instrumentation",
   "type": {
-    "name": "workshop", 
-    "peer_reviewed": "yes", 
+    "name": "workshop",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "January 2010", 
+  },
+  "when": "January 2010",
   "where": "2nd International Workshop on GCC Research Opportunities (GROW), co-located with HiPEAC'10 conference"
 }

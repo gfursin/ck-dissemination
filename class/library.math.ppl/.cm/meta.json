@@ -1,6 +1,6 @@
 {
-  "cm_archive": "", 
-  "code_deps_var": "CM_CODE_DEP_PPL", 
-  "include_deps_var": "CM_CODE_DEP_PPL", 
+  "cm_archive": "",
+  "code_deps_var": "CM_CODE_DEP_PPL",
+  "include_deps_var": "CM_CODE_DEP_PPL",
   "lib_deps_var": "CM_CODE_DEP_PPL"
 }

@@ -1,95 +1,95 @@
 {
-  "acceptance": "acceptance rate=50$#cm_cv_percent#$ (28/56)", 
+  "acceptance": "acceptance rate=50$#cm_cv_percent#$ (28/56)",
   "authors": [
     {
       "name": "a8524659a1e72739"
-    }, 
+    },
     {
       "name": "0e87696f4c2c8251"
-    }, 
+    },
     {
       "name": "15a2f01b9308dbd0"
-    }, 
+    },
     {
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
       "name": "cc58cd93d4412b9b"
-    }, 
+    },
     {
       "name": "785a4f3eee3f609d"
     }
-  ], 
-  "bib": "@inproceedings{29db2248aba45e59:5725dd49f40f29dc,\n author = {Dubach, Christophe and Cavazos, John and Franke, Bj\\\"{o}rn and Fursin, Grigori and O'Boyle, Michael F.P. and Temam, Olivier},\n title = {Fast compiler optimisation evaluation using code-feature based performance prediction},\n booktitle = {Proceedings of the 4th international conference on Computing Frontiers},\n series = {CF'07},\n year = {2007},\n isbn = {978-1-59593-683-7},\n location = {Ischia, Italy},\n pages = {131--142},\n numpages = {12},\n url = {http://doi.acm.org/10.1145/1242531.1242553},\n doi = {10.1145/1242531.1242553},\n acmid = {1242553},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {architecture, artificial neural networks, compiler optimisation, learning, machine, performance modelling},\n}\n\n", 
+  ],
+  "bib": "@inproceedings{29db2248aba45e59:5725dd49f40f29dc,\n author = {Dubach, Christophe and Cavazos, John and Franke, Bj\\\"{o}rn and Fursin, Grigori and O'Boyle, Michael F.P. and Temam, Olivier},\n title = {Fast compiler optimisation evaluation using code-feature based performance prediction},\n booktitle = {Proceedings of the 4th international conference on Computing Frontiers},\n series = {CF'07},\n year = {2007},\n isbn = {978-1-59593-683-7},\n location = {Ischia, Italy},\n pages = {131--142},\n numpages = {12},\n url = {http://doi.acm.org/10.1145/1242531.1242553},\n doi = {10.1145/1242531.1242553},\n acmid = {1242553},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {architecture, artificial neural networks, compiler optimisation, learning, machine, performance modelling},\n}\n\n",
   "bib_parsed": {
-    "_code": "Dubach2007p131142", 
-    "_type": "inproceedings", 
-    "acmid": "1242553", 
-    "address": "New York, NY, USA", 
+    "_code": "Dubach2007p131142",
+    "_type": "inproceedings",
+    "acmid": "1242553",
+    "address": "New York, NY, USA",
     "author": [
       [
-        "", 
-        "Dubach", 
-        "Christophe", 
+        "",
+        "Dubach",
+        "Christophe",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Cavazos", 
-        "John", 
+        "",
+        "Cavazos",
+        "John",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Franke", 
-        "Björn", 
+        "",
+        "Franke",
+        "Björn",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Fursin", 
-        "Grigori", 
+        "",
+        "Fursin",
+        "Grigori",
         ""
-      ], 
+      ],
       [
-        "", 
-        "O'Boyle", 
-        "Michael F.P.", 
+        "",
+        "O'Boyle",
+        "Michael F.P.",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Temam", 
-        "Olivier", 
+        "",
+        "Temam",
+        "Olivier",
         ""
       ]
-    ], 
-    "booktitle": "Proceedings of the 4th international conference on Computing Frontiers", 
-    "doi": "10.1145/1242531.1242553", 
-    "firstpage": "131–142", 
-    "isbn": "978-1-59593-683-7", 
-    "keywords": "architecture, artificial neural networks, compiler optimisation, learning, machine, performance modelling", 
-    "lastpage": "", 
-    "location": "Ischia, Italy", 
-    "numpages": "12", 
-    "publisher": "ACM", 
-    "series": "CF'07", 
-    "title": "Fast compiler optimisation evaluation using code-feature based performance prediction", 
-    "url": "http://doi.acm.org/10.1145/1242531.1242553", 
+    ],
+    "booktitle": "Proceedings of the 4th international conference on Computing Frontiers",
+    "doi": "10.1145/1242531.1242553",
+    "firstpage": "131–142",
+    "isbn": "978-1-59593-683-7",
+    "keywords": "architecture, artificial neural networks, compiler optimisation, learning, machine, performance modelling",
+    "lastpage": "",
+    "location": "Ischia, Italy",
+    "numpages": "12",
+    "publisher": "ACM",
+    "series": "CF'07",
+    "title": "Fast compiler optimisation evaluation using code-feature based performance prediction",
+    "url": "http://doi.acm.org/10.1145/1242531.1242553",
     "year": "2007"
-  }, 
-  "bib_ref": "cm:29db2248aba45e59:5725dd49f40f29dc", 
-  "local_bib": "doc.bib", 
-  "local_doc": "doc.pdf", 
-  "pages": "131-142", 
-  "place": "Ischia, Italy", 
-  "publish_iso_date": "2007-05-01", 
-  "title": "Fast compiler optimisation evaluation using code-feature based performance prediction", 
+  },
+  "bib_ref": "cm:29db2248aba45e59:5725dd49f40f29dc",
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
+  "pages": "131-142",
+  "place": "Ischia, Italy",
+  "publish_iso_date": "2007-05-01",
+  "title": "Fast compiler optimisation evaluation using code-feature based performance prediction",
   "type": {
-    "name": "conference", 
-    "peer_reviewed": "yes", 
+    "name": "conference",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "May 2007", 
+  },
+  "when": "May 2007",
   "where": "Proceedings of the 4th international conference on Computing Frontiers"
 }

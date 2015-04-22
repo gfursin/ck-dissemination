@@ -2,38 +2,38 @@
   "authors": [
     {
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
       "name": "cc58cd93d4412b9b"
-    }, 
+    },
     {
       "name": "785a4f3eee3f609d"
-    }, 
+    },
     {
       "name": "c0b343f7a51cacdb"
     }
-  ], 
-  "bib_ref": "cm:29db2248aba45e59:48d8a274c1c9dea9", 
-  "local_bib": "doc.bib", 
+  ],
+  "bib_ref": "cm:29db2248aba45e59:48d8a274c1c9dea9",
+  "local_bib": "doc.bib",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Part of EU FP5 MHAOTEU project [$#cm_4978a2f58b214af0_90d148caafe7792c#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Associated public software [$#cm_d76ac3bb9a3f744c_9f143f5b31500137#$]"
     }
-  ], 
-  "place": "", 
-  "publish_iso_date": "2001-05-01", 
-  "reproducible": "yes", 
-  "title": "A Fast and Accurate Evaluation of Memory Performance Upper-Bound", 
+  ],
+  "place": "",
+  "publish_iso_date": "2001-05-01",
+  "reproducible": "yes",
+  "title": "A Fast and Accurate Evaluation of Memory Performance Upper-Bound",
   "type": {
-    "name": "tech_report", 
-    "peer_reviewed": "no", 
+    "name": "tech_report",
+    "peer_reviewed": "no",
     "scope": "international"
-  }, 
-  "when": "2001", 
+  },
+  "when": "2001",
   "where": "ESPRIT project No 24942 technical report"
 }

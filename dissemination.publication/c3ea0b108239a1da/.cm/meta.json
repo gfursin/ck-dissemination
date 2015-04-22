@@ -2,50 +2,50 @@
   "authors": [
     {
       "name": "5e5b4ca6d1475483"
-    }, 
+    },
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "bib": "@article{29db2248aba45e59:7b771322904c4ad5,\n\n  author =    {S. Long and G. Fursin},\n  title =     {Systematic search within an optimisation space based on Unified Transformation Framework},\n  journal =   {International Journal of Computational Science and Engineering (IJCSE)},\n  volume =    {4},\n  number =    {2},\n  pages =     {102-111},\n  notes =     {(submitted in 2005)}\n}\n\n", 
+  ],
+  "bib": "@article{29db2248aba45e59:7b771322904c4ad5,\n\n  author =    {S. Long and G. Fursin},\n  title =     {Systematic search within an optimisation space based on Unified Transformation Framework},\n  journal =   {International Journal of Computational Science and Engineering (IJCSE)},\n  volume =    {4},\n  number =    {2},\n  pages =     {102-111},\n  notes =     {(submitted in 2005)}\n}\n\n",
   "bib_parsed": {
-    "_code": "LongIJCSEp102", 
-    "_type": "article", 
+    "_code": "LongIJCSEp102",
+    "_type": "article",
     "author": [
       [
-        "", 
-        "Long", 
-        "S", 
+        "",
+        "Long",
+        "S",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Fursin", 
-        "G", 
+        "",
+        "Fursin",
+        "G",
         ""
       ]
-    ], 
-    "firstpage": "102", 
-    "journal": "International Journal of Computational Science and Engineering (IJCSE)", 
-    "journal_abbrev": "IJCSE", 
-    "lastpage": "111", 
-    "notes": "(submitted in 2005)", 
-    "number": "2", 
-    "title": "Systematic search within an optimisation space based on Unified Transformation Framework", 
+    ],
+    "firstpage": "102",
+    "journal": "International Journal of Computational Science and Engineering (IJCSE)",
+    "journal_abbrev": "IJCSE",
+    "lastpage": "111",
+    "notes": "(submitted in 2005)",
+    "number": "2",
+    "title": "Systematic search within an optimisation space based on Unified Transformation Framework",
     "volume": "4"
-  }, 
-  "bib_ref": "cm:29db2248aba45e59:c3ea0b108239a1da", 
-  "local_bib": "doc.bib", 
-  "local_doc": "doc.pdf", 
-  "pages": "102-111", 
-  "place": "", 
-  "publish_iso_date": "2009-01-01", 
-  "title": "Systematic search within an optimisation space based on Unified Transformation Framework", 
+  },
+  "bib_ref": "cm:29db2248aba45e59:c3ea0b108239a1da",
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
+  "pages": "102-111",
+  "place": "",
+  "publish_iso_date": "2009-01-01",
+  "title": "Systematic search within an optimisation space based on Unified Transformation Framework",
   "type": {
-    "name": "journal", 
-    "peer_reviewed": "yes", 
+    "name": "journal",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "July 2009", 
+  },
+  "when": "July 2009",
   "where": "International Journal of Computational Science and Engineering (IJCSE), Volume 4, Number 2"
 }

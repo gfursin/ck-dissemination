@@ -3,18 +3,18 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "bib_ref": "cm:29db2248aba45e59:4b4079a332016220", 
-  "local_bib": "doc.bib", 
-  "local_doc": "doc.eps", 
-  "place": "University of Edinburgh, UK", 
-  "publish_iso_date": "2003-05-15", 
-  "title": "Poster: Iterative Compilation and Performance Prediction", 
+  ],
+  "bib_ref": "cm:29db2248aba45e59:4b4079a332016220",
+  "local_bib": "doc.bib",
+  "local_doc": "doc.eps",
+  "place": "University of Edinburgh, UK",
+  "publish_iso_date": "2003-05-15",
+  "title": "Poster: Iterative Compilation and Performance Prediction",
   "type": {
-    "name": "poster", 
-    "peer_reviewed": "no", 
+    "name": "poster",
+    "peer_reviewed": "no",
     "scope": "international"
-  }, 
-  "when": "2003", 
+  },
+  "when": "2003",
   "where": "Division of Informatics"
 }

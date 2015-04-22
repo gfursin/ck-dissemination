@@ -3,54 +3,54 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "end_iso_date": "2006-06-01", 
+  ],
+  "end_iso_date": "2006-06-01",
   "local_docs": [
     {
-      "file": "mh_txform_1.15i_sparc.gz", 
+      "file": "mh_txform_1.15i_sparc.gz",
       "title": "Source-to-source transformation server V1.15i for SPARC (~3.9Mb)"
-    }, 
+    },
     {
-      "file": "mh_txform_1.15i_x86.gz", 
+      "file": "mh_txform_1.15i_x86.gz",
       "title": "Source-to-source transformation server V1.15i for x86 (~1.2Mb)"
-    }, 
+    },
     {
-      "file": "eos_iters.jpg", 
+      "file": "eos_iters.jpg",
       "title": "EOS hill-climbing auto-tuning example (padding, tiling, unrolling) (jpg)"
     }
-  ], 
+  ],
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "First released in 2001"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Developed during EU FP5 MHAOTEU project [$#cm_c47ad9a552aa7e82_0dd07d427c84c0f6#$] and PhD studies [$#cm_e50b2aeb0e771b47_af47af80ffcc4f40#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Last version: V1.15i (GPL v2 license)"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Used in first experiments to predict complex optimizations (not just 1 transformation) using machine learning and program semantic and dynamic features (hardware counters)"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Discontinued for compilers with Interactive Compilation Interface or OpenME [$#cm_d76ac3bb9a3f744c_30489f4f8a9c7b1d#$, $#cm_d76ac3bb9a3f744c_e86cc5214c0a90df#$, $#cm_d76ac3bb9a3f744c_b83d269b514aa588#$]"
     }
-  ], 
-  "start_iso_date": "1999-02-02", 
-  "title": "Source-to-source polyhedral transformation server", 
+  ],
+  "start_iso_date": "1999-02-02",
+  "title": "Source-to-source polyhedral transformation server",
   "type": {
     "name": "software"
-  }, 
+  },
   "urls": [
     {
-      "title": "Description", 
+      "title": "Description",
       "url": "http://fursin.net/wiki/index.php5?title=Research:Developments:EOS"
     }
-  ], 
+  ],
   "why": " - source-to-source C and Fortran polyhedral transformation server based on MARS compiler"
 }

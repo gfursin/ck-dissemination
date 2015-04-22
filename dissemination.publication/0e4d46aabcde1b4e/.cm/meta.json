@@ -1,31 +1,31 @@
 {
-  "authors": [], 
-  "authors_plain": "Cedric Nugteren, Gert-Jan van den Braak, Henk Corporaal", 
-  "bib": "", 
-  "bib_parsed": {}, 
-  "cm_classes_uoa": [], 
+  "authors": [],
+  "authors_plain": "Cedric Nugteren, Gert-Jan van den Braak, Henk Corporaal",
+  "bib": "",
+  "bib_parsed": {},
+  "cm_classes_uoa": [],
   "cm_dependencies": {
     "classes": []
-  }, 
-  "cm_dissemination": {}, 
-  "cm_properties": {}, 
-  "document_urls": [], 
-  "language": "", 
-  "local_doc": "doc.pdf", 
-  "organization_plain": "Eindhoven University of Technology, Netherlands", 
-  "place": "Vienna, Austria", 
-  "publish_iso_date": "2014-01-22", 
-  "reproducible": "yes", 
+  },
+  "cm_dissemination": {},
+  "cm_properties": {},
+  "document_urls": [],
+  "language": "",
+  "local_doc": "doc.pdf",
+  "organization_plain": "Eindhoven University of Technology, Netherlands",
+  "place": "Vienna, Austria",
+  "publish_iso_date": "2014-01-22",
+  "reproducible": "yes",
   "shared_artifacts": [
     "26177154df5a20ef"
-  ], 
-  "title": "Roofline-aware DVFS for GPUs", 
-  "title_orig": "", 
+  ],
+  "title": "Roofline-aware DVFS for GPUs",
+  "title_orig": "",
   "type": {
-    "name": "workshop", 
-    "peer_reviewed": "yes", 
+    "name": "workshop",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "January 2014", 
+  },
+  "when": "January 2014",
   "where": "4th International Workshop on Adaptive Self-tuning Computing Systems (ADAPT'14) co-located with HiPEAC'14"
 }

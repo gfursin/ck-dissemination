@@ -1,15 +1,15 @@
 {
-  "authors": [], 
-  "authors_plain": "Cedric Nugteren, Gert-Jan van den Braak, Henk Corporaal", 
-  "cm_classes_uoa": [], 
+  "authors": [],
+  "authors_plain": "Cedric Nugteren, Gert-Jan van den Braak, Henk Corporaal",
+  "cm_classes_uoa": [],
   "cm_dependencies": {
     "classes": []
-  }, 
-  "cm_dissemination": {}, 
-  "cm_properties": {}, 
-  "document_urls": [], 
-  "local_doc": "shared_material.zip", 
-  "organization_plain": "Eindhoven University of Technology, Netherlands", 
+  },
+  "cm_dissemination": {},
+  "cm_properties": {},
+  "document_urls": [],
+  "local_doc": "shared_material.zip",
+  "organization_plain": "Eindhoven University of Technology, Netherlands",
   "related_publications": [
     "0e4d46aabcde1b4e"
   ]

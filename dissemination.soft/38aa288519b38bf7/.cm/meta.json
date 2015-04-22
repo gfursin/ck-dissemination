@@ -3,56 +3,56 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "end_iso_date": "2009-06-30", 
+  ],
+  "end_iso_date": "2009-06-30",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Released in 2009"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Last version: 2.5 (GPL v2 license)"
-    }, 
+    },
     {
-      "bold": "yes", 
-      "italic": "yes", 
+      "bold": "yes",
+      "italic": "yes",
       "note": "Merged with cTuning CC [$#cm_d76ac3bb9a3f744c_005a61df9b4a4698#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Funded by [$#cm_c47ad9a552aa7e82_fae723f1d4b7dab1#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Collaboration with IBM (Israel), University of Edinburgh (UK), ARC (now Synopsys, UK), CAPS Entreprise (France), and ICT (China)"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Developed within EU FP6 MILEPOST project [$#cm_4978a2f58b214af0_eafac77e4406a4b5#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "More info about this activity [$#cm_1de563264d7896b1_bb9d437ac70bd23a#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Associated live repository and online advice service [$#cm_4d63887b5cda54aa_122a0cb1e6ff9fc1#$]"
-    }, 
+    },
     {
-      "bold": "yes", 
-      "italic": "yes", 
+      "bold": "yes",
+      "italic": "yes",
       "note": "Considered by IBM to be the first practical machine-learning based compiler in the world (IBM press-release [$#cm_29db2248aba45e59_065ef420f809ff7b#$])"
     }
-  ], 
-  "start_iso_date": "2006-07-01", 
-  "title": "MILEPOST GCC - machine learning based self-tuning compiler", 
+  ],
+  "start_iso_date": "2006-07-01",
+  "title": "MILEPOST GCC - machine learning based self-tuning compiler",
   "type": {
     "name": "software"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "http://cTuning.org/milepost-gcc"
     }
   ]

@@ -1,56 +1,56 @@
 {
   "authors": [
     {
-      "affiliation": "Intel/CEA Exascale Lab, France", 
+      "affiliation": "Intel/CEA Exascale Lab, France",
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
-      "affiliation": "University of Virginia, USA", 
+      "affiliation": "University of Virginia, USA",
       "name": "4f66018a4b4423a6"
-    }, 
+    },
     {
-      "affiliation": "Intel/CEA Exascale Lab, France", 
+      "affiliation": "Intel/CEA Exascale Lab, France",
       "name": "9ed8ac14830b7849"
-    }, 
+    },
     {
-      "affiliation": "Google, USA", 
+      "affiliation": "Google, USA",
       "name": "63f10a6934be7b65"
     }
-  ], 
-  "colocated": "ASPLOS 2012", 
+  ],
+  "colocated": "ASPLOS 2012",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Keynote on \"Self-Tuning Bio-Inspired Massively-Parallel Computing\" by Prof. Steve Furber (Manchester University, UK)"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Introduction in [$#cm_29db2248aba45e59_72986f50f464ba31#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Associated panel [$#cm_77154d189d2e226c_f7f7ff5c64c13965#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Sponsored by Google, USA"
     }
-  ], 
-  "place": "London, UK", 
-  "start_iso_date": "2012-03-03", 
-  "title": "2nd International Workshop on Adaptive Self-Tuning Computing Systems for the Exaflop Era (EXADAPT)", 
+  ],
+  "place": "London, UK",
+  "start_iso_date": "2012-03-03",
+  "title": "2nd International Workshop on Adaptive Self-Tuning Computing Systems for the Exaflop Era (EXADAPT)",
   "type": {
     "name": "workshop"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "http://exadapt.org/2012/index.html"
-    }, 
+    },
     {
-      "title": "ACM DL", 
+      "title": "ACM DL",
       "url": "http://dl.acm.org/citation.cfm?id=2185475"
     }
-  ], 
+  ],
   "when": "March 2012"
 }

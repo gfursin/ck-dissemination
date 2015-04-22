@@ -3,39 +3,39 @@
     {
       "name": "712c6205df4120b4"
     }
-  ], 
-  "bib": "@article {29db2248aba45e59:fc31140b1859ba6b,\n   author = {Grigori I. Fursin},\n   title = {Functional integrated circuits with an injection power and an active link on bipolar devices},\n   journal = {Microelectronics},\n   publisher = {Academy of Sciences of USSR},\n   pages = {108-126},\n   volume = {6},\n   issue = {2},\n   year = {1977}\n}\n\n", 
+  ],
+  "bib": "@article {29db2248aba45e59:fc31140b1859ba6b,\n   author = {Grigori I. Fursin},\n   title = {Functional integrated circuits with an injection power and an active link on bipolar devices},\n   journal = {Microelectronics},\n   publisher = {Academy of Sciences of USSR},\n   pages = {108-126},\n   volume = {6},\n   issue = {2},\n   year = {1977}\n}\n\n",
   "bib_parsed": {
-    "_code": "Fursin1977Mp108", 
-    "_type": "article", 
+    "_code": "Fursin1977Mp108",
+    "_type": "article",
     "author": [
       [
-        "", 
-        "Fursin", 
-        "Grigori I", 
+        "",
+        "Fursin",
+        "Grigori I",
         ""
       ]
-    ], 
-    "firstpage": "108", 
-    "issue": "2", 
-    "journal": "Microelectronics", 
-    "journal_abbrev": "M", 
-    "lastpage": "126", 
-    "publisher": "Academy of Sciences of USSR", 
-    "title": "Functional integrated circuits with an injection power and an active link on bipolar devices", 
-    "volume": "6", 
+    ],
+    "firstpage": "108",
+    "issue": "2",
+    "journal": "Microelectronics",
+    "journal_abbrev": "M",
+    "lastpage": "126",
+    "publisher": "Academy of Sciences of USSR",
+    "title": "Functional integrated circuits with an injection power and an active link on bipolar devices",
+    "volume": "6",
     "year": "1977"
-  }, 
-  "bib_ref": "cm:29db2248aba45e59:fc31140b1859ba6b", 
-  "local_bib": "doc.bib", 
-  "place": "USSR", 
-  "publish_iso_date": "1977-01-01", 
-  "title": "Functional integrated circuits with an injection power and an active link on bipolar devices", 
+  },
+  "bib_ref": "cm:29db2248aba45e59:fc31140b1859ba6b",
+  "local_bib": "doc.bib",
+  "place": "USSR",
+  "publish_iso_date": "1977-01-01",
+  "title": "Functional integrated circuits with an injection power and an active link on bipolar devices",
   "type": {
-    "name": "journal", 
-    "peer_reviewed": "yes", 
+    "name": "journal",
+    "peer_reviewed": "yes",
     "scope": "national"
-  }, 
-  "when": "1977", 
+  },
+  "when": "1977",
   "where": "Microelectronics, Volume 6, Issue 2"
 }

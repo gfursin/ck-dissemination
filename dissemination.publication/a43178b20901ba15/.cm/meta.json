@@ -2,192 +2,192 @@
   "authors": [
     {
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
       "name": "de445ffdc94d43c2"
-    }, 
+    },
     {
       "name": "785a4f3eee3f609d"
-    }, 
+    },
     {
       "name": "6020e15763149288"
-    }, 
+    },
     {
       "name": "7dcb8ad3d12231b3"
-    }, 
+    },
     {
       "name": "390d14b83b7d7cba"
-    }, 
+    },
     {
       "name": "5d754afaba3be88c"
-    }, 
+    },
     {
       "name": "dccc84c77add5f08"
-    }, 
+    },
     {
       "name": "cbba52ad400f8466"
-    }, 
+    },
     {
       "name": "817b443be8507751"
-    }, 
+    },
     {
       "name": "d061f7d22c1c44cc"
-    }, 
+    },
     {
       "name": "372f04e6c991a4a9"
-    }, 
+    },
     {
       "name": "1707e0868434377a"
-    }, 
+    },
     {
       "name": "1ae45caac9f52386"
-    }, 
+    },
     {
       "name": "270d44280c42bd92"
-    }, 
+    },
     {
       "name": "cc58cd93d4412b9b"
     }
-  ], 
-  "bib": "@inproceedings{29db2248aba45e59:3b92bf0a5509afac,\n\n  author =    {Grigori Fursin and Cupertino Miranda and Olivier Temam and Mircea Namolaru and Elad Yom-Tov and Ayal Zaks and Bilha Mendelson and Phil Barnard and Elton Ashton and Eric Courtois and Francois Bodin and Edwin Bonilla and John Thomson and Hugh Leather and Chris Williams and Michael O'Boyle},\n  title =     {MILEPOST GCC: machine learning based research compiler},\n  booktitle = {Proceedings of the GCC Developers' Summit},\n  year =      {2008},\n  month =     {June},\n  location =  {Ottawa, Canada},\n  keys =      {http://www.gccsummit.org/2008}\n}\n\n", 
+  ],
+  "bib": "@inproceedings{29db2248aba45e59:3b92bf0a5509afac,\n\n  author =    {Grigori Fursin and Cupertino Miranda and Olivier Temam and Mircea Namolaru and Elad Yom-Tov and Ayal Zaks and Bilha Mendelson and Phil Barnard and Elton Ashton and Eric Courtois and Francois Bodin and Edwin Bonilla and John Thomson and Hugh Leather and Chris Williams and Michael O'Boyle},\n  title =     {MILEPOST GCC: machine learning based research compiler},\n  booktitle = {Proceedings of the GCC Developers' Summit},\n  year =      {2008},\n  month =     {June},\n  location =  {Ottawa, Canada},\n  keys =      {http://www.gccsummit.org/2008}\n}\n\n",
   "bib_parsed": {
-    "_code": "Fursin2008", 
-    "_type": "inproceedings", 
+    "_code": "Fursin2008",
+    "_type": "inproceedings",
     "author": [
       [
-        "", 
-        "Fursin", 
-        "Grigori", 
+        "",
+        "Fursin",
+        "Grigori",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Miranda", 
-        "Cupertino", 
+        "",
+        "Miranda",
+        "Cupertino",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Temam", 
-        "Olivier", 
+        "",
+        "Temam",
+        "Olivier",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Namolaru", 
-        "Mircea", 
+        "",
+        "Namolaru",
+        "Mircea",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Yom-Tov", 
-        "Elad", 
+        "",
+        "Yom-Tov",
+        "Elad",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Zaks", 
-        "Ayal", 
+        "",
+        "Zaks",
+        "Ayal",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Mendelson", 
-        "Bilha", 
+        "",
+        "Mendelson",
+        "Bilha",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Barnard", 
-        "Phil", 
+        "",
+        "Barnard",
+        "Phil",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Ashton", 
-        "Elton", 
+        "",
+        "Ashton",
+        "Elton",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Courtois", 
-        "Eric", 
+        "",
+        "Courtois",
+        "Eric",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Bodin", 
-        "Francois", 
+        "",
+        "Bodin",
+        "Francois",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Bonilla", 
-        "Edwin", 
+        "",
+        "Bonilla",
+        "Edwin",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Thomson", 
-        "John", 
+        "",
+        "Thomson",
+        "John",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Leather", 
-        "Hugh", 
+        "",
+        "Leather",
+        "Hugh",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Williams", 
-        "Chris", 
+        "",
+        "Williams",
+        "Chris",
         ""
-      ], 
+      ],
       [
-        "", 
-        "O'Boyle", 
-        "Michael", 
+        "",
+        "O'Boyle",
+        "Michael",
         ""
       ]
-    ], 
-    "booktitle": "Proceedings of the GCC Developers' Summit", 
-    "keys": "http://www.gccsummit.org/2008", 
-    "location": "Ottawa, Canada", 
-    "month": "June", 
-    "title": "MILEPOST GCC: machine learning based research compiler", 
+    ],
+    "booktitle": "Proceedings of the GCC Developers' Summit",
+    "keys": "http://www.gccsummit.org/2008",
+    "location": "Ottawa, Canada",
+    "month": "June",
+    "title": "MILEPOST GCC: machine learning based research compiler",
     "year": "2008"
-  }, 
-  "bib_ref": "cm:29db2248aba45e59:a43178b20901ba15", 
+  },
+  "bib_ref": "cm:29db2248aba45e59:a43178b20901ba15",
   "document_urls": [
     "http://hal.inria.fr/docs/00/29/47/04/PDF/fmtp2008.pdf"
-  ], 
-  "local_bib": "doc.bib", 
-  "local_doc": "doc.pdf", 
+  ],
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Implements concept [$#cm_e84a25bcb528c798_4144fde47d68ae99#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Funded by EU MILEPOST project [$#cm_4978a2f58b214af0_eafac77e4406a4b5#$, $#cm_c47ad9a552aa7e82_fae723f1d4b7dab1#$]"
-    }, 
+    },
     {
-      "bold": "yes", 
-      "italic": "yes", 
+      "bold": "yes",
+      "italic": "yes",
       "note": "Considerably extended in journal version [$#cm_29db2248aba45e59_a31e374796869125#$]"
     }
-  ], 
-  "place": "Ottawa, Canada", 
-  "publish_iso_date": "2008-07-01", 
-  "reproducible": "yes", 
-  "title": "MILEPOST GCC: machine learning based research compiler", 
+  ],
+  "place": "Ottawa, Canada",
+  "publish_iso_date": "2008-07-01",
+  "reproducible": "yes",
+  "title": "MILEPOST GCC: machine learning based research compiler",
   "type": {
-    "name": "workshop", 
-    "peer_reviewed": "yes", 
+    "name": "workshop",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "June 2008", 
+  },
+  "when": "June 2008",
   "where": "Proceedings of the GCC Developers' Summit"
 }

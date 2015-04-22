@@ -1,32 +1,32 @@
 {
   "authors": [
     {
-      "affiliation": "INRIA, France", 
+      "affiliation": "INRIA, France",
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "colocated": "EXADAPT 2012", 
+  ],
+  "colocated": "EXADAPT 2012",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Participants: Steve Furber (University of Manchester, UK), Anton Lokhmotov (ARM, UK), Paul Kelly (Imperial College London, UK)"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Associated workshop [$#cm_77154d189d2e226c_4901b4b58c4b039c#$]"
     }
-  ], 
-  "place": "London, UK", 
-  "start_iso_date": "2012-03-02", 
-  "title": "Panel - Joint EXADAPT 2012 / GPGPU 2012 round table on \"Leveraging GPUs and Self-Tuning Systems on the Road to Exascale\"", 
+  ],
+  "place": "London, UK",
+  "start_iso_date": "2012-03-02",
+  "title": "Panel - Joint EXADAPT 2012 / GPGPU 2012 round table on \"Leveraging GPUs and Self-Tuning Systems on the Road to Exascale\"",
   "type": {
     "name": "panel"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "http://exadapt.org/2012/joint_exadapt_gpgpu_round_table.html"
     }
-  ], 
+  ],
   "when": "March 2012"
 }

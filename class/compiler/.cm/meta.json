@@ -1,5 +1,5 @@
 {
-  "build_code_deps_var": "CM_CODE_DEP_COMPILER", 
-  "cm_archive": "", 
+  "build_code_deps_var": "CM_CODE_DEP_COMPILER",
+  "cm_archive": "",
   "code_deps_var": "CM_CODE_DEP_COMPILER"
 }

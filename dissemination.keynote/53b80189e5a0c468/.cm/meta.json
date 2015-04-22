@@ -3,28 +3,28 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "end_iso_date": "", 
-  "funded": "", 
+  ],
+  "end_iso_date": "",
+  "funded": "",
   "local_docs": [
     {
-      "file": "presentation_fursin.pdf", 
+      "file": "presentation_fursin.pdf",
       "title": "View presentation"
     }
-  ], 
-  "notes": [], 
-  "start_iso_date": "2013-06-01", 
-  "title": "Keynote at iWAPT 2013 / ICCS 2013", 
+  ],
+  "notes": [],
+  "start_iso_date": "2013-06-01",
+  "title": "Keynote at iWAPT 2013 / ICCS 2013",
   "type": {
     "name": "keynote"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "http://iwapt.org/2013"
     }
-  ], 
-  "where": "Barcelona, Spain", 
-  "where_prefix": "in", 
+  ],
+  "where": "Barcelona, Spain",
+  "where_prefix": "in",
   "why": "(\"Crowdsourcing auto-tuning: challenges and possible solutions\")"
 }

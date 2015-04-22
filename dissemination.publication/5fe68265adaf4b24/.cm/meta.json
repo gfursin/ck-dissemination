@@ -3,46 +3,46 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "bib": "@inproceedings{29db2248aba45e59:f6b2ef4dca34bb4b,\n\n  author =    {Grigori Fursin},\n  title =     {Modeling of processes of learning and recognition in modified neural network},\n  booktitle = {Proceedings of the national conference on physical processes in devices of electronic and laser engineering at Moscow Institute of Physics and Technology},\n  pages =     {102-111},\n  location = {Moscow, Russia},\n  year =      {1997}\n}\n\n", 
+  ],
+  "bib": "@inproceedings{29db2248aba45e59:f6b2ef4dca34bb4b,\n\n  author =    {Grigori Fursin},\n  title =     {Modeling of processes of learning and recognition in modified neural network},\n  booktitle = {Proceedings of the national conference on physical processes in devices of electronic and laser engineering at Moscow Institute of Physics and Technology},\n  pages =     {102-111},\n  location = {Moscow, Russia},\n  year =      {1997}\n}\n\n",
   "bib_parsed": {
-    "_code": "Fursin1997p102", 
-    "_type": "inproceedings", 
+    "_code": "Fursin1997p102",
+    "_type": "inproceedings",
     "author": [
       [
-        "", 
-        "Fursin", 
-        "Grigori", 
+        "",
+        "Fursin",
+        "Grigori",
         ""
       ]
-    ], 
-    "booktitle": "Proceedings of the national conference on physical processes in devices of electronic and laser engineering at Moscow Institute of Physics and Technology", 
-    "firstpage": "102", 
-    "lastpage": "111", 
-    "location": "Moscow, Russia", 
-    "title": "Modeling of processes of learning and recognition in modified neural network", 
+    ],
+    "booktitle": "Proceedings of the national conference on physical processes in devices of electronic and laser engineering at Moscow Institute of Physics and Technology",
+    "firstpage": "102",
+    "lastpage": "111",
+    "location": "Moscow, Russia",
+    "title": "Modeling of processes of learning and recognition in modified neural network",
     "year": "1997"
-  }, 
-  "bib_ref": "cm:29db2248aba45e59:5fe68265adaf4b24", 
-  "local_bib": "doc.bib", 
+  },
+  "bib_ref": "cm:29db2248aba45e59:5fe68265adaf4b24",
+  "local_bib": "doc.bib",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Concept [$#cm_e84a25bcb528c798_10afe24ba694c479#$, $#cm_e84a25bcb528c798_a514226a97bd442e#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Associated public software [$#cm_d76ac3bb9a3f744c_c9058860d64c22bd#$, $#cm_d76ac3bb9a3f744c_a8e290024a684917#$]"
     }
-  ], 
-  "place": "Moscow, Russia", 
-  "publish_iso_date": "1997-05-01", 
-  "title": "Modeling of processes of learning and recognition in modified neural network", 
+  ],
+  "place": "Moscow, Russia",
+  "publish_iso_date": "1997-05-01",
+  "title": "Modeling of processes of learning and recognition in modified neural network",
   "type": {
-    "name": "conference", 
-    "peer_reviewed": "yes", 
+    "name": "conference",
+    "peer_reviewed": "yes",
     "scope": "national"
-  }, 
-  "when": "1997", 
+  },
+  "when": "1997",
   "where": "Proceedings of the national conference on physical processes in devices of electronic and laser engineering at Moscow Institute of Physics and Technology"
 }

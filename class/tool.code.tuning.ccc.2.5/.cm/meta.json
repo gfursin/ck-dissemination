@@ -1,8 +1,8 @@
 {
-  "cm_archive": "", 
-  "cm_file_upload_name": "", 
-  "cm_file_upload_type": "", 
-  "code_deps_var": "CM_CODE_DEP_CCC", 
-  "include_deps_var": "CM_CODE_DEP_CCC", 
+  "cm_archive": "",
+  "cm_file_upload_name": "",
+  "cm_file_upload_type": "",
+  "code_deps_var": "CM_CODE_DEP_CCC",
+  "include_deps_var": "CM_CODE_DEP_CCC",
   "lib_deps_var": "CM_CODE_DEP_CCC"
 }

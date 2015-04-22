@@ -1,22 +1,22 @@
 {
-  "backup_data_uid": "c6642a5b007574c2", 
-  "backup_module_uid": "b0743a4044480ead", 
-  "backup_module_uoa": "person", 
+  "backup_data_uid": "c6642a5b007574c2",
+  "backup_module_uid": "b0743a4044480ead",
+  "backup_module_uoa": "person",
   "cm_outdated": {
     "cm_access_control": {
-      "read_groups": "all", 
+      "read_groups": "all",
       "write_groups": "owner"
-    }, 
+    },
     "powered_by": {
-      "name": "Collective Mind Engine", 
+      "name": "Collective Mind Engine",
       "version": "1.0.2015.beta"
     }
-  }, 
+  },
   "control": {
-    "author_uoa": "0728a400aa1c86fe", 
-    "engine": "CM", 
-    "iso_datetime": "2013-08-07T00:06:08.827000", 
+    "author_uoa": "0728a400aa1c86fe",
+    "engine": "CM",
+    "iso_datetime": "2013-08-07T00:06:08.827000",
     "version": []
-  }, 
+  },
   "data_name": "vingre01"
 }

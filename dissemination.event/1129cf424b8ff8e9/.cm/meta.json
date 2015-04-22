@@ -1,31 +1,31 @@
 {
   "authors": [
     {
-      "affiliation": "INRIA, France", 
+      "affiliation": "INRIA, France",
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
-      "affiliation": "University of Delaware, USA", 
+      "affiliation": "University of Delaware, USA",
       "name": "0e87696f4c2c8251"
     }
-  ], 
-  "colocated": "HiPEAC 2007", 
-  "notes": [], 
-  "place": "Ghent, Belgium", 
-  "start_iso_date": "2007-01-27", 
-  "title": "1st International Workshop Statistical and Machine learning approaches to ARchitecture and compilaTion (SMART)", 
+  ],
+  "colocated": "HiPEAC 2007",
+  "notes": [],
+  "place": "Ghent, Belgium",
+  "start_iso_date": "2007-01-27",
+  "title": "1st International Workshop Statistical and Machine learning approaches to ARchitecture and compilaTion (SMART)",
   "type": {
     "name": "workshop"
-  }, 
+  },
   "urls": [
     {
-      "title": "Website", 
+      "title": "Website",
       "url": "http://www.hipeac.net/smart-workshop-07.html"
-    }, 
+    },
     {
-      "title": "Final program", 
+      "title": "Final program",
       "url": "http://www.hipeac.net/smart-workshop-07-program.html"
     }
-  ], 
+  ],
   "when": "January 2007"
 }

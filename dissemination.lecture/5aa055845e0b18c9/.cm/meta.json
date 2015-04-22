@@ -1,52 +1,52 @@
 {
   "authors": [
     {
-      "affiliation": "INRIA, France", 
+      "affiliation": "INRIA, France",
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "end_iso_date": "2008-11-19", 
+  ],
+  "end_iso_date": "2008-11-19",
   "local_docs": [
     {
-      "file": "master_m2r.pdf", 
+      "file": "master_m2r.pdf",
       "title": "Course overview"
-    }, 
+    },
     {
-      "file": "course_m2r_2008_2009_iterative_compilation.pdf", 
+      "file": "course_m2r_2008_2009_iterative_compilation.pdf",
       "title": "Lecture 1 (Iterative compilation)"
-    }, 
+    },
     {
-      "file": "course_m2r_2008_2009_dynamic_and_ml.pdf", 
+      "file": "course_m2r_2008_2009_dynamic_and_ml.pdf",
       "title": "Lecture 2 (Online tuning and machine learning)"
-    }, 
+    },
     {
-      "file": "course_m2r_2008_2009_Program Optimizations. ATF vs ISS.pdf", 
+      "file": "course_m2r_2008_2009_Program Optimizations. ATF vs ISS.pdf",
       "title": "Lecture 3 (ATF vs ISS)"
-    }, 
+    },
     {
-      "file": "course_m2r_2008_2009_Program Optimizations. Dependences.pdf", 
+      "file": "course_m2r_2008_2009_Program Optimizations. Dependences.pdf",
       "title": "Lecture 4 (Dependencies)"
-    }, 
+    },
     {
-      "file": "course_m2r_2008_2009_tile.pdf", 
+      "file": "course_m2r_2008_2009_tile.pdf",
       "title": "Lecture 5 (Tiling)"
-    }, 
+    },
     {
-      "file": "course_m2r_2008_2009_Program Optimizations. Fine grained parallelization.pdf", 
+      "file": "course_m2r_2008_2009_Program Optimizations. Fine grained parallelization.pdf",
       "title": "Lecture 6 (Fine grained parallelization)"
-    }, 
+    },
     {
-      "file": "course_m2r_2008_2009_Program Optimizations. Coarse grained parallelization.pdf", 
+      "file": "course_m2r_2008_2009_Program Optimizations. Coarse grained parallelization.pdf",
       "title": "Lecture 7 (Coarse grained parallelization)"
     }
-  ], 
-  "notes": [], 
-  "place": "Paris South University (France)", 
-  "start_iso_date": "2008-09-29", 
-  "title": "Organizing and teaching MS course", 
+  ],
+  "notes": [],
+  "place": "Paris South University (France)",
+  "start_iso_date": "2008-09-29",
+  "title": "Organizing and teaching MS course",
   "type": {
     "name": "lecturer"
-  }, 
-  "when": "", 
+  },
+  "when": "",
   "why": "on \"Future computing systems\""
 }

@@ -3,42 +3,42 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "end_iso_date": "2006-06-01", 
+  ],
+  "end_iso_date": "2006-06-01",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Released in 2006"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Licence: GPL v2"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Collaboration with Institute of Computing Technology (China) to tune applications and compilers for LoongSon and Godson processors [$#cm_c47ad9a552aa7e82_e09d580d14d149f4#$, $#cm_4978a2f58b214af0_40748714f5eefa28#$]"
-    }, 
+    },
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Discontinued for $#cm_d76ac3bb9a3f744c_69fd2f54eef853b1#$"
     }
-  ], 
-  "start_iso_date": "2004-06-01", 
-  "title": "Framework for Continuous Optimization (FCO)", 
+  ],
+  "start_iso_date": "2004-06-01",
+  "title": "Framework for Continuous Optimization (FCO)",
   "type": {
     "name": "software"
-  }, 
+  },
   "urls": [
     {
-      "title": "Old description", 
+      "title": "Old description",
       "url": "http://fursin.net/wiki/index.php5?title=Research:Developments:FCO"
-    }, 
+    },
     {
-      "title": "Framework with ICI for Open64 compiler", 
+      "title": "Framework with ICI for Open64 compiler",
       "url": "http://open64-ici.cvs.sourceforge.net/open64-ici"
-    }, 
+    },
     {
-      "title": "Framework with ICI for PathScale compiler", 
+      "title": "Framework with ICI for PathScale compiler",
       "url": "http://pathscale-ici.cvs.sourceforge.net/pathscale-ici"
     }
   ]

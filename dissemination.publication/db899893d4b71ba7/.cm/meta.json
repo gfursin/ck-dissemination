@@ -3,18 +3,18 @@
     {
       "name": "0728a400aa1c86fe"
     }
-  ], 
-  "bib_ref": "cm:29db2248aba45e59:db899893d4b71ba7", 
-  "local_bib": "doc.bib", 
-  "local_doc": "doc.pdf", 
-  "place": "Berlin, Germany", 
-  "publish_iso_date": "2013-01-21", 
-  "title": "Poster: cTuning.org: novel collaborative methodology, publication model, framework and repository to crowdsource auto-tuning", 
+  ],
+  "bib_ref": "cm:29db2248aba45e59:db899893d4b71ba7",
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
+  "place": "Berlin, Germany",
+  "publish_iso_date": "2013-01-21",
+  "title": "Poster: cTuning.org: novel collaborative methodology, publication model, framework and repository to crowdsource auto-tuning",
   "type": {
-    "name": "poster", 
-    "peer_reviewed": "yes", 
+    "name": "poster",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "January 2013", 
+  },
+  "when": "January 2013",
   "where": "HiPEAC conference poster session"
 }

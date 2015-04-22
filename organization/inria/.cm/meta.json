@@ -1,8 +1,8 @@
 {
-  "abbreviation": "INRIA", 
-  "country": "France", 
-  "name": "Institut National de Recherche en Informatique et en Automatique", 
-  "type": "governmental organization", 
+  "abbreviation": "INRIA",
+  "country": "France",
+  "name": "Institut National de Recherche en Informatique et en Automatique",
+  "type": "governmental organization",
   "urls": [
     "http://www.inria.fr"
   ]

@@ -2,64 +2,64 @@
   "authors": [
     {
       "name": "b814167b1af3e41b"
-    }, 
+    },
     {
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
       "name": "02b631964c4828ae"
-    }, 
+    },
     {
       "name": "785a4f3eee3f609d"
     }
-  ], 
-  "bib": "@inproceedings{29db2248aba45e59:ad948d5492bd533d,\n\n  author =    {Desmet, Veerle and Fursin, Grigori and Girbal, Sylvain and Temam, Olivier},\n  title =     {Leveraging Modular Simulation for Systematic Design Space Exploration},\n  booktitle = {4th HiPEAC Industrial Workshop on Compilers and Architectures organized by ARM Ltd.},\n  year =      {2007},\n  month =     {November},\n  keys =      {http://www.hipeac.net/industry_workshop4},\n  location =  {Cambridge, UK}\n}\n\n", 
+  ],
+  "bib": "@inproceedings{29db2248aba45e59:ad948d5492bd533d,\n\n  author =    {Desmet, Veerle and Fursin, Grigori and Girbal, Sylvain and Temam, Olivier},\n  title =     {Leveraging Modular Simulation for Systematic Design Space Exploration},\n  booktitle = {4th HiPEAC Industrial Workshop on Compilers and Architectures organized by ARM Ltd.},\n  year =      {2007},\n  month =     {November},\n  keys =      {http://www.hipeac.net/industry_workshop4},\n  location =  {Cambridge, UK}\n}\n\n",
   "bib_parsed": {
-    "_code": "Desmet2007", 
-    "_type": "inproceedings", 
+    "_code": "Desmet2007",
+    "_type": "inproceedings",
     "author": [
       [
-        "", 
-        "Desmet", 
-        "Veerle", 
+        "",
+        "Desmet",
+        "Veerle",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Fursin", 
-        "Grigori", 
+        "",
+        "Fursin",
+        "Grigori",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Girbal", 
-        "Sylvain", 
+        "",
+        "Girbal",
+        "Sylvain",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Temam", 
-        "Olivier", 
+        "",
+        "Temam",
+        "Olivier",
         ""
       ]
-    ], 
-    "booktitle": "4th HiPEAC Industrial Workshop on Compilers and Architectures organized by ARM Ltd.", 
-    "keys": "http://www.hipeac.net/industry_workshop4", 
-    "location": "Cambridge, UK", 
-    "month": "November", 
-    "title": "Leveraging Modular Simulation for Systematic Design Space Exploration", 
+    ],
+    "booktitle": "4th HiPEAC Industrial Workshop on Compilers and Architectures organized by ARM Ltd.",
+    "keys": "http://www.hipeac.net/industry_workshop4",
+    "location": "Cambridge, UK",
+    "month": "November",
+    "title": "Leveraging Modular Simulation for Systematic Design Space Exploration",
     "year": "2007"
-  }, 
-  "bib_ref": "cm:29db2248aba45e59:1ab772451f5f1c5d", 
-  "local_bib": "doc.bib", 
-  "place": "Cambridge, UK", 
-  "publish_iso_date": "2007-11-01", 
-  "title": "Leveraging Modular Simulation for Systematic Design Space Exploration", 
+  },
+  "bib_ref": "cm:29db2248aba45e59:1ab772451f5f1c5d",
+  "local_bib": "doc.bib",
+  "place": "Cambridge, UK",
+  "publish_iso_date": "2007-11-01",
+  "title": "Leveraging Modular Simulation for Systematic Design Space Exploration",
   "type": {
-    "name": "workshop", 
-    "peer_reviewed": "yes", 
+    "name": "workshop",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "November 2007", 
+  },
+  "when": "November 2007",
   "where": "4th HiPEAC Industrial Workshop on Compilers and Architectures organized by ARM Ltd."
 }

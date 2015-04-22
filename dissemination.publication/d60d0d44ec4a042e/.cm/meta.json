@@ -2,81 +2,81 @@
   "authors": [
     {
       "name": "0728a400aa1c86fe"
-    }, 
+    },
     {
       "name": "de445ffdc94d43c2"
-    }, 
+    },
     {
       "name": "3bb14a13a9af9326"
-    }, 
+    },
     {
       "name": "e58fbedc23c45278"
-    }, 
+    },
     {
       "name": "785a4f3eee3f609d"
     }
-  ], 
-  "bib": "@inproceedings{29db2248aba45e59:b190b84aaca666f5,\n\n  author =    {Grigori Fursin and Cupertino Miranda and Sebastian Pop and Albert Cohen and Olivier Temam},\n  title =     {Practical Run-time Adaptation with Procedure Cloning to Enable Continuous Collective Compilation},\n  booktitle = {Proceedings of the GCC Developers' Summit},\n  year =      {2007},\n  month =     {July},\n  location =  {Ottawa, Canada},\n  keys =      {http://www.gccsummit.org/2007}\n}\n\n", 
+  ],
+  "bib": "@inproceedings{29db2248aba45e59:b190b84aaca666f5,\n\n  author =    {Grigori Fursin and Cupertino Miranda and Sebastian Pop and Albert Cohen and Olivier Temam},\n  title =     {Practical Run-time Adaptation with Procedure Cloning to Enable Continuous Collective Compilation},\n  booktitle = {Proceedings of the GCC Developers' Summit},\n  year =      {2007},\n  month =     {July},\n  location =  {Ottawa, Canada},\n  keys =      {http://www.gccsummit.org/2007}\n}\n\n",
   "bib_parsed": {
-    "_code": "Fursin2007", 
-    "_type": "inproceedings", 
+    "_code": "Fursin2007",
+    "_type": "inproceedings",
     "author": [
       [
-        "", 
-        "Fursin", 
-        "Grigori", 
+        "",
+        "Fursin",
+        "Grigori",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Miranda", 
-        "Cupertino", 
+        "",
+        "Miranda",
+        "Cupertino",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Pop", 
-        "Sebastian", 
+        "",
+        "Pop",
+        "Sebastian",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Cohen", 
-        "Albert", 
+        "",
+        "Cohen",
+        "Albert",
         ""
-      ], 
+      ],
       [
-        "", 
-        "Temam", 
-        "Olivier", 
+        "",
+        "Temam",
+        "Olivier",
         ""
       ]
-    ], 
-    "booktitle": "Proceedings of the GCC Developers' Summit", 
-    "keys": "http://www.gccsummit.org/2007", 
-    "location": "Ottawa, Canada", 
-    "month": "July", 
-    "title": "Practical Run-time Adaptation with Procedure Cloning to Enable Continuous Collective Compilation", 
+    ],
+    "booktitle": "Proceedings of the GCC Developers' Summit",
+    "keys": "http://www.gccsummit.org/2007",
+    "location": "Ottawa, Canada",
+    "month": "July",
+    "title": "Practical Run-time Adaptation with Procedure Cloning to Enable Continuous Collective Compilation",
     "year": "2007"
-  }, 
-  "bib_ref": "cm:29db2248aba45e59:d60d0d44ec4a042e", 
-  "local_bib": "doc.bib", 
-  "local_doc": "doc.pdf", 
+  },
+  "bib_ref": "cm:29db2248aba45e59:d60d0d44ec4a042e",
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
   "notes": [
     {
-      "italic": "yes", 
+      "italic": "yes",
       "note": "Moving concept of statically enabling dynamic optimizations [$#cm_e84a25bcb528c798_b085ae81345e4452#$] to mainline GCC"
     }
-  ], 
-  "place": "Ottawa, Canada", 
-  "publish_iso_date": "2007-07-01", 
-  "reproducible": "yes", 
-  "title": "Practical Run-time Adaptation with Procedure Cloning to Enable Continuous Collective Compilation", 
+  ],
+  "place": "Ottawa, Canada",
+  "publish_iso_date": "2007-07-01",
+  "reproducible": "yes",
+  "title": "Practical Run-time Adaptation with Procedure Cloning to Enable Continuous Collective Compilation",
   "type": {
-    "name": "workshop", 
-    "peer_reviewed": "yes", 
+    "name": "workshop",
+    "peer_reviewed": "yes",
     "scope": "international"
-  }, 
-  "when": "June 2008", 
+  },
+  "when": "June 2008",
   "where": "Proceedings of the GCC Developers' Summit"
 }
