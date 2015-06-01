@@ -7,5 +7,6 @@
     "sync": "yes"
   }, 
   "data_alias": "ck-dissemination", 
-  "data_uoa": "ck-dissemination"
+  "data_uoa": "ck-dissemination",
+  "repo_deps":[{"repo_uoa":"ck-dissemination-modules"}]
 }
