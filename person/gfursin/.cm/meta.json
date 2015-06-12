@@ -1,14 +1,39 @@
 {
-  "cm_email": "gfursin@gmail.com",
-  "job_organization": [
-    "4aa6d3084fe08c03",
-    "d623dd74a54aa7ab"
-  ],
-  "job_title": "Senior Research Scientist",
-  "name": "Grigori Fursin",
-  "personal_web_page": "http://fursin.net",
-  "professional_web_page": "http://cTuning.org/lab/people/gfursin",
+  "email": "Grigori.Fursin@cTuning.org", 
+  "current_jobs": [
+    {
+      "organization": "dividiti, UK",
+      "organization_web": "", 
+      "title": "CTO"
+    }, 
+    {
+      "organization": "cTuning Foundation, France", 
+      "organization_web": "http://cTuning.org", 
+      "title": "Chief Scientist"
+    }
+  ], 
+  "large_image": "image_l.jpg", 
+  "name": "Grigori Fursin, PhD", 
+  "personal_web_page": "http://fursin.net", 
+  "professional_web_page": "http://cTuning.org/lab/people/gfursin", 
   "publications": [
     "983680d43b0b033d"
+  ], 
+  "small_image": "image_s.png", 
+  "tags": [
+    "grigori fursin", 
+    "grigori", 
+    "fursin", 
+    "ctuning",
+    "collective knowledge",
+    "collective mind",
+    "machine learning", 
+    "data mining", 
+    "reproducible research", 
+    "autotuning", 
+    "iterative optimization", 
+    "run-time adaptation", 
+    "knowledge management", 
+    "machine learning based autotuning"
   ]
 }

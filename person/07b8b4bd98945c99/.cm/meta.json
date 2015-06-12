@@ -1,3 +1,19 @@
 {
-  "name": "Anton Lokhmotov"
+  "email": "anton@dividiti.com", 
+  "current_jobs": [
+    {
+      "organization": "dividiti, UK",
+      "organization_web": "", 
+      "title": "CEO"
+    } 
+  ], 
+  "small_image": "image_l.jpg", 
+  "large_image": "image_l.jpg", 
+  "name": "Anton Lokhmotov, PhD", 
+  "tags": [
+    "anton lokhmotov", 
+    "anton", 
+    "lokhmotov",
+    "opencl"
+  ]
 }
