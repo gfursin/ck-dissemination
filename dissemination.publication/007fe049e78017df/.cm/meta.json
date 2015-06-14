@@ -1,0 +1,23 @@
+{
+  "title": "Collective Mind: towards practical and collaborative auto-tuning",
+  "live":"yes",
+  "authors":[
+    {"name":"Grigori Fursin",
+     "affiliation":"1",
+     "url":"http://cTuning.org/lab/people/gfursin"},
+    {"name":"Abdul Memon",
+     "affiliation":"2"},
+    {"name":"Christophe Guillon",
+     "affiliation":"3"},
+    {"name":"Anton Lokhmotov",
+     "affiliation":"4"}
+  ],
+  "affiliations": {
+   "1":{"name":"cTuning Foundation, France"},
+   "2":{"name":"UVSQ, France"},
+   "3":{"name":"STMicroelectronics, France"},
+   "4":{"name":"ARM, UK"}
+  },
+  "cor_author_email":"Grigori.Fursin@cTuning.org",
+  "template":"live.html"
+}
