@@ -1,0 +1,50 @@
+{
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }
+  ],
+  "end_iso_date": "cur.",
+  "notes": [
+    {
+      "italic": "yes",
+      "note": "Pre-released in 2015 (V1.2, permissive and simplified BSD license)"
+    },
+    {
+      "italic": "yes",
+      "note": "Partially funded by EU FP7 TETRACOM 6-months grant [$#cm_5ae0ce43ceb4d73c_72d7c56eac47e48d#$]"
+    },
+    {
+      "italic": "yes",
+      "note": "Publications [$#cm_29db2248aba45e59_1943b3f46fabaee4#$, $#cm_29db2248aba45e59_f98a6602e010cfd5#$, $#cm_29db2248aba45e59_bfb3134d4c078236#$, $#cm_29db2248aba45e59_db899893d4b71ba7#$, $#cm_29db2248aba45e59_241959a66d0e6895#$, $#cm_29db2248aba45e59_54ac7ceace451a83#$]"
+    },
+    {
+      "italic": "yes",
+      "note": "Associated events [$#cm_77154d189d2e226c_ba9ff465bb24fbb6#$, $#cm_77154d189d2e226c_62b66f207403dbbb#$, $#cm_77154d189d2e226c_4bf48a6e31437834#$, $#cm_77154d189d2e226c_7a7848344740d897#$]"
+    },
+    {
+      "italic": "yes",
+      "note": "Associated live repository and online advice service [$#cm_4d63887b5cda54aa_4d4fbc8d3ae7e75c#$]"
+    }
+  ],
+  "start_iso_date": "2014-11-01",
+  "title": "Collective Knowledge Framework and Repository (CK aka cTuning4, BSD-license)",
+  "type": {
+    "name": "software"
+  },
+  "urls": [
+    {
+      "title": "Website",
+      "url": "http://github.com/ctuning/ck"
+    },
+    {
+      "title": "Wiki",
+      "url": "http://github.com/ctuning/ck/wiki"
+    },
+    {
+      "title": "cM Google Group discussions",
+      "url": "http://groups.google.com/group/collective-mind"
+    }
+  ],
+  "why": "- Collective Knowledge (CK) is a light-weight, portable, modular and python-based framework, repository, web service and SDK to organize, describe, cross-link and share user code, data, experimental setups and meta information as unified and reusable components with JSON API via standard Git services (such as GITHUB or BitBucket)."
+}
