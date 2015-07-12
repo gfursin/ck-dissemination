@@ -1,0 +1,50 @@
+{
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }
+  ],
+  "end_iso_date": "cur.",
+  "notes": [
+    {
+      "italic": "yes",
+      "note": "Opened to public in 2015"
+    },
+    {
+      "italic": "yes",
+      "note": "Included all past and current semantically connected research artifacts from $#cm_cv_my3#$ research, development and experimentation (hundreds of codelets and benchmarks; thousands of datasets; GCC, LLVM, Open64, PathScale, ICC compiler optimization description; tools and scripts; online tuning plugins; machine learning plugins; adaptive exploration pluigns; graph plotting plugins; data mining plugins; machine learning based meta compiler; MILEPOST GCC, etc"
+    },
+    {
+      "italic": "yes",
+      "note": "Used for the new publication model [$#cm_77154d189d2e226c_ba9ff465bb24fbb6#$]"
+    },
+    {
+      "italic": "yes",
+      "note": "Funded by [$#cm_5ae0ce43ceb4d73c_72d7c56eac47e48d#$, $#cm_c47ad9a552aa7e82_6b7444e0a5d4022a#$]"
+    },
+    {
+      "italic": "yes",
+      "note": "Powered by Collective Knowledge Framework [$#cm_d76ac3bb9a3f744c_be42dc8eef7d2041#$]"
+    }
+  ],
+  "start_iso_date": "2014-11-01",
+  "title": "Collective Knowledge public repository (CK aka cTuning4)",
+  "to": "continue improving whole experimental setup sharing (code, data, dependencies, experimental results, models) along with interactive articles",
+  "type": {
+    "name": "public_repository"
+  },
+  "urls": [
+    {
+      "title": "Collective Knowledge live repository",
+      "url": "http://cknowledge.org/repo"
+    },
+    {
+      "title": "Interactive graphs",
+      "url": "http://cknowledge.org/repo/web.php?wcid=graph:"
+    },
+    {
+      "title": "Interactive reports",
+      "url": "http://cknowledge.org/repo/web.php?wcid=report:"
+    }
+  ]
+}
