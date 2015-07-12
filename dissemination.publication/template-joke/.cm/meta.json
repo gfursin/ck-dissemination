@@ -3,7 +3,8 @@
     {
       "choice": [
         "Novel",
-        "New"
+        "New",
+        "Reproducible"
       ]
     },
     {
@@ -40,6 +41,8 @@
       "choice": [
         "intelligent",
         "smart",
+        "predictive analytics based",
+        "big data based",
         "active learning based",
         "machine learning based",
         "SVM-based",
@@ -64,12 +67,15 @@
     {
       "choice": [
         "auto-tuning",
+        "autotuning",
+        "iterative compilation",
         "modeling",
         "optimization space exploration",
         "design space exploration",
         "algorithm tuning",
         "compiler optimization",
         "run-time adaptation",
+        "dynamic adaptation",
         "scheduling",
         "parallelization",
         "SW/HW co-design"
@@ -81,13 +87,15 @@
     {
       "choice": [
         "improve performance",
+        "improve accuracy",
         "reduce energy usage",
         "reduce code size",
+        "reduce optimization time",
         "balance multiple characteristics",
+        "balance algorithm accuracy, power consumption and speed",
         "reduce power consumption",
         "improve reliability",
         "reduce usage costs",
-        "improve ROI",
         "balance performance and energy"
       ]
     },
@@ -123,7 +131,7 @@
         "laptops",
         "supercomputers",
         "HPC servers",
-        "GRID",
+        "GRID systems",
         "cloud services",
         "data centers"
       ]
@@ -161,11 +169,12 @@
         "MPI",
         "thread pinning",
         "contention aware scheduling",
+        "binary to binary transformation",
         "loop fusion/fission"
       ]
     },
     {
-      "text": " featuring "
+      "text": " via "
     },
     {
       "choice": [
