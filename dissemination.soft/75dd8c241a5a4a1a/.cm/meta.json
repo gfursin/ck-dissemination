@@ -22,7 +22,7 @@
   ],
   "start_iso_date": "2006-01-05",
   "title": "cBench (Collective Benchmark)",
-  "to": "unify and systematize benchmarking with multiple datasets for realistic and collaborative program and architecture auto-tuning and co-design combined with machine learning; unify training and tuning of MILEPOST GCC []; enable research on split compilation []",
+  "to": "unify and systematize benchmarking with multiple datasets for realistic and collaborative program and architecture autotuning and co-design combined with machine learning; unify training and tuning of MILEPOST GCC []; enable research on split compilation []",
   "type": {
     "name": "benchmark"
   },

@@ -1,0 +1,27 @@
+{
+  "authors": [
+    {
+      "affiliation": "cTuning foundation, France",
+      "name": "0728a400aa1c86fe"
+    }
+  ],
+  "notes": [],
+  "place": "National Taiwan University (Taipei, Taiwan)",
+  "start_iso_date": "2013-03",
+  "title": "Guest lectures",
+  "type": {
+    "name": "lecturer"
+  },
+  "urls": [
+    {
+      "title": "Lecture 1 sides",
+      "url": "http://www.slideshare.net/GrigoriFursin/presentation-fursin-hpsc2013fursin1"
+    },
+    {
+      "title": "Lecture 2 slides",
+      "url": "http://www.slideshare.net/GrigoriFursin/presentation-fursin-hpsc2013fursin2"
+    }
+  ],
+  "when": "",
+  "why": "on \"systematizing tuning of computer systems using crowdsourcing and statistics\""
+}

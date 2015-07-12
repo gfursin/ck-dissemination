@@ -12,7 +12,7 @@
     },
     {
       "italic": "yes",
-      "note": "Developed with $#cm_cv_my3#$ team [$#cm_86ea434e815f5059_544749564b62bfc8#$, $#cm_86ea434e815f5059_286004aebddd15ff#$, $#cm_86ea434e815f5059_989b2c721778a8f9#$] as Intel Exascale Lab in-house auto-tuning infrastructure and repository extending cTuning1 framework and repository"
+      "note": "Developed the concept based on $#cm_cv_my3#$ cTuning technology and developed first prototype with $#cm_cv_my3#$ team [$#cm_86ea434e815f5059_544749564b62bfc8#$, $#cm_86ea434e815f5059_286004aebddd15ff#$, $#cm_86ea434e815f5059_989b2c721778a8f9#$] as Intel Exascale Lab in-house autotuning infrastructure and repository extending cTuning1 framework and repository"
     },
     {
       "italic": "yes",

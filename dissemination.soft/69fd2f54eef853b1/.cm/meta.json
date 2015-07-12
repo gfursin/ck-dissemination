@@ -5,7 +5,7 @@
     }
   ],
   "end_iso_date": "2010-03-01",
-  "for": "collaborative user-defined program and architecture characterization, multi-objective optimization (execution time, code size, compilation time, power consumption) and co-design of computer systems using public repositories of knowledge, plugin-based auto-tuning, machine learning and crowdsourcing",
+  "for": "collaborative user-defined program and architecture characterization, multi-objective optimization (execution time, code size, compilation time, power consumption) and co-design of computer systems using public repositories of knowledge, plugin-based autotuning, machine learning and crowdsourcing",
   "notes": [
     {
       "italic": "yes",

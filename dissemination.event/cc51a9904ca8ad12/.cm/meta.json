@@ -1,0 +1,29 @@
+{
+  "authors": [
+    {
+      "affiliation": "University of Pittsburgh, USA",
+      "name": "951b4c09aa9529c0"
+    },
+    {
+      "affiliation": "dividiti, UK / cTuning foundation, France",
+      "name": "0728a400aa1c86fe"
+    },
+    {
+      "affiliation": "Brown University, USA",
+      "name": "a947c37abc204ea5"
+    },
+    {
+      "affiliation": "Saarland University, Germany",
+      "name": "d493dad6b3a46f42"
+    }
+  ],
+  "place": "Dagstuhl, Germany",
+  "start_iso_date": "2015-11-01",
+  "title": "Dagstuhl Perspectives Workshop: Artifact Evaluation for Publications",
+  "type": {
+    "name": "artifact_evaluation"
+  },
+  "urls": [
+  ],
+  "when": "November 2015"
+}

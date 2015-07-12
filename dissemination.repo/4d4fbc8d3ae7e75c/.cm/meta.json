@@ -16,7 +16,7 @@
     },
     {
       "italic": "yes",
-      "note": "Connected with Android Collective Mind Node [$#cm_d76ac3bb9a3f744c_c2c4b3caf3027fd6#$] to crowdsource program and architecture characterization and multi-objective auto-tuning (execution time, code size, compilation time, power consumption) using any available Android-based mobile phone, tablet or laptop"
+      "note": "Connected with Android Collective Mind Node [$#cm_d76ac3bb9a3f744c_c2c4b3caf3027fd6#$] to crowdsource program and architecture characterization and multi-objective autotuning (execution time, code size, compilation time, power consumption) using any available Android-based mobile phone, tablet or laptop"
     },
     {
       "italic": "yes",
@@ -47,7 +47,7 @@
       "url": "http://c-mind.org/cm/predict_opts"
     },
     {
-      "title": "Universal auto-tuning and learning pipeline for top-down multi-objective optimization",
+      "title": "Universal autotuning and learning pipeline for top-down multi-objective optimization",
       "url": "http://c-mind.org/cm/autotuning_pipeline"
     }
   ]

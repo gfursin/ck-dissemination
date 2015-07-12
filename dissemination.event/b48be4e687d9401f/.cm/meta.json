@@ -1,0 +1,29 @@
+{
+  "authors": [
+    {
+      "affiliation": "dividiti, UK / cTuning foundation, France",
+      "name": "0728a400aa1c86fe"
+    },
+    {
+      "affiliation": "University of Pittsburgh, USA",
+      "name": "951b4c09aa9529c0"
+    }
+  ],
+  "place": "Barcelona, Spain",
+  "start_iso_date": "2016-03-12",
+  "title": "Artifact evaluation for CGO'16",
+  "type": {
+    "name": "artifact_evaluation"
+  },
+  "urls": [
+    {
+      "title": "AE website",
+      "url": "http://cTuning.org/event/ae-cgo2016"
+    },
+    {
+      "title": "CGO'16 website",
+      "url": "http://cgo.org/cgo2016"
+    }
+  ],
+  "when": "March 2016"
+}

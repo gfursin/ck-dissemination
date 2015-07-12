@@ -16,7 +16,7 @@
     },
     {
       "italic": "yes",
-      "note": "Included plugins to open up latest GCC and LLVM for fine-grain program analysis and auto-tuning, and to open up HPC applications for online tuning and adaptation on heterogeneous architectures [$#cm_29db2248aba45e59_1943b3f46fabaee4#$, $#cm_29db2248aba45e59_3b9c0386749be8ad#$]"
+      "note": "Included plugins to open up latest GCC and LLVM for fine-grain program analysis and autotuning, and to open up HPC applications for online tuning and adaptation on heterogeneous architectures [$#cm_29db2248aba45e59_1943b3f46fabaee4#$, $#cm_29db2248aba45e59_3b9c0386749be8ad#$]"
     },
     {
       "italic": "yes",

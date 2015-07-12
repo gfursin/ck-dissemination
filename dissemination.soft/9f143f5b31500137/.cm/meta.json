@@ -20,7 +20,7 @@
     },
     {
       "file": "eos_iters.jpg",
-      "title": "EOS hill-climbing auto-tuning example (padding, tiling, unrolling) (jpg)"
+      "title": "EOS hill-climbing autotuning example (padding, tiling, unrolling) (jpg)"
     }
   ],
   "notes": [
@@ -46,7 +46,7 @@
     },
     {
       "italic": "yes",
-      "note": "Included plugins for program memory/CPU characterization through semantically non-equivalent assembler/binary patching [$#cm_29db2248aba45e59_91c6126884641b59#$, $#cm_29db2248aba45e59_48d8a274c1c9dea9#$, $#cm_29db2248aba45e59_b254c18c8794ba29#$, $#cm_29db2248aba45e59_976aac68c6834af6#$, $#cm_29db2248aba45e59_2a45819c829656cc#$]; own source-to-source compiler; fine-grain auto-tuning plugins (unrolling, array padding) with partial polyhedral optimization support (tiling, fusion/fission, vectorization)"
+      "note": "Included plugins for program memory/CPU characterization through semantically non-equivalent assembler/binary patching [$#cm_29db2248aba45e59_91c6126884641b59#$, $#cm_29db2248aba45e59_48d8a274c1c9dea9#$, $#cm_29db2248aba45e59_b254c18c8794ba29#$, $#cm_29db2248aba45e59_976aac68c6834af6#$, $#cm_29db2248aba45e59_2a45819c829656cc#$]; own source-to-source compiler; fine-grain autotuning plugins (unrolling, array padding) with partial polyhedral optimization support (tiling, fusion/fission, vectorization)"
     },
     {
       "italic": "yes",
@@ -68,5 +68,5 @@
       "url": "http://fursin.net/wiki/index.php5?title=Research:Developments:EOS"
     }
   ],
-  "why": " - plugin-based client-server program and architecture characterization and auto-tuning framework"
+  "why": " - plugin-based client-server program and architecture characterization and autotuning framework"
 }

@@ -21,7 +21,7 @@
   ],
   "start_iso_date": "2011-09-01",
   "title": "Android Collective Mind Node",
-  "to": "crowdsource program and architecture characterization and multi-objective auto-tuning (execution time, code size, compilation time, power consumption) using any available Android-based mobile phone, tablet or laptop",
+  "to": "crowdsource program and architecture characterization and multi-objective autotuning (execution time, code size, compilation time, power consumption) using any available Android-based mobile phone, tablet or laptop",
   "type": {
     "name": "software"
   },

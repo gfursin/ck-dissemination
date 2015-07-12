@@ -28,7 +28,7 @@
     },
     {
       "italic": "yes",
-      "note": "Technology: easily customizable for any end-user $#cm_cv_r_and_d#$ scenario through plugins; agile development methodology; NoSQL databases with JSON representation; ElasticSearch indexing; unified python plugins for web-services, auto-tuning, data mining and machine learning; OpenME interface to connect applications and tools written in C, C++, Fortran, PHP to cM; upport for practically any Unix and Windows-based desktops, laptops, supercomputers, cloud servers, and even tablets and mobile phones with ARM,Intel,ST,Loongson,AMD,NVidia and other chips; powerful graph capabilities"
+      "note": "Technology: easily customizable for any end-user $#cm_cv_r_and_d#$ scenario through plugins; agile development methodology; NoSQL databases with JSON representation; ElasticSearch indexing; unified python plugins for web-services, autotuning, data mining and machine learning; OpenME interface to connect applications and tools written in C, C++, Fortran, PHP to cM; upport for practically any Unix and Windows-based desktops, laptops, supercomputers, cloud servers, and even tablets and mobile phones with ARM,Intel,ST,Loongson,AMD,NVidia and other chips; powerful graph capabilities"
     },
     {
       "italic": "yes",
@@ -74,5 +74,5 @@
       "url": "http://groups.google.com/group/collective-mind"
     }
   ],
-  "why": "- plugin-based knowledge management system to preserve, systematize and share all research, development and experimentation artifacts using private or in-house web and plugin-based, customizable, schema-free, NoSQL repository of knowledge combined with crowdsourcing and machine learning; collaborative and agile implementation and systematization of experimental scenarios combined with statistical analysis and data mining; plugin-based program and architecture auto-tuning and co-design combined with crowdsourcing, machine learning and run-time adaptation"
+  "why": "- plugin-based knowledge management system to preserve, systematize and share all research, development and experimentation artifacts using private or in-house web and plugin-based, customizable, schema-free, NoSQL repository of knowledge combined with crowdsourcing and machine learning; collaborative and agile implementation and systematization of experimental scenarios combined with statistical analysis and data mining; plugin-based program and architecture autotuning and co-design combined with crowdsourcing, machine learning and run-time adaptation"
 }

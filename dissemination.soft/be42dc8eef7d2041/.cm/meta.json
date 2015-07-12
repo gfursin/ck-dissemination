@@ -8,6 +8,10 @@
   "notes": [
     {
       "italic": "yes",
+      "note": "Opened to public in 2015"
+    },
+    {
+      "italic": "yes",
       "note": "Pre-released in 2015 (V1.2, permissive and simplified BSD license)"
     },
     {
@@ -24,7 +28,7 @@
     },
     {
       "italic": "yes",
-      "note": "Associated live repository and online advice service [$#cm_4d63887b5cda54aa_4d4fbc8d3ae7e75c#$]"
+      "note": "Associated open repository [$#cm_4d63887b5cda54aa_df354bed9593719c#$]"
     }
   ],
   "start_iso_date": "2014-11-01",

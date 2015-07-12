@@ -45,7 +45,7 @@
   "notes": [
     {
       "italic": "yes",
-      "note": "Our first experiments on program auto-tuning using polyhedral transformations (iterative optimization using polyhedral model)"
+      "note": "Our first experiments on program autotuning using polyhedral transformations (iterative optimization using polyhedral model)"
     }
   ],
   "pages": "137-144",

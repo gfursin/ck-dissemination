@@ -38,7 +38,7 @@
   "notes": [
     {
       "italic": "yes",
-      "note": "This work summarizes our long-term vision on making auto-tuning practical and reproducible using public repository of knowledge, common plugin-based auto-tuning infrastructure, predictive analytics (machine learning, data mining, statistical analysis, feature detection), crowdsourcing and collective intelligence"
+      "note": "This work summarizes our long-term vision on making autotuning practical and reproducible using public repository of knowledge, common plugin-based autotuning infrastructure, predictive analytics (machine learning, data mining, statistical analysis, feature detection), crowdsourcing and collective intelligence"
     },
     {
       "bold": "yes",
@@ -57,7 +57,7 @@
   ],
   "place": "Edinburgh, UK",
   "publish_iso_date": "2014-08-03",
-  "title": "Collective Mind: towards practical and collaborative auto-tuning",
+  "title": "Collective Mind: towards practical and collaborative autotuning",
   "type": {
     "name": "journal",
     "peer_reviewed": "yes",
