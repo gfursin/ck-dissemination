@@ -43,6 +43,10 @@
   "notes": [
     {
       "italic": "yes", 
+      "note": "Partially funded by [$#cm_c47ad9a552aa7e82_754ccb9a76688c53#$]"
+    }, 
+    {
+      "italic": "yes", 
       "note": "This work summarizes our long-term vision on enabling cost-aware computer engineering autotuning using methodology from physics, biology and other natural sciences"
     }, 
     {

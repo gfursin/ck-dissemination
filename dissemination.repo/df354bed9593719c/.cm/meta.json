@@ -15,16 +15,20 @@
       "note": "Opened to public in 2015"
     },
     {
+      "italic": "yes", 
+      "note": "Received award [$#cm_5ae0ce43ceb4d73c_ab884a345fe99806#$]"
+    }, 
+    {
       "italic": "yes",
       "note": "Included all past and current semantically connected research artifacts from $#cm_cv_my3#$ research, development and experimentation (hundreds of codelets and benchmarks; thousands of datasets; GCC, LLVM, Open64, PathScale, ICC compiler optimization description; tools and scripts; online tuning plugins; machine learning plugins; adaptive exploration pluigns; graph plotting plugins; data mining plugins; machine learning based meta compiler; MILEPOST GCC, etc"
     },
     {
       "italic": "yes",
-      "note": "Used for the new publication model [$#cm_77154d189d2e226c_ba9ff465bb24fbb6#$]"
+      "note": "Supports our initiatives on Artifact Evaluation and new publication models where results and papers are validated and improved by the community [$#cm_e84a25bcb528c798_c81fe7e9b45b88cd#$]"
     },
     {
       "italic": "yes",
-      "note": "Funded by [$#cm_5ae0ce43ceb4d73c_72d7c56eac47e48d#$, $#cm_c47ad9a552aa7e82_6b7444e0a5d4022a#$]"
+      "note": "Partially funded by [$#cm_c47ad9a552aa7e82_754ccb9a76688c53#$]"
     },
     {
       "italic": "yes",

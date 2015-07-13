@@ -12,23 +12,35 @@
     },
     {
       "italic": "yes",
-      "note": "Pre-released in 2015 (V1.2, permissive and simplified BSD license)"
+      "note": "Pre-released in May, 2015 (V1.2, permissive and simplified BSD license)"
     },
     {
       "italic": "yes",
       "note": "Partially funded by EU FP7 TETRACOM 6-months grant [$#cm_5ae0ce43ceb4d73c_72d7c56eac47e48d#$]"
     },
     {
-      "italic": "yes",
-      "note": "Publications [$#cm_29db2248aba45e59_1943b3f46fabaee4#$, $#cm_29db2248aba45e59_f98a6602e010cfd5#$, $#cm_29db2248aba45e59_bfb3134d4c078236#$, $#cm_29db2248aba45e59_db899893d4b71ba7#$, $#cm_29db2248aba45e59_241959a66d0e6895#$, $#cm_29db2248aba45e59_54ac7ceace451a83#$]"
-    },
+      "italic": "yes", 
+      "note": "Supports our new publication model in computer engineering where all research artifacts (tools, benchmarks, datasets, models) are continuously shared and validated by the community [$#cm_29db2248aba45e59_40a4b58adfb594a8#$,$#cm_77154d189d2e226c_7dd14d78bfdb9af2#$,$#cm_77154d189d2e226c_9aad4281e1c4e42a#$,$#cm_77154d189d2e226c_cc51a9904ca8ad12#$,$#cm_77154d189d2e226c_b48be4e687d9401f#$,$#cm_77154d189d2e226c_be9926d412125773#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Awards [$#cm_5ae0ce43ceb4d73c_ab884a345fe99806#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Guest lectures [$#cm_7b226dd503e5461e_b0d0a774a6da0ac1#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Associated publications [$#cm_29db2248aba45e59_cd11e3a188574d80#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Associated events [$#cm_77154d189d2e226c_7dd14d78bfdb9af2#$,$#cm_77154d189d2e226c_9aad4281e1c4e42a#$,$#cm_77154d189d2e226c_cc51a9904ca8ad12#$,$#cm_77154d189d2e226c_b48be4e687d9401f#$,$#cm_77154d189d2e226c_be9926d412125773#$]"
+    }, 
     {
       "italic": "yes",
-      "note": "Associated events [$#cm_77154d189d2e226c_ba9ff465bb24fbb6#$, $#cm_77154d189d2e226c_62b66f207403dbbb#$, $#cm_77154d189d2e226c_4bf48a6e31437834#$, $#cm_77154d189d2e226c_7a7848344740d897#$]"
-    },
-    {
-      "italic": "yes",
-      "note": "Associated open repository [$#cm_4d63887b5cda54aa_df354bed9593719c#$]"
+      "note": "Associated live repository [$#cm_4d63887b5cda54aa_df354bed9593719c#$]"
     }
   ],
   "start_iso_date": "2014-11-01",
