@@ -1,0 +1,21 @@
+{
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }
+  ], 
+  "end_iso_date": "2004-12-31", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "I started implementing a plugin framework and a plugin for GCC to transparently tune optimization heuristic and embed special function to collect run-time info about behavior of real programs and data sets in real environments from multiple users. Originally, I connected my framework to MySQL database, but it could not cope with huge amount of data. Therefore, I tried to implement another solution - sharing best optimizations/speedups via P2P networks such as overnet, bittorent and edonkey. Unfortunately, the solution became rather complex and unstable due to a lack of stable and universally acceptable P2P tools. So, I had to move back to MySQL database in the EU FP6 MILEPOST project [$#cm_d76ac3bb9a3f744c_38aa288519b38bf7#$]. However, I later implemented my own P2P sharing mechanism with noSQL Hadoop-based repository in [$#cm_d76ac3bb9a3f744c_be42dc8eef7d2041#$, $#cm_d76ac3bb9a3f744c_bd5c924415bae775#$] while investigating capabilities of new third-party P2P tools."
+    }
+  ], 
+  "start_iso_date": "2004-06-01", 
+  "title": "Code, data and experiment sharing tool", 
+  "to": "decentralize collection of huge amount of experiments during tuning GCC optimization heuristic", 
+  "type": {
+    "name": "software"
+  }, 
+  "urls": []
+}

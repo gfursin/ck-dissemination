@@ -1,0 +1,23 @@
+{
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }
+  ],
+  "end_iso_date": "1991-08-20",
+  "notes": [
+    {
+      "italic": "yes",
+      "note": "My first autotuning experience - at that time, we had removable disks with only 360Kb, and it was extremely challenging to archive files on multiple disks. As a practical solution, I created a tool that checked free space on all disks and size of all files to randomly find the best packing strategy (within amount of time specified by a user). Interestingly, it worked as good as a greedy algorithm but about an order of magnitude faster which was important on very slow computers of that time. This was my first successful autotuning experience that I reused in all my further research."
+    }
+  ],
+  "start_iso_date": "1991-08-01",
+  "title": "Productivity tool",
+  "to": "automatically pack files to remote and removable disks with limited space using fast and random strategy instead of greedy one",
+  "type": {
+    "name": "software"
+  },
+  "urls": [
+  ]
+}
+
