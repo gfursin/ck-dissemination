@@ -37,7 +37,7 @@
   "document_urls": [
     "http://arxiv.org/abs/1506.06256"
   ], 
-  "live": "yes", 
+  "live": "no", 
   "local_bib": "doc.bib", 
   "local_doc": "doc.pdf", 
   "notes": [
@@ -78,5 +78,11 @@
     "scope": "international"
   }, 
   "when": "2015", 
-  "where": "18th International Workshop on Compilers for Parallel Computing (CPC'15), London, UK"
+  "where": "18th International Workshop on Compilers for Parallel Computing (CPC'15), London, UK",
+  "urls": [
+    {
+      "title": "Some reddit discussions",
+      "url": "https://www.reddit.com/r/programming/comments/3bh9v0/so_all_software_engineers_need_is_a_collective"
+    }
+  ]
 }
