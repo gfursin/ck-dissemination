@@ -2,220 +2,221 @@
   "template_for_generator": [
     {
       "choice": [
-        "Novel",
-        "New",
+        "Novel", 
+        "New", 
         "Reproducible"
       ]
-    },
+    }, 
     {
       "text": " "
-    },
+    }, 
     {
       "choice": [
-        "technique",
-        "approach",
-        "tool",
-        "infrastructure",
-        "framework",
+        "technique", 
+        "approach", 
+        "tool", 
+        "infrastructure", 
+        "framework", 
         "methodology"
       ]
-    },
+    }, 
     {
       "text": " for "
-    },
+    }, 
     {
       "choice": [
-        "holistic",
-        "global",
-        "universal",
-        "open",
-        "systematic",
-        "realistic",
+        "holistic", 
+        "global", 
+        "universal", 
+        "open", 
+        "systematic", 
+        "realistic", 
         "practical"
       ]
-    },
+    }, 
     {
       "text": " and "
-    },
+    }, 
     {
       "choice": [
-        "intelligent",
-        "smart",
-        "predictive analytics based",
-        "big data based",
-        "active learning based",
-        "machine learning based",
-        "SVM-based",
-        "KNN-based",
-        "neural network based",
-        "dynamic features based",
-        "MICA based",
-        "static features based",
-        "semantic features based",
-        "CFG based",
-        "code pattern based",
-        "probabilistic",
-        "stochastic",
-        "reactive",
-        "phase-based",
+        "intelligent", 
+        "smart", 
+        "predictive analytics based", 
+        "big data based", 
+        "active learning based", 
+        "machine learning based", 
+        "SVM-based", 
+        "KNN-based", 
+        "neural network based", 
+        "dynamic features based", 
+        "MICA based", 
+        "static features based", 
+        "semantic features based", 
+        "CFG based", 
+        "code pattern based", 
+        "probabilistic", 
+        "stochastic", 
+        "reactive", 
+        "phase-based", 
         "hardware counters based"
       ]
-    },
+    }, 
     {
       "text": " "
-    },
+    }, 
     {
       "choice": [
-        "autotuning",
-        "autotuning",
-        "iterative compilation",
-        "modeling",
-        "optimization space exploration",
-        "design space exploration",
-        "algorithm tuning",
-        "compiler optimization",
-        "run-time adaptation",
-        "dynamic adaptation",
-        "scheduling",
-        "parallelization",
+        "autotuning", 
+        "autotuning", 
+        "iterative compilation", 
+        "modeling", 
+        "optimization space exploration", 
+        "design space exploration", 
+        "algorithm tuning", 
+        "compiler optimization", 
+        "run-time adaptation", 
+        "dynamic adaptation", 
+        "scheduling", 
+        "parallelization", 
         "SW/HW co-design"
       ]
-    },
+    }, 
     {
       "text": " to "
-    },
+    }, 
     {
       "choice": [
-        "improve performance",
-        "improve accuracy",
-        "reduce energy usage",
-        "reduce code size",
-        "reduce optimization time",
-        "balance multiple characteristics",
-        "balance algorithm accuracy, power consumption and speed",
-        "reduce power consumption",
-        "improve reliability",
-        "reduce usage costs",
+        "improve performance", 
+        "improve accuracy", 
+        "reduce energy usage", 
+        "reduce code size", 
+        "reduce optimization time", 
+        "balance multiple characteristics", 
+        "balance algorithm accuracy, power consumption and speed", 
+        "reduce power consumption", 
+        "improve reliability", 
+        "reduce usage costs", 
         "balance performance and energy"
       ]
-    },
+    }, 
     {
       "text": " for "
-    },
+    }, 
     {
       "choice": [
-        "Intel MIC processors",
-        "ARM processors",
-        "GPGPUs",
-        "accelerators",
-        "FPGAs",
-        "neural network accelerators",
-        "architecture simulator",
-        "AMD processors",
-        "NVidia GPU processors",
-        "STMicroelectronics processors",
-        "architecture simulator",
-        "multi-core architectures",
-        "many-core architecture",
-        "heterogeneous systems",
+        "Intel MIC processors", 
+        "ARM processors", 
+        "GPGPUs", 
+        "accelerators", 
+        "FPGAs", 
+        "neural network accelerators", 
+        "architecture simulator", 
+        "AMD processors", 
+        "NVidia GPU processors", 
+        "STMicroelectronics processors", 
+        "architecture simulator", 
+        "multi-core architectures", 
+        "many-core architecture", 
+        "heterogeneous systems", 
         "reconfigurable systems"
       ]
-    },
+    }, 
     {
       "text": " in "
-    },
+    }, 
     {
       "choice": [
-        "mobile phones",
-        "tablets",
-        "laptops",
-        "supercomputers",
-        "HPC servers",
-        "GRID systems",
-        "cloud services",
+        "mobile phones", 
+        "tablets", 
+        "laptops", 
+        "supercomputers", 
+        "HPC servers", 
+        "GRID systems", 
+        "cloud services", 
         "data centers"
       ]
-    },
+    }, 
     {
       "text": " using "
-    },
+    }, 
     {
       "choice": [
-        "GCC",
-        "LLVM",
-        "ICC",
-        "XLC compiler",
-        "Java",
-        "Jikes",
-        "Testarossa compiler",
-        "ROSE source-to-source compiler",
-        "Polly",
-        "JIT compiler",
+        "GCC", 
+        "LLVM", 
+        "ICC", 
+        "XLC compiler", 
+        "Java", 
+        "Jikes", 
+        "Testarossa compiler", 
+        "ROSE source-to-source compiler", 
+        "Polly", 
+        "JIT compiler", 
         "source-to-source compiler"
       ]
-    },
+    }, 
     {
       "text": " with "
-    },
+    }, 
     {
       "choice": [
-        "polyhedral transformations",
-        "inlining",
-        "unrolling",
-        "tiling",
-        "prefetching",
-        "OpenCL",
-        "CUDA",
-        "MPI",
-        "thread pinning",
-        "contention aware scheduling",
-        "binary to binary transformation",
+        "polyhedral transformations", 
+        "inlining", 
+        "unrolling", 
+        "tiling", 
+        "prefetching", 
+        "OpenCL", 
+        "OpenMP", 
+        "CUDA", 
+        "MPI", 
+        "thread pinning", 
+        "contention aware scheduling", 
+        "binary to binary transformation", 
         "loop fusion/fission"
       ]
-    },
+    }, 
     {
       "text": " via "
-    },
+    }, 
     {
       "choice": [
-        "exhaustive search",
-        "focused search",
-        "probabilistic search",
-        "random search",
-        "genetic search",
-        "decremental analysis",
-        "hill climbing",
-        "adaptive sampling",
+        "exhaustive search", 
+        "focused search", 
+        "probabilistic search", 
+        "random search", 
+        "genetic search", 
+        "decremental analysis", 
+        "hill climbing", 
+        "adaptive sampling", 
         "crowdsourcing"
       ]
-    },
+    }, 
     {
       "text": " with "
-    },
+    }, 
     {
       "choice": [
-        "multiple",
-        "10",
-        "100",
-        "1000",
-        "10000",
-        "100000",
+        "multiple", 
+        "10", 
+        "100", 
+        "1000", 
+        "10000", 
+        "100000", 
         "100000"
       ]
-    },
+    }, 
     {
       "text": " "
-    },
+    }, 
     {
       "choice": [
-        "kernels",
-        "microbenchmarks",
-        "codelets",
-        "programs",
-        "datasets",
+        "kernels", 
+        "microbenchmarks", 
+        "codelets", 
+        "programs", 
+        "datasets", 
         "benchmarks"
       ]
-    },
+    }, 
     {
       "text": "."
     }
