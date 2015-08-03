@@ -1,4 +1,11 @@
-ck-dissemination
-================
+Research dissemination via CK
+=============================
 
-Grigori Fursin's shared code and data from past R&D
+Shared Grigori Fursin's research notes, conferences, workshops,
+papers and artifacts to enable collaborative and reproducible R&D 
+in computer engineering.
+
+Installation
+============
+
+> ck pull repo:ck-dissemination --url=https://github.com/gfursin/ck-dissemination.git
