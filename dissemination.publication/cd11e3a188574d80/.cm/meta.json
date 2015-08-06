@@ -17,7 +17,7 @@
     {
       "affiliation": "1", 
       "name": "0728a400aa1c86fe", 
-      "url": "http://cTuning.org/lab/people/gfursin"
+      "url": "http://fursin.net/research"
     }, 
     {
       "affiliation": "2", 
@@ -37,7 +37,7 @@
   "document_urls": [
     "http://arxiv.org/abs/1506.06256"
   ], 
-  "live": "no", 
+  "live": "yes", 
   "local_bib": "doc.bib", 
   "local_doc": "doc.pdf", 
   "notes": [
@@ -52,7 +52,7 @@
     {
       "bold": "yes", 
       "italic": "yes", 
-      "note": "This work extends my previous article [$#cm_29db2248aba45e59_6f40bc99c4f7df58#$]"
+      "note": "This work extends our previous article [$#cm_29db2248aba45e59_6f40bc99c4f7df58#$]"
     }, 
     {
       "italic": "yes", 
@@ -65,7 +65,7 @@
     {
       "bold": "yes", 
       "italic": "yes", 
-      "note": "This work supports my initiative on open research and publication model where all experimental results and related material is continuously shared, validated and improved by the community [$#cm_29db2248aba45e59_40a4b58adfb594a8#$]. To set up an example, I continue sharing all benchmarks, datasets, tools, models and experimental results and iteractive articles in our public Collective Knowledge repository [$#cm_4d63887b5cda54aa_df354bed9593719c#$]."
+      "note": "This work supports our initiative on open research and publication model where all experimental results and related material is continuously shared, validated and improved by the community [$#cm_29db2248aba45e59_40a4b58adfb594a8#$]. To set up an example, we continue sharing all benchmarks, datasets, tools, models and experimental results in Collective Mind repository (c-mind.org/repo) and in a new version: Collective Knowledge Repository (cknowledge.org/repo) "
     }
   ], 
   "place": "London, UK", 
