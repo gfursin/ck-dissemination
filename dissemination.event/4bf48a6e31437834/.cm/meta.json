@@ -24,6 +24,10 @@
   },
   "urls": [
     {
+      "title": "Intro presentation (HAL)",
+      "url": "https://hal.archives-ouvertes.fr/hal-00818989/file/Presentation_Fursin_HiPEAC_spring_computing_week_2012.pdf"
+    },
+    {
       "title": "Website",
       "url": "http://www.hipeac.net/thematic-session/collective-characterization-optimization-and-design-computer-systems"
     },
