@@ -8,7 +8,9 @@
       ]
     }, 
     {
-      "text": " ",
+      "text": " "
+    }, 
+    {
       "choice": [
         "technique", 
         "approach", 
@@ -19,7 +21,9 @@
       ]
     }, 
     {
-      "text": " for ",
+      "text": " for "
+    }, 
+    {
       "choice": [
         "holistic", 
         "global", 
@@ -32,7 +36,9 @@
     }, 
     {
       "text": " and ",
-      "probability":0.5,
+      "probability":0.5
+    }, 
+    {
       "choice": [
         "intelligent", 
         "multi-objective", 
@@ -59,12 +65,14 @@
       ]
     }, 
     {
-      "text": " ",
+      "text": " "
+    }, 
+    {
       "choice": [
         "autotuning", 
         "auto-tuning", 
         "iterative compilation", 
-        "behavior modeling", 
+        "modeling", 
         "optimization space exploration", 
         "design space exploration", 
         "algorithm tuning", 
@@ -78,7 +86,9 @@
     }, 
     {
       "text": " to ",
-      "probability":0.4, 
+      "probability":0.2 
+    }, 
+    {
       "choice": [
         "improve performance", 
         "improve accuracy", 
@@ -95,7 +105,9 @@
     }, 
     {
       "text": " for ",
-      "probability":0.2, 
+      "probability":0.2 
+    }, 
+    {
       "choice": [
         "Intel MIC processors", 
         "ARM processors", 
@@ -116,7 +128,9 @@
     }, 
     {
       "text": " in ",
-      "probability":0.2, 
+      "probability":0.2 
+    }, 
+    {
       "choice": [
         "mobile phones", 
         "tablets", 
@@ -130,7 +144,9 @@
     }, 
     {
       "text": " using ",
-      "probability":0.2, 
+      "probability":0.2 
+    }, 
+    {
       "choice": [
         "GCC", 
         "LLVM", 
@@ -147,7 +163,9 @@
     }, 
     {
       "text": " with ",
-      "probability":0.1, 
+      "probability":0.1 
+    }, 
+    {
       "choice": [
         "polyhedral transformations", 
         "inlining", 
@@ -166,7 +184,9 @@
     }, 
     {
       "text": " via ",
-      "probability":0.4, 
+      "probability":0.4 
+    }, 
+    {
       "choice": [
         "exhaustive search", 
         "focused search", 
@@ -182,7 +202,9 @@
     {
       "text": " with ",
       "probability":0.2, 
-      "select_with_next":"yes",
+      "select_with_next":"yes"
+    }, 
+    {
       "choice": [
         "multiple", 
         "10", 
@@ -194,7 +216,9 @@
       ]
     }, 
     {
-      "text": " ",
+      "text": " "
+    }, 
+    {
       "choice": [
         "kernels", 
         "microbenchmarks", 
