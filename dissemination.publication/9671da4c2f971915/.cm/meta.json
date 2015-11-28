@@ -1,0 +1,84 @@
+{
+  "affiliations": {
+    "1": {
+      "name": "dividiti, UK"
+    }, 
+    "2": {
+      "name": "cTuning foundation, France"
+    },
+    "3": {
+      "name": "ARM, UK"
+    }
+  }, 
+  "authors": [
+    {
+      "affiliation": "1,2", 
+      "name": "0728a400aa1c86fe", 
+      "url": "http://fursin.net/research"
+    }, 
+    {
+      "affiliation": "2", 
+      "name": "07b8b4bd98945c99",
+      "url":"https://www.hipeac.net/~anton"
+    },
+    {
+      "affiliation": "3", 
+      "name": "9ef7494a7096fbb9",
+      "url":""
+    }
+  ], 
+  "bib_ref": "cm:29db2248aba45e59:9671da4c2f971915", 
+  "cor_author_email": "Grigori.Fursin@cTuning.org", 
+  "document_urls": [
+  ], 
+  "live": "no", 
+  "local_bib": "doc.bib", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Partially funded by [$#cm_c47ad9a552aa7e82_754ccb9a76688c53#$]"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "This work summarizes our long-term vision on enabling systematic benchmarking and cost-aware computer engineering autotuning using methodology from physics, biology and other natural sciences"
+    }, 
+    {
+      "italic": "yes", 
+      "note": "Related Collective Knowledge infrastructure and repository (CK) [$#cm_d76ac3bb9a3f744c_be42dc8eef7d2041#$]"
+    } 
+  ], 
+  "place": "Dresden, Germany", 
+  "publish_iso_date": "2015-03-14", 
+  "title": "Collective Knowledge: towards $#cm_cv_r_and_d#$ sustainability", 
+  "tags":["ck","reproducibility","benchmarking","arm","dividiti","ctuning","collective knowledge","autotuning","crowdtuning","crowdsource iterative compilation"],
+  "type": {
+    "name": "conference", 
+    "peer_reviewed": "yes", 
+    "scope": "international"
+  }, 
+  "urls": [
+    {
+      "title": "Collective Knowledge Framework", 
+      "url": "http://github.com/ctuning/ck"
+    },
+    {
+      "title": "Collective Knowledge Live demo repository", 
+      "url": "http://cknowledge.org/repo"
+    },
+    {
+      "title": "Community-driven gemmbench (OpenCL)", 
+      "url": "http://github.com/dividiti/gemmbench"
+    },
+    {
+      "title": "Related artifact evaluation for CGO and PPoPP'16", 
+      "url": "http://cTuning.org"
+    },
+    {
+      "title": "Related lecture at the University of Manchester", 
+      "url": "http://www.slideshare.net/GrigoriFursin/ck-from-ad-hoc-computer-engineering-to-collaborative-and-reproducible-data-science"
+    }
+  ], 
+  "when": "March 2016", 
+  "where": "DATE 2016: Design, automation and test in Europe",
+  "where_url":"http://www.date-conference.com/"
+}

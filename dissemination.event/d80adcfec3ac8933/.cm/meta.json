@@ -1,0 +1,44 @@
+{
+  "authors": [
+    {
+      "affiliation": "University of Edinburgh, UK",
+      "name": "a8524659a1e72739"
+    },
+    {
+      "affiliation": "cTuning foundation, France",
+      "name": "0728a400aa1c86fe"
+    }
+  ],
+  "colocated": "HiPEAC 2015",
+  "notes": [
+    {
+      "italic": "yes",
+      "note": "Keynote: \"Accelerating Datacenter Services with Reconfigurable Logic\" by Aaron Smith (Microsoft, USA)"
+    },
+    {
+      "italic": "yes",
+      "note": "Sponsored by Nvidia, USA and cTuning foundation, France"
+    }
+  ],
+  "place": "Amsterdam, the Netherlands",
+  "start_iso_date": "2015-01-21",
+  "title": "5th International workshop on Adaptive Self-Tuning Computing Systems (ADAPT) with a special focus on reproducibility",
+  "type": {
+    "name": "workshop"
+  },
+  "urls": [
+    {
+      "title": "Website",
+      "url": "http://adapt-workshop.org/2015"
+    },
+    {
+      "title": "Final program",
+      "url": "http://adapt-workshop.org/2015/program.htm"
+    },
+    {
+      "title": "One of ADAPT'15 papers has an interesting discussion on Slashdot",
+      "url": "http://hardware.slashdot.org/story/15/01/29/1528208/proposed-disk-array-with-99999-availablity-for-4-years-sans-maintenance"
+    }
+  ],
+  "when": "January 2015"
+}

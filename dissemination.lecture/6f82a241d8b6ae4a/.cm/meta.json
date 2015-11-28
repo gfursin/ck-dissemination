@@ -1,0 +1,27 @@
+{
+  "authors": [
+    {
+      "affiliation": "dividiti, UK / cTuning foundation, France",
+      "name": "0728a400aa1c86fe"
+    }
+  ],
+  "notes": [],
+  "place": "University of Manchester (UK)",
+  "start_iso_date": "2015-11",
+  "title": "Guest lecture",
+  "type": {
+    "name": "lecturer"
+  },
+  "when": "",
+  "why": "on \"Collective Knowledge Technology: from ad hoc computer engineering to collaborative and reproducible data science\"",
+  "urls": [
+    {
+      "title": "Online info", 
+      "url": "http://www.cs.manchester.ac.uk/our-research/seminars/?seminarid=182"
+    },
+    {
+      "title": "Slides", 
+      "url": "http://www.slideshare.net/GrigoriFursin/ck-from-ad-hoc-computer-engineering-to-collaborative-and-reproducible-data-science"
+    }
+  ]
+}

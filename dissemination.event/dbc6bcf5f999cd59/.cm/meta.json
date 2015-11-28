@@ -1,0 +1,44 @@
+{
+  "authors": [
+    {
+      "affiliation": "cTuning foundation, France / dividiti, UK",
+      "name": "0728a400aa1c86fe"
+    },
+    {
+      "affiliation": "University of Edinburgh, UK",
+      "name": "a8524659a1e72739"
+    }
+  ],
+  "colocated": "HiPEAC 2016",
+  "notes": [
+    {
+      "italic": "yes",
+      "note": "Keynote: \"Benchmarks vs The Zombie Apocalypse: A comparison\" by Ed Plowman (Director Performance Analysis Strategy, ARM, UK)"
+    },
+    {
+      "italic": "yes",
+      "note": "Authors of several articles have shared their artifacts in our open Collective Knowledge format"
+    },
+    {
+      "italic": "yes",
+      "note": "Sponsored by cTuning foundation, France and dividiti, UK"
+    }
+  ],
+  "place": "Prague, Czech Republic",
+  "start_iso_date": "2016-01-18",
+  "title": "6th International workshop on Adaptive Self-Tuning Computing Systems (ADAPT) with a new open publication model and public Reddit discussions",
+  "type": {
+    "name": "workshop"
+  },
+  "urls": [
+    {
+      "title": "Website",
+      "url": "http://adapt-workshop.org"
+    },
+    {
+      "title": "Public discussion of submissions",
+      "url": "https://www.reddit.com/r/adaptworkshop"
+    }
+  ],
+  "when": "January 2016"
+}
