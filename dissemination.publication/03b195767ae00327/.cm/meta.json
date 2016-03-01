@@ -1,0 +1,73 @@
+{
+  "affiliations": {
+    "1": {
+      "name": "dividiti, UK"
+    }, 
+    "2": {
+      "name": "cTuning foundation, France"
+    }
+  }, 
+  "authors": [
+    {
+      "affiliation": "1", 
+      "name": "07b8b4bd98945c99",
+      "url":"https://www.hipeac.net/~anton"
+    },
+    {
+      "affiliation": "1,2", 
+      "name": "0728a400aa1c86fe", 
+      "url": "http://fursin.net/research"
+    } 
+  ], 
+  "bib_ref": "cm:29db2248aba45e59:03b195767ae00327", 
+  "cor_author_email": "anton@dividiti.com", 
+  "document_urls": [
+    "http://research.ac.upc.edu/multiprog/papers/multiprog-16.pdf"
+  ], 
+  "live": "no", 
+  "local_bib": "doc.bib", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Related Collective Knowledge infrastructure and repository (CK) [$#cm_d76ac3bb9a3f744c_77fc1a8944a8ba51#$]"
+    } 
+  ], 
+  "place": "Prague, Czech Republic", 
+  "publish_iso_date": "2016-01-18", 
+  "title": "Collaborative design and optimization using Collective Knowledge", 
+  "tags":["ck","reproducibility","benchmarking","arm","dividiti","ctuning","collective knowledge","autotuning","crowdtuning","crowdsource iterative compilation"],
+  "type": {
+    "name": "workshop", 
+    "peer_reviewed": "yes", 
+    "scope": "international"
+  }, 
+  "urls": [
+    {
+      "title": "Collective Knowledge Live demo repository", 
+      "url": "http://cknowledge.org/repo"
+    },
+    {
+      "title": "Collective Knowledge Framework", 
+      "url": "http://github.com/ctuning/ck"
+    },
+    {
+      "title": "Android app for CK for collaborative program optimization and machine learning using mobile devices", 
+      "url": "https://play.google.com/store/apps/details?id=openscience.crowdsource.experiments"
+    },
+    {
+      "title": "Community-driven gemmbench (OpenCL)", 
+      "url": "http://github.com/dividiti/gemmbench"
+    },
+    {
+      "title": "Related artifact evaluation for CGO and PPoPP'16", 
+      "url": "http://cTuning.org"
+    },
+    {
+      "title": "Related lecture at the University of Manchester", 
+      "url": "http://www.slideshare.net/GrigoriFursin/ck-from-ad-hoc-computer-engineering-to-collaborative-and-reproducible-data-science"
+    }
+  ], 
+  "when": "January 2016", 
+  "where": "MULTIPROG 2016: Programmability and Architectures for Heterogeneous Multicores",
+  "where_url":"http://http://research.ac.upc.edu/multiprog"
+}

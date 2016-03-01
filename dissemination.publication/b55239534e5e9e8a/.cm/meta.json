@@ -1,0 +1,44 @@
+{
+  "authors": [
+    {
+      "affiliation": "University of Pittsburgh, USA",
+      "name": "951b4c09aa9529c0"
+    },
+    {
+      "affiliation": "dividiti, UK / cTuning foundation, France",
+      "name": "0728a400aa1c86fe"
+    },
+    {
+      "affiliation": "Brown University, USA",
+      "name": "a947c37abc204ea5"
+    },
+    {
+      "affiliation": "Saarland University, Germany",
+      "name": "d493dad6b3a46f42"
+    }
+  ],
+  "bib_ref": "cm:29db2248aba45e59:b55239534e5e9e8a", 
+  "document_urls": [
+  ], 
+  "live": "no", 
+  "local_bib": "doc.bib", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Related Dagstuhl Perspectives Workshop 15452 [$#cm_77154d189d2e226c_cc51a9904ca8ad12#$]"
+    } 
+  ], 
+  "place": "Prague, Czech Republic", 
+  "publish_iso_date": "2016-03-01", 
+  "title": "Artifact Evaluation for Publications", 
+  "type": {
+    "name": "workshop", 
+    "peer_reviewed": "no", 
+    "scope": "international"
+  }, 
+  "urls": [
+  ], 
+  "when": "March 2016", 
+  "where": "Dagstuhl Perspectives Workshop 15452",
+  "where_url":"http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=15452"
+}
