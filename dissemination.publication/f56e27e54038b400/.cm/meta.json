@@ -1,0 +1,69 @@
+{
+  "affiliations": {
+    "1": {
+      "name": "dividiti, UK"
+    }, 
+    "2": {
+      "name": "cTuning foundation, France"
+    }
+  }, 
+  "authors": [
+    {
+      "affiliation": "1", 
+      "name": "07b8b4bd98945c99",
+      "url":"https://www.hipeac.net/~anton"
+    },
+    {
+      "affiliation": "1,2", 
+      "name": "0728a400aa1c86fe", 
+      "url": "http://fursin.net/research"
+    } 
+  ], 
+  "bib_ref": "cm:29db2248aba45e59:f56e27e54038b400", 
+  "cor_author_email": "anton@dividiti.com", 
+  "document_urls": [
+    "http://dx.doi.org/10.1145/2909437.2909449"
+  ], 
+  "live": "no", 
+  "local_bib": "doc.bib", 
+  "notes": [
+    {
+      "italic": "yes", 
+      "note": "Related Collective Knowledge infrastructure and repository (CK) [$#cm_d76ac3bb9a3f744c_77fc1a8944a8ba51#$]"
+    } 
+  ], 
+  "place": "Vienna, Austria", 
+  "publish_iso_date": "2016-04-21", 
+  "title": "Nearly Everything You Need to Know About Optimizing Convolutional Neural Networks on Embedded Platforms with OpenCL", 
+  "tags":["cnn","dnn","opencl","crowd-tuning","crowd-benchmarking","mobile devices"],
+  "type": {
+    "name": "workshop", 
+    "peer_reviewed": "yes", 
+    "scope": "international"
+  }, 
+  "urls": [
+    {
+      "title": "Slides", 
+      "url": "http://www.iwocl.org/wp-content/uploads/iwocl-2016-cnn-with-opencl.pdf"
+    },
+    {
+      "title": "Collective Knowledge Live demo repository", 
+      "url": "http://cknowledge.org/repo"
+    },
+    {
+      "title": "Collective Knowledge Framework", 
+      "url": "http://github.com/ctuning/ck"
+    },
+    {
+      "title": "Android app for CK for collaborative program optimization and machine learning using mobile devices", 
+      "url": "https://play.google.com/store/apps/details?id=openscience.crowdsource.experiments"
+    },
+    {
+      "title": "Community-driven gemmbench (OpenCL)", 
+      "url": "http://github.com/dividiti/gemmbench"
+    }
+  ], 
+  "when": "April 2016", 
+  "where": "International Workshop on OpenCL (IWOCL)",
+  "where_url":"http://www.iwocl.org/conf-2016"
+}
