@@ -1,0 +1,37 @@
+{
+  "authors": [
+    {
+      "affiliation": "Lancaster University, UK",
+      "name": "178de750faa2e05b"
+    },
+    {
+      "affiliation": "University of Edinburgh, UK",
+      "name": "1ae45caac9f52386"
+    },
+    {
+      "affiliation": "University of Pittsburgh, USA",
+      "name": "951b4c09aa9529c0"
+    },
+    {
+      "affiliation": "dividiti, UK / cTuning foundation, France",
+      "name": "0728a400aa1c86fe"
+    }
+  ],
+  "place": "Haifa, Israel",
+  "start_iso_date": "2016-09-11",
+  "title": "Artifact evaluation for PACT'16",
+  "type": {
+    "name": "artifact_evaluation"
+  },
+  "urls": [
+    {
+      "title": "AE website",
+      "url": "http://ctuning.org/ae/pact2016.html"
+    },
+    {
+      "title": "PACT'16 website",
+      "url": "http://pactconf.org"
+    }
+  ],
+  "when": "September 2016"
+}

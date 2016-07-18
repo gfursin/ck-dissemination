@@ -1,0 +1,33 @@
+{
+  "authors": [
+    {
+      "affiliation": "University of Pittsburgh, USA",
+      "name": "771854e1f9ab21af"
+    },
+    {
+      "affiliation": "University of Pittsburgh, USA",
+      "name": "951b4c09aa9529c0"
+    },
+    {
+      "affiliation": "cTuning foundation, France / dividiti, UK",
+      "name": "0728a400aa1c86fe"
+    }
+  ],
+  "place": "Austin, Texas, USA",
+  "start_iso_date": "2017-02-05",
+  "title": "Artifact evaluation for PPoPP'17",
+  "type": {
+    "name": "artifact_evaluation"
+  },
+  "urls": [
+    {
+      "title": "AE website",
+      "url": "http://ctuning.org/ae/ppopp2017.html"
+    },
+    {
+      "title": "PPoPP'17 website",
+      "url": "http://conf.researchr.org/home/ppopp-2017"
+    }
+  ],
+  "when": "February 2017"
+}

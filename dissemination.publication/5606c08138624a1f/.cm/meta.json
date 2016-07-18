@@ -11,22 +11,18 @@
   ],
   "bib": "",
   "bib_ref": "cm:29db2248aba45e59:5606c08138624a1f",
-  "cm_archive": "",
-  "cm_file_upload_name": "",
-  "cm_file_upload_type": "",
   "language": "English",
   "local_bib": "doc.bib",
   "place": "France",
-  "publish_iso_date": "2014-01-01",
+  "publish_iso_date": "2016-06-17",
   "reproducible": "yes",
-  "title": "",
+  "title": "Crowdtuning : Towards Practical and Reproducible Auto-tuning via Crowdsourcing and Predictive Analytics",
   "title_orig": "",
   "type": {
     "name": "phd_thesis",
     "peer_reviewed": "yes",
     "scope": "international"
   },
-  "unfinished": "yes",
-  "when": "2014",
-  "where": "UVSQ"
+  "when": "2016",
+  "where": "University of Paris-Saclay (France)"
 }
