@@ -1,0 +1,12 @@
+{
+  "authors": [
+    {
+      "name": "Grigori Fursin",
+      "url": "http://fursin.net/research.html"
+    }
+  ],
+  "live": "yes",
+  "template": "blog.html",
+  "media_wiki_commands":"yes",
+  "title": "Summer CK digest (blog article, 2016-09-15)"
+}
