@@ -102,6 +102,8 @@
       "probability":0.2, 
       "choice": [
         "Intel MIC processors", 
+        "Intel AI processors", 
+        "AI processors", 
         "ARM processors", 
         "GPGPUs", 
         "accelerators", 
@@ -191,6 +193,9 @@
       "probability":0.2, 
       "select_with_next":"yes",
       "choice": [
+        "BLAS",
+        "SLAM",
+        "DNN",
         "multiple", 
         "10", 
         "100", 
