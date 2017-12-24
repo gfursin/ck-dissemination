@@ -42,7 +42,15 @@
     {
       "italic": "yes",
       "note": "Uses Collective Knowledge Framework to share resulting workflows and artifacts in a common format for a unified and unbiased benchmarking and to let the community reuse and build upon best found solutions"
-    }
+    },
+    {
+      "italic": "yes", 
+      "note": "Supports our new publication model in computer engineering where all research artifacts (tools, benchmarks, datasets, models) are continuously shared and validated by the community [$#cm_29db2248aba45e59_40a4b58adfb594a8#$,$#cm_77154d189d2e226c_7dd14d78bfdb9af2#$,$#cm_77154d189d2e226c_9aad4281e1c4e42a#$,$#cm_77154d189d2e226c_cc51a9904ca8ad12#$,$#cm_77154d189d2e226c_b48be4e687d9401f#$,$#cm_77154d189d2e226c_be9926d412125773#$]"
+    },
+    {
+      "italic": "yes", 
+      "note": "Related publications [$#cm_29db2248aba45e59_cd11e3a188574d80#$, $#cm_29db2248aba45e59_9671da4c2f971915#$, $#cm_29db2248aba45e59_6f40bc99c4f7df58#$, $#cm_29db2248aba45e59_0c44d9a2db3de3c9#$]"
+    } 
   ],
   "place": "Williamsburg, VA, USA",
   "start_iso_date": "2018-03-24",
