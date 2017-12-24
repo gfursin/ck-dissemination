@@ -1,0 +1,29 @@
+{
+  "authors": [
+    {
+      "affiliation": "University of Glasgow, UK",
+      "name": "982c184425454c57"
+    },
+    {
+      "affiliation": "cTuning foundation, France / dividiti, UK",
+      "name": "0728a400aa1c86fe"
+    }
+  ],
+  "place": "Vienna, Austria",
+  "start_iso_date": "2018-02-24",
+  "title": "Artifact evaluation for CGO'18",
+  "type": {
+    "name": "artifact_evaluation"
+  },
+  "urls": [
+    {
+      "title": "AE website",
+      "url": "http://ctuning.org/ae/cgo2018.html"
+    },
+    {
+      "title": "CGO'18 website",
+      "url": "http://cgo.org/cgo2018"
+    }
+  ],
+  "when": "February 2018"
+}

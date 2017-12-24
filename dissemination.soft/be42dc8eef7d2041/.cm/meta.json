@@ -40,7 +40,11 @@
     }, 
     {
       "italic": "yes",
-      "note": "Associated live repository [$#cm_4d63887b5cda54aa_df354bed9593719c#$]"
+      "note": "Associated live repository [$#cm_4d63887b5cda54aa_df354bed9593719c#$] - hosting in Azure is sponsored by Microsoft"
+    },
+    {
+      "italic": "yes",
+      "note": "1st open, reproducible and Pareto efficient SW/HW co-design competition for deep learning (speed, accuracy, costs) uses CK to put ML and systems researchers on the same page and share produced artifacts as reusable, portable and customizable components (open science) [$#cm_77154d189d2e226c_30191f423b87244b#$]"
     }
   ],
   "start_iso_date": "2014-11-01",
@@ -51,15 +55,39 @@
   "urls": [
     {
       "title": "Website",
+      "url": "http://cKnowledge.org"
+    },
+    {
+      "title": "Partners / users",
+      "url": "http://cKnowledge.org/partners.html"
+    },
+    {
+      "title": "Use cases",
+      "url": "http://cKnowledge.org/use_cases.html"
+    },
+    {
+      "title": "Public repository to crowdsource optimizations",
+      "url": "http://cKnowledge.org/repo"
+    },
+    {
+      "title": "ACM project to integrate CK with Digital Library funded by Sloan Foundation",
+      "url": "https://dl.acm.org/docs/reproducibility.cfm"
+    },
+    {
+      "title": "Artifact Evaluation",
+      "url": "http://cTuning.org/ae"
+    },
+    {
+      "title": "Development GitHub Website",
       "url": "http://github.com/ctuning/ck"
     },
     {
-      "title": "Wiki",
+      "title": "Documentation",
       "url": "http://github.com/ctuning/ck/wiki"
     },
     {
-      "title": "cM Google Group discussions",
-      "url": "http://groups.google.com/group/collective-mind"
+      "title": "Google Group discussions",
+      "url": "https://groups.google.com/d/forum/collective-knowledge"
     }
   ],
   "why": "- Collective Knowledge (CK) is a light-weight, portable, modular and python-based framework, repository, web service and SDK to organize, describe, cross-link and share user code, data, experimental setups and meta information as unified and reusable components with JSON API via standard Git services (such as GITHUB or BitBucket)."

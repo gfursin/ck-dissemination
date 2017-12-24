@@ -1,0 +1,21 @@
+{
+  "backup_data_uid": "bb03fc8240248981",
+  "backup_module_uid": "77154d189d2e226c",
+  "backup_module_uoa": "dissemination.event",
+  "control": {
+    "author": "Grigori Fursin",
+    "author_email": "Grigori.Fursin@cTuning.org",
+    "author_webpage": "http://fursin.net",
+    "copyright": "See CK COPYRIGHT.txt for copyright details",
+    "engine": "CK",
+    "iso_datetime": "2017-01-11T16:54:08.296383",
+    "license": "See CK LICENSE.txt for licensing details",
+    "version": [
+      "1",
+      "8",
+      "6",
+      "1"
+    ]
+  },
+  "data_name": "2017-asplos"
+}

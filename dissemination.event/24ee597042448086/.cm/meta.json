@@ -1,0 +1,29 @@
+{
+  "authors": [
+    {
+      "affiliation": "MIT, USA",
+      "name": "878bb4d2e8577169"
+    },
+    {
+      "affiliation": "cTuning foundation, France / dividiti, UK",
+      "name": "0728a400aa1c86fe"
+    }
+  ],
+  "place": "Vienna, Austria",
+  "start_iso_date": "2018-02-24",
+  "title": "Artifact evaluation for PPoPP'18",
+  "type": {
+    "name": "artifact_evaluation"
+  },
+  "urls": [
+    {
+      "title": "AE website",
+      "url": "http://cTuning.org/ae/ppopp2018.html"
+    },
+    {
+      "title": "PPoPP'18 website",
+      "url": "http://conf.researchr.org/home/ppopp-2017"
+    }
+  ],
+  "when": "February 2018"
+}

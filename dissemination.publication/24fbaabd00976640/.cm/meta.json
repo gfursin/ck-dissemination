@@ -82,6 +82,10 @@
     {
       "italic": "yes",
       "note": "We added hardware counters to [$#cm_d76ac3bb9a3f744c_30489f4f8a9c7b1d#$, $#cm_d76ac3bb9a3f744c_69fd2f54eef853b1#$, $#cm_4d63887b5cda54aa_d93e4eb1860484b1#$] and used PCA to improve machine-learning based optimization prediction"
+    },
+    {
+      "italic": "yes",
+      "note": "Our paper received ACM CGO'17 test of time award: $#cm_5ae0ce43ceb4d73c_45605c458a9790c9#$"
     }
   ],
   "pages": "185-197",

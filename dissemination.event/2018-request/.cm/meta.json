@@ -1,0 +1,72 @@
+{
+  "authors": [
+    {
+      "affiliation": "University of Washington, USA",
+      "name": "8ebae5a1164dc291"
+    },
+    {
+      "affiliation": "University of Toronto, Canada",
+      "name": "6b499e9486a5536b"
+    },
+    {
+      "affiliation": "EPFL, Switzerland",
+      "name": "d1488e8c3a674fa8"
+    },
+    {
+      "affiliation": "cTuning foundation, France / dividiti, UK",
+      "name": "0728a400aa1c86fe"
+    },
+    {
+      "affiliation": "dividiti, UK",
+      "name": "07b8b4bd98945c99"
+    },
+    {
+      "affiliation": "University of Washington, USA",
+      "name": "5a7e00eedecd3a91"
+    },
+    {
+      "affiliation": "Cornell University, USA",
+      "name": "1cf026249ecae5b2"
+    },
+    {
+      "affiliation": "University of Cambridge, UK",
+      "name": "07f1639572f4e789"
+    }
+  ],
+  "colocated": "ACM ASPLOS 2018",
+  "notes": [
+    {
+      "italic": "yes",
+      "note": "Sponsored by ACM, cTuning foundation and dividiti"
+    },
+    {
+      "italic": "yes",
+      "note": "Uses Collective Knowledge Framework to share resulting workflows and artifacts in a common format for a unified and unbiased benchmarking and to let the community reuse and build upon best found solutions"
+    }
+  ],
+  "place": "Williamsburg, VA, USA",
+  "start_iso_date": "2018-03-24",
+  "title": "ReQuEST: 1st open, reproducible and Pareto efficient SW/HW co-design competition for deep learning (speed, accuracy, costs)",
+  "type": {
+    "name": "competition"
+  },
+  "urls": [
+    {
+      "title": "Website",
+      "url": "http://cKnowledge.org/request"
+    },
+    {
+      "title": "Reddit discussion",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/7hgrnw/n_1st_open_tournament_on_pareto_efficient_deep/"
+    },
+    {
+      "title": "Collective Knowledge Framework used to put systems and ML researchers on the same page and share AI artifacts as customized, reproducible, reusable and optimized components with a unified JSON API",
+      "url": "http://cKnowledge.org"
+    },
+    {
+      "title": "Collective Knowledge Repository used to share, compare and reproduce optimization results from the participants",
+      "url": "http://cKnowledge.org/repo"
+    }
+  ],
+  "when": "March 2018"
+}
