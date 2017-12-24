@@ -17,6 +17,10 @@
     {
       "italic": "yes",
       "note": "Associated publications [$#cm_29db2248aba45e59_03b195767ae00327#$, $#cm_29db2248aba45e59_9671da4c2f971915#$]"
+    },
+    {
+      "italic": "yes",
+      "note": "1st open, reproducible and Pareto efficient SW/HW co-design competition for deep learning (speed, accuracy, costs) uses CK to put ML and systems researchers on the same page and share produced artifacts as reusable, portable and customizable components (open science) [$#cm_77154d189d2e226c_30191f423b87244b#$]"
     }
   ],
   "start_iso_date": "2015-03-01",
@@ -27,8 +31,12 @@
   },
   "urls": [
     {
-      "title": "Google Play Website",
+      "title": "Program at Google Play Website",
       "url": "https://play.google.com/store/apps/details?id=openscience.crowdsource.experiments&hl=en"
+    },
+    {
+      "title": "Related program for deep learning at Google Play Website",
+      "url": "https://play.google.com/store/apps/details?id=openscience.crowdsource.video.experiments&hl=en"
     }
   ]
 }
