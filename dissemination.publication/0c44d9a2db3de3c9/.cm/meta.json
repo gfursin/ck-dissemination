@@ -4,7 +4,7 @@
       "name": "0728a400aa1c86fe"
     }
   ],
-  "bib": "@inproceedings{29db2248aba45e59:95137de9864bf4ac,\n\n  author =    {Grigori Fursin},\n  title =     {Collective Tuning Initiative: automating and accelerating development and optimization of computing systems},\n  booktitle = {Proceedings of the GCC Developers' Summit},\n  year =      {2009},\n  month =     {June},\n  location =  {Montreal, Canada},\n  keys =      {http://www.gccsummit.org/2009}\n}\n\n",
+  "bib": "@inproceedings{29db2248aba45e59:0c44d9a2db3de3c9,\n\n  author =    {Grigori Fursin},\n  title =     {Collective Tuning Initiative: automating and accelerating development and optimization of computing systems},\n  booktitle = {Proceedings of the GCC Developers' Summit},\n  year =      {2009},\n  month =     {June},\n  location =  {Montreal, Canada},\n  keys =      {http://www.gccsummit.org/2009}\n}\n\n",
   "bib_parsed": {
     "_code": "Fursin2009",
     "_type": "inproceedings",
@@ -23,7 +23,7 @@
     "title": "Collective Tuning Initiative: automating and accelerating development and optimization of computing systems",
     "year": "2009"
   },
-  "bib_ref": "cm:29db2248aba45e59:f98a6602e010cfd5",
+  "bib_ref": "cm:29db2248aba45e59:0c44d9a2db3de3c9",
   "document_urls": [
     "http://hal.archives-ouvertes.fr/docs/00/43/60/29/PDF/fursin.pdf"
   ],
