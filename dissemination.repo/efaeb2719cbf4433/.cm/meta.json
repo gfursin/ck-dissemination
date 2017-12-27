@@ -1,0 +1,46 @@
+{
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }
+  ],
+  "end_iso_date": "cur.",
+  "notes": [
+    {
+      "italic": "yes",
+      "note": "Developed by the non-profit cTuning foundation and dividiti"
+    },
+    {
+      "italic": "yes",
+      "note": "Opened to public in 2017"
+    },
+    {
+      "italic": "yes",
+      "note": "Supports our 1st open, reproducible and Pareto efficient SW/HW co-design competition for deep learning (speed, accuracy, costs) at ACM ASPLOS [$#cm_77154d189d2e226c_30191f423b87244b#$]"
+    },
+    {
+      "italic": "yes",
+      "note": "Powered by Collective Knowledge Framework [$#cm_d76ac3bb9a3f744c_be42dc8eef7d2041#$]"
+    }
+  ],
+  "start_iso_date": "2017-01-01",
+  "title": "Open repository of reusable, customizable, portable and optimized AI artifacts",
+  "to": "accelerate AI research and boost innovation",
+  "type": {
+    "name": "public_repository"
+  },
+  "urls": [
+    {
+      "title": "Collective AI initiative",
+      "url": "http://cknowledge.org/ai"
+    },
+    {
+      "title": "Locator of CK-based AI artifacts",
+      "url": "http://cknowledge.org/ai-artifacts"
+    },
+    {
+      "title": "CK repositories with AI artifacts",
+      "url": "https://github.com/ctuning/ck/wiki/Shared-repos"
+    }
+  ]
+}
