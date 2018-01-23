@@ -1,0 +1,63 @@
+{
+  "affiliations": {
+    "1": {
+      "name": "University of Washington, USA"
+    },
+    "2": {
+      "name": "dividiti, UK"
+    }, 
+    "3": {
+      "name": "cTuning foundation, France"
+    }
+  }, 
+  "authors": [
+    {
+      "affiliation": "1", 
+      "name": "5a7e00eedecd3a91",
+      "url":"https://homes.cs.washington.edu/~moreau"
+    },
+    {
+      "affiliation": "2", 
+      "name": "07b8b4bd98945c99",
+      "url":"https://www.hipeac.net/~anton"
+    },
+    {
+      "affiliation": "2,3", 
+      "name": "0728a400aa1c86fe", 
+      "url": "http://fursin.net/research"
+    } 
+  ], 
+  "bib_ref": "cm:29db2248aba45e59:0c7348dfbadd5b95", 
+  "cor_author_email": "grigori.fursin@cTuning.org", 
+  "document_urls": [
+    "https://arxiv.org/pdf/1801.06378.pdf"
+  ], 
+  "live": "no", 
+  "local_bib": "doc.bib", 
+  "place": "", 
+  "publish_iso_date": "2018-01-22", 
+  "title": "Introducing ReQuEST: an Open Platform for Reproducible and Quality-Efficient Systems-ML Tournaments", 
+  "tags":["request", "co-design", "pareto", "tournaments", "competitions", "asplos", "acm", "portable workflows", "portable artifacts", "reproducibility"],
+  "type": {
+    "name": "tech_report", 
+    "peer_reviewed": "no", 
+    "scope": "international"
+  }, 
+  "urls": [
+    {
+      "title": "arXiv", 
+      "url": "https://arxiv.org/abs/1801.06378"
+    },
+    {
+      "title": "ReQuEST tournament web page", 
+      "url": "http://cKnowledge.org/request"
+    },
+    {
+      "title": "CK live scoreboard with SW/HW/AI/ML co-design configurations", 
+      "url": "http://cKnowledge.org/repo"
+    }
+  ], 
+  "when": "January 2018", 
+  "where": "arXiv tech.report 1801:06378",
+  "where_url":""
+}
