@@ -1,0 +1,82 @@
+{
+  "affiliations": {
+    "1": {
+      "name": "dividiti, UK"
+    }, 
+    "2": {
+      "name": "cTuning foundation, France"
+    },
+    "3": {
+      "name": "Xored, Russia"
+    },
+    "4": {
+      "name": "Raspberry Pi foundation, UK"
+    },
+    "5": {
+      "name": "Broadcom, UK"
+    }
+  }, 
+  "authors": [
+    {
+      "affiliation": "1,2", 
+      "name": "0728a400aa1c86fe", 
+      "url": "http://fursin.net/research"
+    },
+    {
+      "affiliation": "1", 
+      "name": "07b8b4bd98945c99",
+      "url":"https://www.hipeac.net/~anton"
+    },
+    {
+      "affiliation": "3", 
+      "name": "6c6ff17a438a99ad",
+      "url":"https://www.linkedin.com/in/dsavenko"
+    },
+    {
+      "affiliation": "4,5", 
+      "name": "01978ecd84efaa57",
+      "url":"https://en.wikipedia.org/wiki/Eben_Upton"
+    }
+  ], 
+  "bib_ref": "cm:29db2248aba45e59:c4b24bff57f4ad07", 
+  "cor_author_email": "grigori.fursin@cTuning.org", 
+  "document_urls": [
+    "https://arxiv.org/pdf/1801.08024.pdf"
+  ], 
+  "live": "no", 
+  "local_bib": "doc.bib", 
+  "place": "", 
+  "publish_iso_date": "2018-01-25", 
+  "title": "A Collective Knowledge workflow for collaborative research into multi-objective autotuning and machine learning techniques", 
+  "tags":["open science", "portable workflows", "autotuning", "machine learning", "reproducible research", "customizable workflows", "raspberry pi", "reusable artifacts", "collaborative experimentation", "crowd-tuning", "crowd-learning"],
+  "type": {
+    "name": "tech_report", 
+    "peer_reviewed": "no", 
+    "scope": "international"
+  }, 
+  "urls": [
+    {
+      "title": "arXiv", 
+      "url": "http://arxiv.org/abs/1801.08024"
+    },
+    {
+      "title": "Interactive CK report", 
+      "url": "http://cKnowledge.org/rpi-crowd-tuning"
+    },
+    {
+      "title": "GitHub repository", 
+      "url": "https://github.com/ctuning/ck-rpi-optimization-results"
+    },
+    {
+      "title": "FigShare CK archives", 
+      "url": "https://doi.org/10.6084/m9.figshare.5789007.v2"
+    },
+    {
+      "title": "Live CK repository with latest crowd-tuning results", 
+      "url": "http://cKnowledge.org/repo"
+    }
+  ], 
+  "when": "January 2018", 
+  "where": "arXiv tech.report 1801.08024",
+  "where_url":""
+}
