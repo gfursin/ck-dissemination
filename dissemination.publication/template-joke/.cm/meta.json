@@ -101,6 +101,7 @@
       "text": " for ",
       "probability":0.2, 
       "choice": [
+        "quantum computers", 
         "Intel MIC processors", 
         "Intel AI processors", 
         "AI processors", 
