@@ -1,0 +1,63 @@
+{
+  "affiliations": {
+    "1": {
+      "name": "Rome Tre University, Italy"
+    }, 
+    "2": {
+      "name": "dividiti, UK"
+    },
+    "3": {
+      "name": "TomTom, Netherlands"
+    },
+    "4": {
+      "name": "cTuning foundation, France"
+    }
+  }, 
+  "authors": [
+    {
+      "affiliation": "1", 
+      "name": "00f063a6468f92f9" 
+    },
+    {
+      "affiliation": "2", 
+      "name": "a3ed754096bb8d9b"
+    },
+    {
+      "affiliation": "3", 
+      "name": "f32f5b6d20249eb9"
+    },
+    {
+      "affiliation": "2", 
+      "name": "07b8b4bd98945c99",
+      "url":"https://www.hipeac.net/~anton"
+    },
+    {
+      "affiliation": "2,4", 
+      "name": "0728a400aa1c86fe",
+      "url":"http://fursin.net/research"
+    }
+  ], 
+  "bib_ref": "cm:29db2248aba45e59:9db34a38349fba64", 
+  "document_urls": [
+    "https://arxiv.org/pdf/1806.07060.pdf"
+  ], 
+  "live": "no", 
+  "local_bib": "doc.bib", 
+  "place": "", 
+  "publish_iso_date": "2018-06-22", 
+  "title": "A model-driven approach for a new generation of adaptive libraries", 
+  "type": {
+    "name": "tech_report", 
+    "peer_reviewed": "no", 
+    "scope": "international"
+  }, 
+  "urls": [
+    {
+      "title": "arXiv", 
+      "url": "http://arxiv.org/abs/1806.07060"
+    }
+  ], 
+  "when": "June 2018", 
+  "where": "arXiv tech.report 1806.07060",
+  "where_url":""
+}

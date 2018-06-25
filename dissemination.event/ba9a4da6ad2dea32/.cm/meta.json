@@ -1,0 +1,52 @@
+{
+  "authors": [
+    {
+      "affiliation": "cTuning foundation, France / dividiti, UK",
+      "name": "0728a400aa1c86fe"
+    },
+    {
+      "affiliation": "University of Washington, USA",
+      "name": "5a7e00eedecd3a91"
+    },
+    {
+      "affiliation": "IBM, USA",
+      "name": "7f3fdc4785a61d55"
+    },
+    {
+      "affiliation": "Duke University, USA",
+      "name": "79d91ddce706b6fc"
+    },
+    {
+      "affiliation": "Cadence, USA",
+      "name": "679bf6f6384742c6"
+    },
+    {
+      "affiliation": "University of Washington, USA",
+      "name": "d89d9011dcabd114"
+    }
+  ],
+  "colocated": "ACM ReQuEST-ASPLOS'18",
+  "notes": [
+    {
+      "italic": "yes",
+      "note": "Participants: Hillery Hunter (IBM, USA), Yiran Chen (Duke University, USA), Charles Qi (Cadence, USA), Tianqi Chen (University of Washington, USA)"
+    }
+  ],
+  "place": "Williamsburg, VA, USA",
+  "start_iso_date": "2018-03-24",
+  "title": "Open panel and discussion on tackling complexity, reproducibility and tech transfer challenges in a rapidly evolving AI/ML/systems research",
+  "type": {
+    "name": "panel"
+  },
+  "urls": [
+    {
+      "title": "Website",
+      "url": "http://cknowledge.org/request-cfp-asplos2018.html"
+    },
+    {
+      "title": "ACM proceedings (DOI)",
+      "url": "https://dl.acm.org/citation.cfm?id=3233976"
+    }
+  ],
+  "when": "March 2018"
+}

@@ -1,0 +1,56 @@
+{
+  "affiliations": {
+    "1": {
+      "name": "dividiti, UK"
+    },
+    "2": {
+      "name": "Xored, Russia"
+    },
+    "3": {
+      "name": "cTuning foundation, France"
+    }
+  }, 
+  "authors": [
+    {
+      "affiliation": "1", 
+      "name": "07b8b4bd98945c99",
+      "url":"https://www.hipeac.net/~anton"
+    },
+    {
+      "affiliation": "2,1", 
+      "name": "a1bd404f8b2d0966" 
+    },
+    {
+      "affiliation": "1", 
+      "name": "a3ed754096bb8d9b"
+    },
+    {
+      "affiliation": "1,3", 
+      "name": "0728a400aa1c86fe",
+      "url":"http://fursin.net/research"
+    }
+  ], 
+  "bib_ref": "cm:29db2248aba45e59:e5e4b41c77440a9a", 
+  "document_urls": [
+    "https://dl.acm.org/citation.cfm?id=3229767"
+  ], 
+  "live": "no", 
+  "local_bib": "doc.bib", 
+  "place": "", 
+  "publish_iso_date": "2018-06-22", 
+  "title": "Multi-objective autotuning of MobileNets across the full software/hardware stack", 
+  "type": {
+    "name": "tech_report", 
+    "peer_reviewed": "no", 
+    "scope": "international"
+  }, 
+  "urls": [
+    {
+      "title": "ACM DL (DOI)", 
+      "url": "https://doi.org/10.1145/3229762.3229767"
+    }
+  ], 
+  "when": "June 2018", 
+  "where": "Proceedings of the 1st on Reproducible Quality-Efficient Systems Tournament on Co-designing Pareto-efficient Deep Learning (ReQuEST-ASPLOS'18)",
+  "where_url":""
+}

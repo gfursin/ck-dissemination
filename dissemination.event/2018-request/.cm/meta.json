@@ -64,6 +64,18 @@
       "url": "http://cKnowledge.org/request"
     },
     {
+      "title": "ACM proceedings",
+      "url": "https://doi.org/10.1145/3229762"
+    },
+    {
+      "title": "Online results report (proceedings front matter)",
+      "url": "https://portalparts.acm.org/3230000/3229762/fm/frontmatter.pdf"
+    },
+    {
+      "title": "All reusable CK workflows and components",
+      "url": "https://github.com/ctuning/ck-request-asplos18-results"
+    },
+    {
       "title": "Reddit discussion",
       "url": "https://www.reddit.com/r/MachineLearning/comments/7hgrnw/n_1st_open_tournament_on_pareto_efficient_deep/"
     },
@@ -72,8 +84,8 @@
       "url": "http://cKnowledge.org"
     },
     {
-      "title": "Collective Knowledge Repository used to share, compare and reproduce optimization results from the participants",
-      "url": "http://cKnowledge.org/repo"
+      "title": "Live ReQuEST scoreboard with reproducible results",
+      "url": "http://cKnowledge.org/requst-results"
     }
   ],
   "when": "March 2018"

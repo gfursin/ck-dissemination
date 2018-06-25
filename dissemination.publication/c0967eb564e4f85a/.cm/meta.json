@@ -1,0 +1,95 @@
+{
+  "affiliations": {
+    "1": {
+      "name": "University of Washington, USA"
+    },
+    "2": {
+      "name": "University of Toronto, Canada"
+    }, 
+    "3": {
+      "name": "EPFL, Switzerland"
+    },
+    "4": {
+      "name": "cTuning foundation, France / dividiti, UK"
+    },
+    "5": {
+      "name": "dividiti, UK"
+    },
+    "6": {
+      "name": "Cornell University, USA"
+    },
+    "7": {
+      "name": "University of Cambridge, UK"
+    }
+  }, 
+  "authors": [
+    {
+      "affiliation": "1", 
+      "name": "8ebae5a1164dc291"
+    },
+    {
+      "affiliation": "2", 
+      "name": "6b499e9486a5536b"
+    },
+    {
+      "affiliation": "3", 
+      "name": "d1488e8c3a674fa8"
+    },
+    {
+      "affiliation": "4", 
+      "name": "0728a400aa1c86fe",
+      "url":"http://fursin.net/research"
+    },
+    {
+      "affiliation": "5", 
+      "name": "07b8b4bd98945c99",
+      "url":"https://www.hipeac.net/~anton"
+    },
+    {
+      "affiliation": "1", 
+      "name": "5a7e00eedecd3a91",
+      "url":"https://homes.cs.washington.edu/~moreau"
+    },
+    {
+      "affiliation": "6", 
+      "name": "1cf026249ecae5b2"
+    } ,
+    {
+      "affiliation": "7", 
+      "name": "1cf026249ecae5b2"
+    } 
+  ], 
+  "bib_ref": "cm:29db2248aba45e59:c0967eb564e4f85a", 
+  "cor_author_email": "grigori.fursin@cTuning.org", 
+  "document_urls": [
+    "https://portalparts.acm.org/3230000/3229762/fm/frontmatter.pdf"
+  ], 
+  "live": "no", 
+  "local_bib": "doc.bib", 
+  "place": "", 
+  "publish_iso_date": "2018-06-23", 
+  "title": "Proceedings Front Matter: Introducing the 1st ACM ReQuEST Workshop/Tournament on Reproducible Software/Hardware Co-design of Pareto-Efficient Deep Learning", 
+  "tags":["request", "co-design", "pareto", "tournaments", "competitions", "asplos", "acm", "portable workflows", "portable artifacts", "reproducibility"],
+  "type": {
+    "name": "tech_report", 
+    "peer_reviewed": "no", 
+    "scope": "international"
+  }, 
+  "urls": [
+    {
+      "title": "Proceedings front-matter", 
+      "url": "https://portalparts.acm.org/3230000/3229762/fm/frontmatter.pdf"
+    },
+    {
+      "title": "ReQuEST-ASPLOS'18 ACM proceedings", 
+      "url": "https://dl.acm.org/citation.cfm?doid=3229762"
+    },
+    {
+      "title": "ReQuEST live scoreboard with SW/HW/AI/ML co-design configurations", 
+      "url": "http://cKnowledge.org/request-results"
+    }
+  ], 
+  "when": "June 2018", 
+  "where": "ACM Digital Library",
+  "where_url":"https://dl.acm.org/citation.cfm?doid=3229762"
+}
