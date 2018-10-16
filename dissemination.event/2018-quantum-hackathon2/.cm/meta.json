@@ -1,4 +1,5 @@
 {
+  "skip_authors":"yes",
   "notes": [
     {
       "italic": "yes",
@@ -13,12 +14,16 @@
   },
   "urls": [
     {
-      "title": "Website",
+      "title": "Event website",
       "url": "https://www.meetup.com/London-Quantum-Computing-Meetup/events/254156028"
     },
     {
       "title": "CK workflow",
       "url": "https://github.com/ctuning/ck-qiskit"
+    },
+    {
+      "title": "CK quantum website",
+      "url": "http://cKnowledge.org/quantum"
     }
   ],
   "when": "October 2018"
