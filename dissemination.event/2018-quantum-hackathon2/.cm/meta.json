@@ -1,0 +1,25 @@
+{
+  "notes": [
+    {
+      "italic": "yes",
+      "note": "Uses Collective Knowledge Framework to share resulting workflows and artifacts in a common format for a unified benchmarking and to let the community reuse and build upon best found solutions"
+    }
+  ],
+  "place": "London, UK",
+  "start_iso_date": "2018-10-06",
+  "title": "Quantum Computing Hack Day",
+  "type": {
+    "name": "competition"
+  },
+  "urls": [
+    {
+      "title": "Website",
+      "url": "https://www.meetup.com/London-Quantum-Computing-Meetup/events/254156028"
+    },
+    {
+      "title": "CK workflow",
+      "url": "https://github.com/ctuning/ck-qiskit"
+    }
+  ],
+  "when": "October 2018"
+}
