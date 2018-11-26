@@ -1,0 +1,21 @@
+{
+  "backup_data_uid": "e6060bbf4adb99e9",
+  "backup_module_uid": "77154d189d2e226c",
+  "backup_module_uoa": "dissemination.event",
+  "control": {
+    "author": "Grigori Fursin",
+    "author_email": "Grigori.Fursin@cTuning.org",
+    "author_webpage": "http://fursin.net",
+    "copyright": "See CK COPYRIGHT.txt for copyright details",
+    "engine": "CK",
+    "iso_datetime": "2018-11-26T16:24:37.627517",
+    "license": "See CK LICENSE.txt for licensing details",
+    "version": [
+      "1",
+      "9",
+      "6",
+      "1"
+    ]
+  },
+  "data_name": "2019-sysml-ae"
+}

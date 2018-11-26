@@ -1,0 +1,29 @@
+{
+  "authors": [
+    {
+      "affiliation": "University of Toronto, Canada",
+      "name": "bc761a9548b54908"
+    },
+    {
+      "affiliation": "dividiti, UK / cTuning foundation, France",
+      "name": "0728a400aa1c86fe"
+    }
+  ],
+  "place": "Stanford, CA",
+  "start_iso_date": "2019-04-31",
+  "title": "Artifact evaluation for SysML'19",
+  "type": {
+    "name": "artifact_evaluation"
+  },
+  "urls": [
+    {
+      "title": "AE website",
+      "url": "http://ctuning.org/ae/sysml2019.html"
+    },
+    {
+      "title": "SysML'19 website",
+      "url": "http://www.sysml.cc"
+    }
+  ],
+  "when": "March 2019"
+}
