@@ -31,16 +31,20 @@
   },
   "urls": [
     {
-      "title": "Collective AI initiative",
-      "url": "http://cknowledge.org/ai"
+      "title": "cKnowledge.org/repo",
+      "url": "http://cknowledge.org/repo"
     },
     {
-      "title": "Locator of CK-based AI artifacts",
+      "title": "Portable, customizable and reusable AI CK components",
+      "url": "http://cknowledge.org/shared-packages.html"
+    },
+    {
+      "title": "Locator of CK-based AI artifacts (beta)",
       "url": "http://cknowledge.org/ai-artifacts"
     },
     {
-      "title": "CK repositories with AI artifacts",
-      "url": "https://github.com/ctuning/ck/wiki/Shared-repos"
+      "title": "CK repositories",
+      "url": "http://cKnowledge.org/shared-repos.html"
     }
   ]
 }
