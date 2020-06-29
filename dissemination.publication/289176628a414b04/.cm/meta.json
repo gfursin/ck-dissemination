@@ -1,0 +1,43 @@
+{
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }
+  ],
+  "bib_ref": "cm:29db2248aba45e59:289176628a414b04",
+  "document_urls": [
+    "https://arxiv.org/pdf/2006.07161.pdf"
+  ],
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
+  "notes": [
+    {
+      "italic": "yes",
+      "note": "I summarized my experience working with companies, universities and non-profits to bridge the growing gap between AI, ML and systems research and practice with the help of collaborative knowledge management, portable workflows, reusable artifacts and best practices, unified meta descriptions, open APIs, and reproducible experiments."
+    }
+  ],
+  "urls": [
+    {
+      "title": "Collective Knowledge repository with portable workflows, reusable artifacts and scoreboards for collaborative and reproducible experiments", 
+      "url": "http://cKnowledge.io"
+    },
+    {
+      "title": "Collective Knowledge portal", 
+      "url": "http://cKnowledge.org"
+    },
+    {
+      "title": "Collective Knowledge Framework", 
+      "url": "http://github.com/ctuning/ck"
+    }
+  ], 
+  "publish_iso_date": "2020-06-22",
+  "reproducible": "yes",
+  "title": "The Collective Knowledge project: making ML models more portable and reproducible with open APIs, reusable best practices and MLOps", 
+  "type": {
+    "name": "tech_report",
+    "peer_reviewed": "no",
+    "scope": "international"
+  },
+  "when": "June 2020",
+  "where": "arXiv:2006.07161"
+}

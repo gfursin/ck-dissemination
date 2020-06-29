@@ -1,15 +1,17 @@
 {
-  "data_name": "ck-dissemination", 
-  "data_alias": "ck-dissemination", 
-  "data_uid": "754e85a102d75042", 
-  "data_uoa": "ck-dissemination", 
+  "data_alias": "ck-dissemination",
+  "data_name": "ck-dissemination",
+  "data_uid": "754e85a102d75042",
+  "data_uoa": "ck-dissemination",
   "dict": {
+    "desc": "Different artifacts from Grigori Fursin's R&D as reusable CK components (used to automatically generate this <a href=\"http://fursin.net/cv.html\">interactive CV</a>).",
     "repo_deps": [
       {
-        "repo_uoa": "ck-dissemination-modules" 
+        "repo_uoa": "ck-dissemination-modules",
+        "repo_url": "https://github.com/gfursin/ck-dissemination-modules.git"
       }
-    ], 
-    "url": "https://github.com/gfursin/ck-dissemination.git", 
-    "shared": "git"
+    ],
+    "shared": "git",
+    "url": "https://github.com/gfursin/ck-dissemination.git"
   }
 }
