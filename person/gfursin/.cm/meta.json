@@ -2,20 +2,20 @@
   "email": "Grigori.Fursin@cTuning.org", 
   "current_jobs": [
     {
-      "organization": "dividiti, UK",
-      "organization_web": "", 
-      "title": "CTO"
-    }, 
-    {
       "organization": "cTuning Foundation, France", 
       "organization_web": "http://cTuning.org", 
       "title": "Chief Scientist"
-    }
+    },
+    {
+      "organization": "cKnowledge SAS, France",
+      "organization_web": "https://cKnowledge.io", 
+      "title": "CEO"
+    } 
   ], 
   "large_image": "image_l.jpg", 
   "name": "Grigori Fursin", 
-  "personal_web_page": "http://fursin.net", 
-  "professional_web_page": "http://fursin.net", 
+  "personal_web_page": "https://fursin.net", 
+  "professional_web_page": "https://cKnowledge.io/@gfursin", 
   "publications": [
     "983680d43b0b033d"
   ], 

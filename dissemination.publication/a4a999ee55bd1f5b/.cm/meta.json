@@ -1,0 +1,27 @@
+{
+  "authors": [
+    {
+      "name": "0728a400aa1c86fe"
+    }
+  ],
+  "bib_ref": "cm:29db2248aba45e59:a4a999ee55bd1f5b",
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
+  "place": "",
+  "publish_iso_date": "2020-10-20",
+  "reproducible": "yes",
+  "title": "Collective Knowledge: organizing research projects as a database of reusable components and portable workflows with common APIs",
+  "urls": [
+    {
+      "title": "preprint", 
+      "url": "https://doi.org/10.6084/m9.figshare.12988361"
+    }
+  ],
+  "type": {
+    "name": "journal",
+    "peer_reviewed": "yes",
+    "scope": "international"
+  },
+  "when": "October 2020",
+  "where": "Accepted for Philosophical Transactions A of the Royal Society"
+}

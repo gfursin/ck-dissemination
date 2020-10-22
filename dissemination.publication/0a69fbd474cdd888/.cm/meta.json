@@ -1,0 +1,27 @@
+{
+  "authors": [
+    {"name":"8b8a92b1383df1e4"},
+    {"name":"00f063a6468f92f9"},
+    {"name":"aba5db34221991c7"},
+    {"name": "0728a400aa1c86fe"},
+    {"name":"07b8b4bd98945c99"},
+    {"name":"f32f5b6d20249eb9"},
+    {"name":"7977d39d0f90f2ce"},
+    {"name":"90962ba7d347f2fc"},
+    {"name":"a3ed754096bb8d9b"}
+  ],
+  "bib_ref": "cm:29db2248aba45e59:0a69fbd474cdd888",
+  "local_bib": "doc.bib",
+  "local_doc": "doc.pdf",
+  "place": "",
+  "publish_iso_date": "2020-10-20",
+  "reproducible": "yes",
+  "title": "On the Anatomy of Predictive Models for Accelerating GPU Convolution Kernels and Beyond",
+  "type": {
+    "name": "journal",
+    "peer_reviewed": "yes",
+    "scope": "international"
+  },
+  "when": "October 2020",
+  "where": "Accepted for the ACM Transactions on Architecture and Code Optimization (TACO)"
+}
